@@ -844,12 +844,12 @@ CCTV1 1080,http://live.dxhmt.cn:9081/tv/11527-1.m3u8
 新蔡 1080,http://live.dxhmt.cn:9081/tv/11729-1.m3u8
 济源 1080,http://live.dxhmt.cn:9081/tv/19001-1.m3u8
 湖南电视剧,https://wuzhij.com/mg.php?id=hndsj
-湖南电影,http://wz.42web.io/mg.php?id=hndy
-湖南娱乐,http://wz.42web.io/mg.php?id=hnyl
-湖南都市,http://wz.42web.io/mg.php?id=hnds         
-金鹰纪实,http://wz.42web.io/mg.php?id=jyjs
-湖南公共,http://wz.42web.io/mg.php?id=hngg
-金鹰卡通,http://wz.42web.io/mg.php?id=jykt
+湖南电影,https://wuzhij.com/mg.php?id=hndy
+湖南娱乐,https://wuzhij.com/mg.php?id=hnyl
+湖南都市,https://wuzhij.com/mg.php?id=hnds         
+金鹰纪实,https://wuzhij.com/mg.php?id=jyjs
+湖南公共,https://wuzhij.com/mg.php?id=hngg
+金鹰卡通,https://wuzhij.com/mg.php?id=jykt
 
 💞经典电影,#genre#
 地雷战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a90c788a458e40508615d711b8aae1af/850.m3u8
