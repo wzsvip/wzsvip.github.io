@@ -843,7 +843,7 @@ CCTV1 1080,http://live.dxhmt.cn:9081/tv/11527-1.m3u8
 遂平 1080,http://live.dxhmt.cn:9081/tv/11728-1.m3u8
 新蔡 1080,http://live.dxhmt.cn:9081/tv/11729-1.m3u8
 济源 1080,http://live.dxhmt.cn:9081/tv/19001-1.m3u8
-湖南电视剧,http://wz.42web.io/mg.php?id=hndsj
+湖南电视剧,https://wuzhij.com/mg.php?id=hndsj
 湖南电影,http://wz.42web.io/mg.php?id=hndy
 湖南娱乐,http://wz.42web.io/mg.php?id=hnyl
 湖南都市,http://wz.42web.io/mg.php?id=hnds         
