@@ -682,6 +682,7 @@ janapi.jd.com
 pinduoduo.com
 bytescm.com
 pglstatp-toutiao.com
+vvbiquge.cc
 3prndxd.cn
 4btcqjy.cn
 corioliss.cn
@@ -749,6 +750,7 @@ ups.youku.com/ups/get.json
 ://*.tv/ad
 :1010/openv5.js
 :2048/b.js
+.cc/m.js
 :2048/jsb?
 :52789/gg/
 :538/attachment/js/
