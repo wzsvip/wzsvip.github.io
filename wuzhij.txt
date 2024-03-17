@@ -582,6 +582,7 @@ s0.2mdn.net/ads/
 stats.tubemogul.com/stats/
 ad.m.iqiyi.com
 afp.qiyi.com
+bi15.cc
 api.cupid.iqiyi.com
 c.uaa.iqiyi.com
 ckm.iqiyi.com
