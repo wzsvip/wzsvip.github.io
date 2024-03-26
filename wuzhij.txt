@@ -814,6 +814,7 @@ _xiuno_com_ad/
 |http://*/js/ad.
 |http://*/js/ad/
 |http://*/js/tc.js
+|https://*/toutiao.mp4
 |http://*/s.js?sp=*&r=$3p
 |http://ad.
 |http://gg.$3p
@@ -864,6 +865,10 @@ _xiuno_com_ad/
 /adposid/*
 /adscpc/*
 /adtmp/*
+/rest/e/v2/open/log/*
+/api/ad/union/sdk/get_ads/*
+/api/ad/*
+/obj/*
 /ashow.aspx?aid=
 /blog/showdetail.php?z=$3p
 /c/i.php?id=$3p
@@ -871,6 +876,7 @@ _xiuno_com_ad/
 /cf.aspx?action=cycadget&
 /code/cpc.asp?
 /code/cpm.asp?
+/ad/v4/*
 /code/cpv.asp?
 /code/mypop.asp?
 /code/pccpcv.php
