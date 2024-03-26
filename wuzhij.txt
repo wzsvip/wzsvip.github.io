@@ -719,6 +719,14 @@ ccs.holor0803.cn
 sky.hxxntru.cn
 img12.360buyimg.com
 nichibenren.or.jp
+p1-lm.adkwai.com
+adservice.sigmob.cn
+open.e.kuaishou.com
+dc.sigmob.cn
+p2-lm.adukwai.com
+sf3-fe-tos.pglstatp-toutiao.com
+api-access.pangolin-sdk-toutiao.com
+sdk.e.qq.com
 nicorette.co.kr
 ssl-youtube.2cnt.net
 youtube.112.2o7.net
