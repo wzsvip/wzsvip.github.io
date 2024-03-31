@@ -27,19 +27,14 @@
         <button id="download" onclick="downloadFile()" style="display:none;">下载</button>
     </div>
     <script>
+        var latestVersion = 100176; // 初始版本号
+
         function getLatestVersion() {
-            var xhr = new XMLHttpRequest();
-            xhr.onreadystatechange = function() {
-                if (xhr.readyState == 4 && xhr.status == 200) {
-                    var latestVersion = parseInt(xhr.responseText);
-                    var url = "http://msedl.360safe.com/360mse/bcdbgimoikiapdjnifgghhgcfoclpchk/" + latestVersion + "/bcdbgimoikiapdjnifgghhgcfoclpchk.txt";
-                    document.getElementById("url").value = url;
-                    document.getElementById("getRules").style.display = "none";
-                    document.getElementById("download").style.display = "inline";
-                }
-            };
-            xhr.open("GET", "http://msedl.360safe.com/360mse/bcdbgimoikiapdjnifgghhgcfoclpchk/100176/bcdbgimoikiapdjnifgghhgcfoclpchk.txt", true);
-            xhr.send();
+            latestVersion += 100; // 每次点击按钮时，版本号加100
+            var url = "http://msedl.360safe.com/360mse/bcdbgimoikiapdjnifgghhgcfoclpchk/" + latestVersion + "/bcdbgimoikiapdjnifgghhgcfoclpchk.txt";
+            document.getElementById("url").value = url;
+            document.getElementById("getRules").style.display = "none";
+            document.getElementById("download").style.display = "inline";
         }
 
         function downloadFile() {
