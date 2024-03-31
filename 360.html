@@ -40,12 +40,12 @@
                         document.getElementById("getRules").style.display = "none";
                         document.getElementById("download").style.display = "inline";
                     } else {
-                        latestVersion -= 100; // 如果无效，则返回上一个有效的版本号
+                        latestVersion -= 1; // 如果无效，则返回上一个有效的版本号
                         getLatestVersion(); // 递归调用，直到找到有效的版本号
                     }
                 })
                 .catch(error => {
-                    latestVersion -= 100; // 如果发生错误，则返回上一个有效的版本号
+                    latestVersion -= 1; // 如果发生错误，则返回上一个有效的版本号
                     getLatestVersion(); // 递归调用，直到找到有效的版本号
                 });
         }
