@@ -32,9 +32,22 @@
         function getLatestVersion() {
             latestVersion += 100; // 每次点击按钮时，版本号加100
             var url = "http://msedl.360safe.com/360mse/bcdbgimoikiapdjnifgghhgcfoclpchk/" + latestVersion + "/bcdbgimoikiapdjnifgghhgcfoclpchk.txt";
-            document.getElementById("url").value = url;
-            document.getElementById("getRules").style.display = "none";
-            document.getElementById("download").style.display = "inline";
+            // 检测新版本号是否有效，如果无效则返回上一个有效的版本号
+            fetch(url)
+                .then(response => {
+                    if (response.ok) {
+                        document.getElementById("url").value = url;
+                        document.getElementById("getRules").style.display = "none";
+                        document.getElementById("download").style.display = "inline";
+                    } else {
+                        latestVersion -= 100; // 如果无效，则返回上一个有效的版本号
+                        getLatestVersion(); // 递归调用，直到找到有效的版本号
+                    }
+                })
+                .catch(error => {
+                    latestVersion -= 100; // 如果发生错误，则返回上一个有效的版本号
+                    getLatestVersion(); // 递归调用，直到找到有效的版本号
+                });
         }
 
         function downloadFile() {
