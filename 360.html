@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>360广告规则</title>
+    <style>
+        .center {
+            text-align: center;
+        }
+        .left {
+            float: left;
+        }
+        .border {
+            border: 1px solid gray;
+        }
+    </style>
+</head>
+<body>
+    <div class="center">
+        <h1>360广告规则</h1>
+        <p>换一行再换一行</p>
+    </div>
+    <div class="left">
+        <input type="text" id="url" class="border" readonly>
+        <button id="getRules" onclick="getLatestVersion()">获取规则</button>
+        <button id="download" onclick="downloadFile()" style="display:none;">下载</button>
+    </div>
+    <script>
+        function getLatestVersion() {
+            var xhr = new XMLHttpRequest();
+            xhr.onreadystatechange = function() {
+                if (xhr.readyState == 4 && xhr.status == 200) {
+                    var latestVersion = parseInt(xhr.responseText);
+                    var url = "http://msedl.360safe.com/360mse/bcdbgimoikiapdjnifgghhgcfoclpchk/" + latestVersion + "/bcdbgimoikiapdjnifgghhgcfoclpchk.txt";
+                    document.getElementById("url").value = url;
+                    document.getElementById("getRules").style.display = "none";
+                    document.getElementById("download").style.display = "inline";
+                }
+            };
+            xhr.open("GET", "http://msedl.360safe.com/360mse/bcdbgimoikiapdjnifgghhgcfoclpchk/100176/bcdbgimoikiapdjnifgghhgcfoclpchk.txt", true);
+            xhr.send();
+        }
+
+        function downloadFile() {
+            var url = document.getElementById("url").value;
+            var link = document.createElement('a');
+            link.href = url;
+            link.download = 'rules.txt';
+            link.click();
+        }
+    </script>
+</body>
+</html>
