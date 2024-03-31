@@ -30,7 +30,7 @@
         var latestVersion = 100176; // 初始版本号
 
         function getLatestVersion() {
-            latestVersion += 100; // 每次点击按钮时，版本号加100
+            latestVersion += 1; // 每次点击按钮时，版本号加1
             var url = "http://msedl.360safe.com/360mse/bcdbgimoikiapdjnifgghhgcfoclpchk/" + latestVersion + "/bcdbgimoikiapdjnifgghhgcfoclpchk.txt";
             // 检测新版本号是否有效，如果无效则返回上一个有效的版本号
             fetch(url)
