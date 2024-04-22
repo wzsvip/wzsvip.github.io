@@ -16,27 +16,17 @@
     "nav": [
         {
             "title": "首页",
-            "icon": "https://img2.imgtp.com/2024/04/23/ZXoPpOjj.png",
+            "icon": "https://calc.wuzhij.com/icon/index.png",
             "url": "https://calc.wuzhij.com/Weight.html"
         },
         {
             "title": "数量",
-            "icon": "https://img2.imgtp.com/2024/04/23/s3IHJ93m.png",
+            "icon": "https://calc.wuzhij.com/icon/quantity.jpg",
             "url": "https://calc.wuzhij.com/Quantity.html"
-        },
-                {
-            "title": "目录",
-            "icon": "https://img2.imgtp.com/2024/04/23/9yUol5ht.png",
-            "url": "https://web.agespa-01.com:8443/#/catalog"
-        },
-        {
-            "title": "推荐",
-            "icon": "https://vip.cqkeb.com/icon/recommend.png",
-            "url": "https://web.agespa-01.com:8443/#/recommend"
         },
         {
             "title": "折扣",
-            "icon": "https://img2.imgtp.com/2024/04/23/umotrF0Q.png",
+            "icon": "https://calc.wuzhij.com/icon/discount.jpg",
             "url": "https://calc.wuzhij.com/Discount.html"
         }
     ]
