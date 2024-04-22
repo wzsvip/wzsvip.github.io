@@ -16,17 +16,17 @@
     "nav": [
         {
             "title": "首页",
-            "icon": "https://calc.wuzhij.com/img/index.png",
+            "icon": "https://img2.imgtp.com/2024/04/23/ZXoPpOjj.png",
             "url": "https://calc.wuzhij.com/Weight.html"
         },
         {
             "title": "数量",
-            "icon": "https://calc.wuzhij.com/img/quantity.jpg",
+            "icon": "https://img2.imgtp.com/2024/04/23/s3IHJ93m.png",
             "url": "https://calc.wuzhij.com/Quantity.html"
         },
         {
             "title": "折扣",
-            "icon": "https://calc.wuzhij.com/img/discount.jpg",
+            "icon": "https://img2.imgtp.com/2024/04/23/umotrF0Q.png",
             "url": "https://calc.wuzhij.com/Discount.html"
         }
     ]
