@@ -1,12 +1,12 @@
 {
     "launch": {
         "pic": [
-            "https://testingcf.jsdelivr.net/gh/wuzhij/pic@master/pic/1713797933918.jpg",
-            "https://testingcf.jsdelivr.net/gh/wuzhij/pic@master/pic/1713797999764.JPG",
-            "https://testingcf.jsdelivr.net/gh/wuzhij/pic@master/pic/1713798326328.jpg",
-            "https://testingcf.jsdelivr.net/gh/wuzhij/pic@master/pic/1713798397190.jpg",
-            "https://testingcf.jsdelivr.net/gh/wuzhij/pic@master/pic/1713798657088.jpg",
-            "https://testingcf.jsdelivr.net/gh/wuzhij/pic@master/pic/1713798741500.jpg"
+            "https://img2.imgtp.com/2024/04/23/VD5ae3bE.jpg",
+            "https://img2.imgtp.com/2024/04/23/6xErK6kg.jpg",
+            "https://img2.imgtp.com/2024/04/23/HPmfi1ft.jpg",
+            "https://img2.imgtp.com/2024/04/23/kshKXRLr.jpg",
+            "https://img2.imgtp.com/2024/04/23/o3GMlYTy.JPG",
+            "https://img2.imgtp.com/2024/04/23/NHrKigHc.jpg"
         ],
         "url": ""
     },
@@ -16,17 +16,17 @@
     "nav": [
         {
             "title": "首页",
-            "icon": "https://testingcf.jsdelivr.net/gh/wuzhij/pic@master/pic/1713793531227.png",
+            "icon": "https://calc.wuzhij.com/img/index.png",
             "url": "https://calc.wuzhij.com/Weight.html"
         },
         {
             "title": "数量",
-            "icon": "https://testingcf.jsdelivr.net/gh/wuzhij/pic@master/pic/1713793557628.png",
+            "icon": "https://calc.wuzhij.com/img/quantity.jpg",
             "url": "https://calc.wuzhij.com/Quantity.html"
         },
         {
             "title": "折扣",
-            "icon": "https://testingcf.jsdelivr.net/gh/wuzhij/pic@master/pic/1713793577871.png",
+            "icon": "https://calc.wuzhij.com/img/discount.jpg",
             "url": "https://calc.wuzhij.com/Discount.html"
         }
     ]
