@@ -24,6 +24,11 @@
             "icon": "https://calc.wuzhij.com/icon/quantity.jpg",
             "url": "https://calc.wuzhij.com/Quantity.html"
         },
+                {
+            "title": "首页",
+            "icon": "https://calc.wuzhij.com/icon/index.png",
+            "url": "https://web.agespa-01.com:8443/#/"
+        },
         {
             "title": "折扣",
             "icon": "https://calc.wuzhij.com/icon/discount.jpg",
