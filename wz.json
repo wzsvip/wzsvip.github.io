@@ -1,0 +1,33 @@
+{
+    "launch": {
+        "pic": [
+            "https://testingcf.jsdelivr.net/gh/wuzhij/pic@master/pic/1713797933918.jpg",
+            "https://testingcf.jsdelivr.net/gh/wuzhij/pic@master/pic/1713797999764.JPG",
+            "https://testingcf.jsdelivr.net/gh/wuzhij/pic@master/pic/1713798326328.jpg",
+            "https://testingcf.jsdelivr.net/gh/wuzhij/pic@master/pic/1713798397190.jpg",
+            "https://testingcf.jsdelivr.net/gh/wuzhij/pic@master/pic/1713798657088.jpg",
+            "https://testingcf.jsdelivr.net/gh/wuzhij/pic@master/pic/1713798741500.jpg"
+        ],
+        "url": ""
+    },
+    "appversion": "1.0.0",
+    "url": "https://calc.wuzhij.com/api/config.json",
+    "about": "https://calc.wuzhij.com/about.html",
+    "nav": [
+        {
+            "title": "首页",
+            "icon": "https://testingcf.jsdelivr.net/gh/wuzhij/pic@master/pic/1713793531227.png",
+            "url": "https://calc.wuzhij.com/Weight.html"
+        },
+        {
+            "title": "数量",
+            "icon": "https://testingcf.jsdelivr.net/gh/wuzhij/pic@master/pic/1713793557628.png",
+            "url": "https://calc.wuzhij.com/Quantity.html"
+        },
+        {
+            "title": "折扣",
+            "icon": "https://testingcf.jsdelivr.net/gh/wuzhij/pic@master/pic/1713793577871.png",
+            "url": "https://calc.wuzhij.com/Discount.html"
+        }
+    ]
+}
