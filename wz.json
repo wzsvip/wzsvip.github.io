@@ -11,12 +11,12 @@
         "url": ""
     },
     "appversion": "1.0.0",
-    "url": "https://calc.wuzhij.com/api/config.json",
+    "url": "https://calc.wuzhij.com/Weight.html",
     "about": "https://calc.wuzhij.com/about.html",
     "nav": [
         {
             "title": "首页",
-            "icon": "https://img2.imgtp.com/2024/04/23/9yUol5ht.png",
+            "icon": "https://img2.imgtp.com/2024/04/23/ZXoPpOjj.png",
             "url": "https://calc.wuzhij.com/Weight.html"
         },
         {
