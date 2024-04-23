@@ -16,18 +16,12 @@
     "nav": [
         {
             "title": "首页",
-            "icon": "https://calc.wuzhij.com/icon/index.png",
             "url": "https://calc.wuzhij.com/Weight.html"
         },
         {
             "title": "数量",
             "icon": "https://calc.wuzhij.com/icon/quantity.jpg",
             "url": "https://calc.wuzhij.com/Quantity.html"
-        },
-                {
-            "title": "首页",
-            "icon": "https://vip.cqkeb.com/icon/index.png",
-            "url": "https://calc.wuzhij.com/Weight.html"
         },
         {
             "title": "折扣",
