@@ -23704,19 +23704,19 @@ http://tv.pull.hebtv.com/jishi/gonggongpindao.flv?t=2510710360&k=3656451936184a7
 #EXTINF:-1 tvg-name="河北公共" tvg-logo="https://live.fanmingming.com/tv/河北公共.png" group-title="📡地方频道",河北公共
 rtmp://tv.pull.hebtv.com/jishi/gonggongpindao?t=2510710360&k=6201048dbf6392c9f95d779a8783ce96
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="📡地方频道",东方卫视
-http://m.wuzhij.com/shanghai.php?id=dfws
+http://tvzb.viphost.vip/shanghai.php?id=dfws
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.com/tv/上海新闻综合.png" group-title="📡地方频道",上海新闻综合
-http://m.wuzhij.com/shanghai.php?id=shxwzh
+http://tvzb.viphost.vip/shanghai.php?id=shxwzh
 #EXTINF:-1 tvg-name="上海ics" tvg-logo="https://live.fanmingming.com/tv/上海ics.png" group-title="📡地方频道",上海ics
-http://m.wuzhij.com/shanghai.php?id=shics
+http://tvzb.viphost.vip/shanghai.php?id=shics
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="📡地方频道",上海都市
-http://m.wuzhij.com/shanghai.php?id=shds
+http://tvzb.viphost.vip/shanghai.php?id=shds
 #EXTINF:-1 tvg-name="第1财经" tvg-logo="https://live.fanmingming.com/tv/第1财经.png" group-title="📡地方频道",第1财经
-http://m.wuzhij.com/shanghai.php?id=dycj
+http://tvzb.viphost.vip/shanghai.php?id=dycj
 #EXTINF:-1 tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/上海纪实人文.png" group-title="📡地方频道",上海纪实人文
-http://m.wuzhij.com/shanghai.php?id=jsrw
+http://tvzb.viphost.vip/shanghai.php?id=jsrw
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="📡地方频道",哈哈炫动
-http://m.wuzhij.com/shanghai.php?id=hhxd
+http://tvzb.viphost.vip/shanghai.php?id=hhxd
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.com/tv/上海新闻综合.png" group-title="📡地方频道",上海新闻综合
 http://5f11df.tv.netsite.cc/proxy/1800137038/1800137038.m3u8
 #EXTINF:-1 tvg-name="上海外语频道" tvg-logo="https://live.fanmingming.com/tv/上海外语频道.png" group-title="📡地方频道",上海外语频道
@@ -31555,44 +31555,206 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhungry/CDN/1280x720_5000000
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhungry/CDN/playlist.m3u8
 #EXTINF:-1 tvg-name="Hunt Channel" tvg-logo="https://live.fanmingming.com/tv/Hunt Channel.png" group-title="🇺🇸美国",Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
+#EXTINF:-1 tvg-name="I Heart 80s" tvg-logo="https://live.fanmingming.com/tv/I Heart 80s.png" group-title="🇺🇸美国",I Heart 80s
+https://reflect-jacksonville.cablecast.tv/live/stream-1/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?duration=0
+#EXTINF:-1 tvg-name="I Heart 80s" tvg-logo="https://live.fanmingming.com/tv/I Heart 80s.png" group-title="🇺🇸美国",I Heart 80s
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="I Heart 90s" tvg-logo="https://live.fanmingming.com/tv/I Heart 90s.png" group-title="🇺🇸美国",I Heart 90s
+https://iheart-iheart90s-1-us.roku.wurl.tv/b21ce4df6c026704ab313895e61269ff.m3u8
+#EXTINF:-1 tvg-name="I Heart 90s" tvg-logo="https://live.fanmingming.com/tv/I Heart 90s.png" group-title="🇺🇸美国",I Heart 90s
+https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="iFood.TV" tvg-logo="https://live.fanmingming.com/tv/iFood.TV.png" group-title="🇺🇸美国",iFood.TV
+https://ifood-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="ICTV" tvg-logo="https://live.fanmingming.com/tv/ICTV.png" group-title="🇺🇸美国",ICTV
+https://cdn3.wowza.com/5/WDIrTW5sM1JEY1NN/irvine/G0016_010/playlist.m3u8
+#EXTINF:-1 tvg-name="IGN" tvg-logo="https://live.fanmingming.com/tv/IGN.png" group-title="🇺🇸美国",IGN
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561c5f613286e48904fb2677/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f97-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5bc7a5dd-89e0-4269-9904-f38427b71b7d
+#EXTINF:-1 tvg-name="Impact TV Network" tvg-logo="https://live.fanmingming.com/tv/Impact TV Network.png" group-title="🇺🇸美国",Impact TV Network
+https://tv.wuzhij.com/youtube/q3Pz3dWuReo?quality=1080
+#EXTINF:-1 tvg-name="IMPACT Wrestling" tvg-logo="https://live.fanmingming.com/tv/IMPACT Wrestling.png" group-title="🇺🇸美国",IMPACT Wrestling
+https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 tvg-name="In the Kitchen" tvg-logo="https://live.fanmingming.com/tv/In the Kitchen.png" group-title="🇺🇸美国",In the Kitchen
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/medhigh.m3u8
 #EXTINF:-1 tvg-name="Indiana Fever vs Phoenix Mercury" tvg-logo="https://live.fanmingming.com/tv/Indiana Fever vs Phoenix Mercury.png" group-title="🇺🇸美国",Indiana Fever vs Phoenix Mercury
 https://lnc-ion.tubi.video/playlist_1920x1080_4200k.m3u8
+#EXTINF:-1 tvg-name="Independent (Allentown)" tvg-logo="https://live.fanmingming.com/tv/Independent (Allentown).png" group-title="🇺🇸美国",Independent (Allentown)
+https://cdn.jaybirdtv.com/wfmz/channel/1/0.m3u8
+#EXTINF:-1 tvg-name="Independent (Jacksonville)" tvg-logo="https://live.fanmingming.com/tv/Independent (Jacksonville).png" group-title="🇺🇸美国",Independent (Jacksonville)
+https://dai.google.com/linear/hls/pa/event/RDmbn03GRCOLNG1eetEKhg/stream/1da095ed-8652-41f8-aeef-e82f1b98cc17:TUL/variant/10e01767d5954ab8c983f79ccd130ea8/bandwidth/5359200.m3u8
+#EXTINF:-1 tvg-name="Independent (Toledo)" tvg-logo="https://live.fanmingming.com/tv/Independent (Toledo).png" group-title="🇺🇸美国",Independent (Toledo)
+https://hls-live-media.cdn01.net/default/stream_10327.m3u8?source=othersites
+#EXTINF:-1 tvg-name="InfoWars" tvg-logo="https://live.fanmingming.com/tv/InfoWars.png" group-title="🇺🇸美国",InfoWars
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/infowars_720p/playlist.m3u8
+#EXTINF:-1 tvg-name="Ink Master" tvg-logo="https://live.fanmingming.com/tv/Ink Master.png" group-title="🇺🇸美国",Ink Master
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60807fd5db701400078219c2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f98-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ebedec3d-689a-4150-a2fd-4e2e34eb982c
+#EXTINF:-1 tvg-name="International Vietnamese Television" tvg-logo="https://live.fanmingming.com/tv/International Vietnamese Television.png" group-title="🇺🇸美国",International Vietnamese Television
+https://59d39900ebfb8.streamlock.net/8478/8478/playlist.m3u8
+#EXTINF:-1 tvg-name="Investiga" tvg-logo="https://live.fanmingming.com/tv/Investiga.png" group-title="🇺🇸美国",Investiga
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f99-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=28f850bd-0f1c-4ede-b97c-ebd1d9a28126
+#EXTINF:-1 tvg-name="Ion Mystery (Boston)" tvg-logo="https://live.fanmingming.com/tv/Ion Mystery (Boston).png" group-title="🇺🇸美国",Ion Mystery (Boston)
+https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist_4300k.m3u8
+#EXTINF:-1 tvg-name="ION Plus East" tvg-logo="https://live.fanmingming.com/tv/ION Plus East.png" group-title="🇺🇸美国",ION Plus East
+https://lnc-ion-plus.tubi.video/playlist_4300k.m3u8
+#EXTINF:-1 tvg-name="ION TV East" tvg-logo="https://live.fanmingming.com/tv/ION TV East.png" group-title="🇺🇸美国",ION TV East
+https://lnc-ion.tubi.video/playlist_1920x1080_4200k.m3u8
+#EXTINF:-1 tvg-name="IraneFarda TV" tvg-logo="https://live.fanmingming.com/tv/IraneFarda TV.png" group-title="🇺🇸美国",IraneFarda TV
+https://hls.iranfarda.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Iron Chef" tvg-logo="https://live.fanmingming.com/tv/Iron Chef.png" group-title="🇺🇸美国",Iron Chef
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6148c756ce8091000748d113/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0631b4f5-34e8-4fb8-b19f-04e5c118a18f
+#EXTINF:-1 tvg-name="Jersey Shore" tvg-logo="https://live.fanmingming.com/tv/Jersey Shore.png" group-title="🇺🇸美国",Jersey Shore
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/609bfa51fbecc1000733152e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d53c01b5-86bc-43d2-afd7-b739724c937c
+#EXTINF:-1 tvg-name="Jewelry TV" tvg-logo="https://live.fanmingming.com/tv/Jewelry TV.png" group-title="🇺🇸美国",Jewelry TV
+https://cdn.igocast.com/channel12_hls/channel12_master.m3u8
+#EXTINF:-1 tvg-name="Johnny Carson TV" tvg-logo="https://live.fanmingming.com/tv/Johnny Carson TV.png" group-title="🇺🇸美国",Johnny Carson TV
+https://johnnycarson-vizio.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-name="Journy" tvg-logo="https://live.fanmingming.com/tv/Journy.png" group-title="🇺🇸美国",Journy
+https://linear-291.frequency.stream/dist/ovationtv/291/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="K21JQ-D1" tvg-logo="https://live.fanmingming.com/tv/K21JQ-D1.png" group-title="🇺🇸美国",K21JQ-D1
+https://1189614805.rsc.cdn77.org/hls/bmt_648p/index.m3u8
+#EXTINF:-1 tvg-name="kabillion" tvg-logo="https://live.fanmingming.com/tv/kabillion.png" group-title="🇺🇸美国",kabillion
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb040d4795a6000762fe8f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=41487abb-ffc4-4eb8-b9af-df4b55bbeeae
+#EXTINF:-1 tvg-name="KBEV" tvg-logo="https://live.fanmingming.com/tv/KBEV.png" group-title="🇺🇸美国",KBEV
+https://s3-us-west-2.amazonaws.com/beverly-hills-high-school.castus-vod/live/ch1/video.m3u8
+#EXTINF:-1 tvg-name="KBRI-8" tvg-logo="https://live.fanmingming.com/tv/KBRI-8.png" group-title="🇺🇸美国",KBRI-8
+https://cdn3.wowza.com/5/R09KQXpaMWlrRjly/brightonco/G0883_001/playlist.m3u8
+#EXTINF:-1 tvg-name="KCAT" tvg-logo="https://live.fanmingming.com/tv/KCAT.png" group-title="🇺🇸美国",KCAT
+https://reflect-kcat-live.cablecast.tv/live-2/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?duration=0
+#EXTINF:-1 tvg-name="KCAT" tvg-logo="https://live.fanmingming.com/tv/KCAT.png" group-title="🇺🇸美国",KCAT
+https://reflect-kcat-live.cablecast.tv/live-2/live/live.m3u8
+#EXTINF:-1 tvg-name="KDOC-DT7" tvg-logo="https://live.fanmingming.com/tv/KDOC-DT7.png" group-title="🇺🇸美国",KDOC-DT7
+https://media.streambrothers.com:1936/8228/8228/playlist.m3u8
+#EXTINF:-1 tvg-name="Kentucky" tvg-logo="https://live.fanmingming.com/tv/Kentucky.png" group-title="🇺🇸美国",Kentucky
+https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/chunklist_b2000000.m3u8
+#EXTINF:-1 tvg-name="Kern County TV" tvg-logo="https://live.fanmingming.com/tv/Kern County TV.png" group-title="🇺🇸美国",Kern County TV
+https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/kern/G0169_003/playlist.m3u8
+#EXTINF:-1 tvg-name="Kevin Hart's LOL! Network" tvg-logo="https://live.fanmingming.com/tv/Kevin Hart's LOL! Network.png" group-title="🇺🇸美国",Kevin Hart's LOL! Network
+https://lol-lolnetwork-2-nl.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-name="KFON TV" tvg-logo="https://live.fanmingming.com/tv/KFON TV.png" group-title="🇺🇸美国",KFON TV
+https://reflect-watchkfon-fontana.cablecast.tv/live-3/live/live.m3u8
+#EXTINF:-1 tvg-name="Kids Movie Club" tvg-logo="https://live.fanmingming.com/tv/Kids Movie Club.png" group-title="🇺🇸美国",Kids Movie Club
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a7777f6-4245-4af6-b0b4-ee772b6bbeac
+#EXTINF:-1 tvg-name="KidsClick" tvg-logo="https://live.fanmingming.com/tv/KidsClick.png" group-title="🇺🇸美国",KidsClick
+https://content-ause1.uplynk.com/channel/1698bf57810a48c486b83d542bca298d/g.m3u8?pbs=fcf480a190b54049bff33a3fb397e887
+#EXTINF:-1 tvg-name="KidsFlix" tvg-logo="https://live.fanmingming.com/tv/KidsFlix.png" group-title="🇺🇸美国",KidsFlix
+https://stream.ads.ottera.tv/cl/240718cqcc665hg25i92qkcl30/1280x720_2300000_0_f.m3u8?i=475_50
+#EXTINF:-1 tvg-name="KMBY-LD5" tvg-logo="https://live.fanmingming.com/tv/KMBY-LD5.png" group-title="🇺🇸美国",KMBY-LD5
+https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
+#EXTINF:-1 tvg-name="KNOV-CD1" tvg-logo="https://live.fanmingming.com/tv/KNOV-CD1.png" group-title="🇺🇸美国",KNOV-CD1
+https://5b0f5374bdf0c.streamlock.net:444/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:-1 tvg-name="KPCB-DT1" tvg-logo="https://live.fanmingming.com/tv/KPCB-DT1.png" group-title="🇺🇸美国",KPCB-DT1
+https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/playlist.m3u8
+#EXTINF:-1 tvg-name="KSCE-DT1" tvg-logo="https://live.fanmingming.com/tv/KSCE-DT1.png" group-title="🇺🇸美国",KSCE-DT1
+https://2-fss-2.streamhoster.com/pl_138/200226-1359204-1/playlist.m3u8
+#EXTINF:-1 tvg-name="KSCE-DT3" tvg-logo="https://live.fanmingming.com/tv/KSCE-DT3.png" group-title="🇺🇸美国",KSCE-DT3
+https://2-fss-1.streamhoster.com/pl_122/200226-1427780-1/playlist.m3u8
+#EXTINF:-1 tvg-name="KTCA-DT5" tvg-logo="https://live.fanmingming.com/tv/KTCA-DT5.png" group-title="🇺🇸美国",KTCA-DT5
+https://api.new.livestream.com/accounts/12638076/events/8488790/live.m3u8
+#EXTINF:-1 tvg-name="KTOP" tvg-logo="https://live.fanmingming.com/tv/KTOP.png" group-title="🇺🇸美国",KTOP
+https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/oakland/G0219_002/playlist.m3u8
+#EXTINF:-1 tvg-name="KVVB-LD1" tvg-logo="https://live.fanmingming.com/tv/KVVB-LD1.png" group-title="🇺🇸美国",KVVB-LD1
+https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/chunklist_b3500000.m3u8
+#EXTINF:-1 tvg-name="LA CityView 35" tvg-logo="https://live.fanmingming.com/tv/LA CityView 35.png" group-title="🇺🇸美国",LA CityView 35
+https://reflect-losangeles.cablecast.tv/live-3/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?duration=0
+#EXTINF:-1 tvg-name="La Que Buena Atlanta" tvg-logo="https://live.fanmingming.com/tv/La Que Buena Atlanta.png" group-title="🇺🇸美国",La Que Buena Atlanta
+https://streamyes.alsolnet.com/quebuenaatlanta/live/index.m3u8
+#EXTINF:-1 tvg-name="La Rosa de Guadalupe" tvg-logo="https://live.fanmingming.com/tv/La Rosa de Guadalupe.png" group-title="🇺🇸美国",La Rosa de Guadalupe
+https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="LA36" tvg-logo="https://live.fanmingming.com/tv/LA36.png" group-title="🇺🇸美国",LA36
+https://reflect-channel36-la.cablecast.tv/live-3/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?duration=0
+#EXTINF:-1 tvg-name="Lacrosse TV" tvg-logo="https://live.fanmingming.com/tv/Lacrosse TV.png" group-title="🇺🇸美国",Lacrosse TV
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE_v5.m3u8
+#EXTINF:-1 tvg-name="Lake Havasu City 4" tvg-logo="https://live.fanmingming.com/tv/Lake Havasu City 4.png" group-title="🇺🇸美国",Lake Havasu City 4
+https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/lakehavasucity/G0643_003/chunklist.m3u8
+#EXTINF:-1 tvg-name="LakeFront TV" tvg-logo="https://live.fanmingming.com/tv/LakeFront TV.png" group-title="🇺🇸美国",LakeFront TV
+https://reflect-lakefront-leesburgflorida.cablecast.tv/live-5/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?duration=0
+#EXTINF:-1 tvg-name="Lakewood Channel 8" tvg-logo="https://live.fanmingming.com/tv/Lakewood Channel 8.png" group-title="🇺🇸美国",Lakewood Channel 8
+https://live8fd.lakewood.org/live-2/live/live.m3u8
+#EXTINF:-1 tvg-name="Lao-Thai TV" tvg-logo="https://live.fanmingming.com/tv/Lao-Thai TV.png" group-title="🇺🇸美国",Lao-Thai TV
+https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-name="Latin Zone" tvg-logo="https://live.fanmingming.com/tv/Latin Zone.png" group-title="🇺🇸美国",Latin Zone
+https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
+#EXTINF:-1 tvg-name="Law & Crime" tvg-logo="https://live.fanmingming.com/tv/Law & Crime.png" group-title="🇺🇸美国",Law & Crime
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/law_720p/playlist.m3u8
+#EXTINF:-1 tvg-name="LBTV" tvg-logo="https://live.fanmingming.com/tv/LBTV.png" group-title="🇺🇸美国",LBTV
+https://edge-f.swagit.com/live/longbeachca/live-1-a/chunklist.m3u8
+#EXTINF:-1 tvg-name="LEGO Kids TV" tvg-logo="https://live.fanmingming.com/tv/LEGO Kids TV.png" group-title="🇺🇸美国",LEGO Kids TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb01a24795a6000762fe83/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=65f7a3a9-1736-46bc-aaa5-7e4778774536
+#EXTINF:-1 tvg-name="LifevisionTV" tvg-logo="https://live.fanmingming.com/tv/LifevisionTV.png" group-title="🇺🇸美国",LifevisionTV
+https://tgn.bozztv.com/lifevision/lifevision/index.m3u8
+#EXTINF:-1 tvg-name="Little Guyana TV" tvg-logo="https://live.fanmingming.com/tv/Little Guyana TV.png" group-title="🇺🇸美国",Little Guyana TV
+https://video1.getstreamhosting.com:1936/8122/8122/playlist.m3u8
+#EXTINF:-1 tvg-name="Little Stars Universe" tvg-logo="https://live.fanmingming.com/tv/Little Stars Universe.png" group-title="🇺🇸美国",Little Stars Universe
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c298db3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=33174d1f-99cb-4190-85d6-69259af9a54b
+#EXTINF:-1 tvg-name="Littleton 8 TV" tvg-logo="https://live.fanmingming.com/tv/Littleton 8 TV.png" group-title="🇺🇸美国",Littleton 8 TV
+https://ch8.littletongov.org/live-2/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:-1 tvg-name="LiveNOW from FOX" tvg-logo="https://live.fanmingming.com/tv/LiveNOW from FOX.png" group-title="🇺🇸美国",LiveNOW from FOX
+https://lnc-fox-live-now.tubi.video/index_1.m3u8
+#EXTINF:-1 tvg-name="LIVExLIVE" tvg-logo="https://live.fanmingming.com/tv/LIVExLIVE.png" group-title="🇺🇸美国",LIVExLIVE
+https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
+#EXTINF:-1 tvg-name="LNKTV City" tvg-logo="https://live.fanmingming.com/tv/LNKTV City.png" group-title="🇺🇸美国",LNKTV City
+http://80tv.lincoln.ne.gov/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:-1 tvg-name="Localish" tvg-logo="https://live.fanmingming.com/tv/Localish.png" group-title="🇺🇸美国",Localish
+https://lnc-localish.tubi.video/index.m3u8
+#EXTINF:-1 tvg-name="Logo Pluto TV" tvg-logo="https://live.fanmingming.com/tv/Logo Pluto TV.png" group-title="🇺🇸美国",Logo Pluto TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ce5a8954311f992edbe1da2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c298db6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=df156d8e-abc9-4542-8940-17058c09347c
+#EXTINF:-1 tvg-name="Logos TV English" tvg-logo="https://live.fanmingming.com/tv/Logos TV English.png" group-title="🇺🇸美国",Logos TV English
+https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoseng/playlist.m3u8
+#EXTINF:-1 tvg-name="Lone Star" tvg-logo="https://live.fanmingming.com/tv/Lone Star.png" group-title="🇺🇸美国",Lone Star
+https://lonestar-rakuten.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-name="Loupe 4K" tvg-logo="https://live.fanmingming.com/tv/Loupe 4K.png" group-title="🇺🇸美国",Loupe 4K
+https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-name="Love & Hip Hop" tvg-logo="https://live.fanmingming.com/tv/Love & Hip Hop.png" group-title="🇺🇸美国",Love & Hip Hop
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d51ddf0369acdb278dfb05e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c298db8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e11538a9-9480-4566-aae4-83bfe5898920
+#EXTINF:-1 tvg-name="Lucha Libre AAA" tvg-logo="https://live.fanmingming.com/tv/Lucha Libre AAA.png" group-title="🇺🇸美国",Lucha Libre AAA
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c01df1759ee03633e7b272c&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=971&terminate=false&userId=
+#EXTINF:-1 tvg-name="Lupin the 3rd" tvg-logo="https://live.fanmingming.com/tv/Lupin the 3rd.png" group-title="🇺🇸美国",Lupin the 3rd
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f74ba51c82ac000776c669/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29b4c3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=929f711f-6565-41d9-84a9-9f2c83d020e5
+#EXTINF:-1 tvg-name="Mad Dog and Merrill" tvg-logo="https://live.fanmingming.com/tv/Mad Dog and Merrill.png" group-title="🇺🇸美国",Mad Dog and Merrill
+https://bozztv.com/gusa/gusa-mwg/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Made In Hollywood" tvg-logo="https://live.fanmingming.com/tv/Made In Hollywood.png" group-title="🇺🇸美国",Made In Hollywood
+https://connection3-ent-nz.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-name="Majestad TV" tvg-logo="https://live.fanmingming.com/tv/Majestad TV.png" group-title="🇺🇸美国",Majestad TV
+https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8
+#EXTINF:-1 tvg-name="Marin TV Community Channel" tvg-logo="https://live.fanmingming.com/tv/Marin TV Community Channel.png" group-title="🇺🇸美国",Marin TV Community Channel
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/3df8aaf1b5e341f5bffebcc9becee368/chunklist_b2592000.m3u8
+#EXTINF:-1 tvg-name="Marquee Sports Network" tvg-logo="https://live.fanmingming.com/tv/Marquee Sports Network.png" group-title="🇺🇸美国",Marquee Sports Network
+https://marqueelive.akamaized.net/live-pz/a/hls-itc/marquee1/index.m3u8
+#EXTINF:-1 tvg-name="Marin TV Educational Channel" tvg-logo="https://live.fanmingming.com/tv/Marin TV Educational Channel.png" group-title="🇺🇸美国",Marin TV Educational Channel
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/bc1fcf000e4e48a6a490d2af1f6added/chunklist_b2592000.m3u8
+#EXTINF:-1 tvg-name="Martin County TV" tvg-logo="https://live.fanmingming.com/tv/Martin County TV.png" group-title="🇺🇸美国",Martin County TV
+https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/martin/G0074_002/chunklist.m3u8
+#EXTINF:-1 tvg-name="Matlock" tvg-logo="https://live.fanmingming.com/tv/Matlock.png" group-title="🇺🇸美国",Matlock
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f754f98185580007eb0754/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29b4c4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d5919973-30db-4595-8199-595f82332246
+#EXTINF:-1 tvg-name="Maverick Black Cinema" tvg-logo="https://live.fanmingming.com/tv/Maverick Black Cinema.png" group-title="🇺🇸美国",Maverick Black Cinema
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-name="MBC 1 USA" tvg-logo="https://live.fanmingming.com/tv/MBC 1 USA.png" group-title="🇺🇸美国",MBC 1 USA
+https://mbc-1-usa-ak.akamaized.net/out/v1/8c1ce74bfd0743aab1026ef5b2aecfa4/index_6.m3u8
+#EXTINF:-1 tvg-name="MBC 3 USA" tvg-logo="https://live.fanmingming.com/tv/MBC 3 USA.png" group-title="🇺🇸美国",MBC 3 USA
+https://mbc-3-usa-ak.akamaized.net/out/v1/8bbfec9446d84c9ea0dfa34edede6db9/index_2.m3u8
+#EXTINF:-1 tvg-name="MBC 3 USA" tvg-logo="https://live.fanmingming.com/tv/MBC 3 USA.png" group-title="🇺🇸美国",MBC 3 USA
+https://mbc-3-usa-ak.akamaized.net/out/v1/8bbfec9446d84c9ea0dfa34edede6db9/index_1.m3u8
+#EXTINF:-1 tvg-name="MBC (Los Angeles)" tvg-logo="https://live.fanmingming.com/tv/MBC (Los Angeles).png" group-title="🇺🇸美国",MBC (Los Angeles)
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/index.m3u8
+#EXTINF:-1 tvg-name="MBC Masr USA" tvg-logo="https://live.fanmingming.com/tv/MBC Masr USA.png" group-title="🇺🇸美国",MBC Masr USA
+https://masr-usa-ak.akamaized.net/out/v1/5fcaf05b5cd64b3cb4a969e0470080c8/index_2.m3u8
+#EXTINF:-1 tvg-name="MBTV" tvg-logo="https://live.fanmingming.com/tv/MBTV.png" group-title="🇺🇸美国",MBTV
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/monroe/live/ch1/video.m3u8
+#EXTINF:-1 tvg-name="MCN6 Arts Channel" tvg-logo="https://live.fanmingming.com/tv/MCN6 Arts Channel.png" group-title="🇺🇸美国",MCN6 Arts Channel
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/chunklist_b2596000_sleng.m3u8
+#EXTINF:-1 tvg-name="MCN6 Main Channel" tvg-logo="https://live.fanmingming.com/tv/MCN6 Main Channel.png" group-title="🇺🇸美国",MCN6 Main Channel
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/chunklist_b2596000_sleng.m3u8
+#EXTINF:-1 tvg-name="MCN6 Music Channel" tvg-logo="https://live.fanmingming.com/tv/MCN6 Music Channel.png" group-title="🇺🇸美国",MCN6 Music Channel
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/chunklist_b2596000_sleng.m3u8
+#EXTINF:-1 tvg-name="MCPSS TV" tvg-logo="https://live.fanmingming.com/tv/MCPSS TV.png" group-title="🇺🇸美国",MCPSS TV
+https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/chunklist_w1716273970_b1596000.m3u8
+#EXTINF:-1 tvg-name="MCTV" tvg-logo="https://live.fanmingming.com/tv/MCTV.png" group-title="🇺🇸美国",MCTV
+https://603591da64140.streamlock.net/live/mp4:MCTVtest_aac/chunklist_w2137820394.m3u8
+#EXTINF:-1 tvg-name="Mega TV" tvg-logo="https://live.fanmingming.com/tv/Mega TV.png" group-title="🇺🇸美国",Mega TV
+https://mdstrm.com/live-stream-playlist/660b066dae419408a11b6072.m3u8
+#EXTINF:-1 tvg-name="Merit Street" tvg-logo="https://live.fanmingming.com/tv/Merit Street.png" group-title="🇺🇸美国",Merit Street
+https://tbn-jw.cdn.vustreams.com/live/merit-dev/live.isml/live-audio_0=96000-video=6499968.m3u8
 #EXTINF:-1 tvg-name="更新到这里" tvg-logo="https://live.fanmingming.com/tv/更新到这里.png" group-title="🇺🇸美国",更新到这里
 
-#EXTINF:-1 tvg-name="InfoWars" tvg-logo="https://live.fanmingming.com/tv/InfoWars.png" group-title="🇺🇸美国",InfoWars
-https://epg.pw/stream/e2ddfe678803413d6b751a71ba74ad764442eb5b9d8ec6f20bc8e0a4e41fca95.m3u8
-#EXTINF:-1 tvg-name="InfoWars" tvg-logo="https://live.fanmingming.com/tv/InfoWars.png" group-title="🇺🇸美国",InfoWars
-https://epg.pw/stream/769a561b7a09183ad6174627d14bcd36bfae3c64072dfed23d0bf4053062b15b.m3u8
-#EXTINF:-1 tvg-name="Investigation Discovery" tvg-logo="https://live.fanmingming.com/tv/Investigation Discovery.png" group-title="🇺🇸美国",Investigation Discovery
-https://epg.pw/stream/cd68fa4e08c46c26715240e68c07d3f24bfae12f47e61b7097b8526e554b7b78.m3u8
-#EXTINF:-1 tvg-name="Investigation Discovery" tvg-logo="https://live.fanmingming.com/tv/Investigation Discovery.png" group-title="🇺🇸美国",Investigation Discovery
-https://epg.pw/stream/54635cf7327b898fd541760aa8158314bef76f62faaf42f8e9d69759fa435233.m3u8
-#EXTINF:-1 tvg-name="Investigation Discovery" tvg-logo="https://live.fanmingming.com/tv/Investigation Discovery.png" group-title="🇺🇸美国",Investigation Discovery
-https://epg.pw/stream/4cfbc81f1c3070ff7a3e4d3745cb531361774e32b33f3ebcb8523a1d78a00990.m3u8
-#EXTINF:-1 tvg-name="KAYU TV" tvg-logo="https://live.fanmingming.com/tv/KAYU TV.png" group-title="🇺🇸美国",KAYU TV
-https://epg.pw/stream/b0eeb6ba64b55fbbd9e8b590ee29a7aa5dd16a6c3f51aa0fd5fba18e879c17b3.m3u8
-#EXTINF:-1 tvg-name="Kids Channel" tvg-logo="https://live.fanmingming.com/tv/Kids Channel.png" group-title="🇺🇸美国",Kids Channel
-https://epg.pw/stream/9f45985fb4fba0d736a9305d5ad433e1bb79018deead8215f260c9ca4427446a.m3u8
-#EXTINF:-1 tvg-name="Kids Channel" tvg-logo="https://live.fanmingming.com/tv/Kids Channel.png" group-title="🇺🇸美国",Kids Channel
-https://epg.pw/stream/07480c1333d1d2d33e6f6c421d30882c2ebe86bf249e7042712397e1e3f91539.m3u8
-#EXTINF:-1 tvg-name="Kids Channel" tvg-logo="https://live.fanmingming.com/tv/Kids Channel.png" group-title="🇺🇸美国",Kids Channel
-https://epg.pw/stream/00f632b6cb6ef9abe0c9452183acd5a6dcce9f12c09784a98b30a89cf6322931.m3u8
-#EXTINF:-1 tvg-name="LIFESTYLE TV" tvg-logo="https://live.fanmingming.com/tv/LIFESTYLE TV.png" group-title="🇺🇸美国",LIFESTYLE TV
-https://epg.pw/stream/05703619b6aec3624faeec8ac399ba2a0e01860e6a8f60fc324ac99762f9be6f.m3u8
-#EXTINF:-1 tvg-name="Lifetime" tvg-logo="https://live.fanmingming.com/tv/Lifetime.png" group-title="🇺🇸美国",Lifetime
-https://epg.pw/stream/010e6202b2edf64f0c4ac091bb6c50a391d399374694723591feede511ab6521.m3u8
-#EXTINF:-1 tvg-name="Lifetime" tvg-logo="https://live.fanmingming.com/tv/Lifetime.png" group-title="🇺🇸美国",Lifetime
-https://epg.pw/stream/35e5fe27eb699dbe9a81f7090dfb48a66e50a3b54e2ea8a90f5a2f4c2d738941.m3u8
-#EXTINF:-1 tvg-name="Lifetime" tvg-logo="https://live.fanmingming.com/tv/Lifetime.png" group-title="🇺🇸美国",Lifetime
-https://epg.pw/stream/6f6e8394f0e07b27b72598e911c5a11c922932932e375d64f0308c1580f7cac9.ctv
-#EXTINF:-1 tvg-name="Lifetime" tvg-logo="https://live.fanmingming.com/tv/Lifetime.png" group-title="🇺🇸美国",Lifetime
-https://epg.pw/stream/7a4f19f1207c67c90ae52c9b716bc1f42139944c92d6f4597ee81f4d337ea058.m3u8
-#EXTINF:-1 tvg-name="Lifetime" tvg-logo="https://live.fanmingming.com/tv/Lifetime.png" group-title="🇺🇸美国",Lifetime
-https://epg.pw/stream/368d8371137bcd7d2b00399ec6c3b432df847cae546c9d249ff51427a94c4676.m3u8
-#EXTINF:-1 tvg-name="MAX" tvg-logo="https://live.fanmingming.com/tv/MAX.png" group-title="🇺🇸美国",MAX
-https://epg.pw/stream/dced7ccdfdd93ad0cfa865977d76e816f63397d62fab04e86bc13db49560f819.m3u8
-#EXTINF:-1 tvg-name="MAX" tvg-logo="https://live.fanmingming.com/tv/MAX.png" group-title="🇺🇸美国",MAX
-https://epg.pw/stream/a98b389d0e4a148cecd869c8e85c2905cffad302154c7b82355d80bc69f95918.m3u8
 #EXTINF:-1 tvg-name="MLB" tvg-logo="https://live.fanmingming.com/tv/MLB.png" group-title="🇺🇸美国",MLB
 https://epg.pw/stream/5b8beb00f1e943d7ea77720dfda4593c39db5dd3d2ff1cd0eaaf1886217e330d.m3u8
 #EXTINF:-1 tvg-name="MSNBC" tvg-logo="https://live.fanmingming.com/tv/MSNBC.png" group-title="🇺🇸美国",MSNBC

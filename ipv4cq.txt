@@ -4570,13 +4570,13 @@ Now 668足球,http://histar-proxy.isus.cc/now-668
 延边-1,http://live.ybtvyun.com/video/s10016-af95004b6d1a/index.m3u8?zjild
 延边-2,http://live.cloud.yanews.cn/video/s10001-YATV-2/index.m3u8?zjild
 延边-2,http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8?zjild
-东方卫视,http://m.wuzhij.com/shanghai.php?id=dfws
-上海新闻综合,http://m.wuzhij.com/shanghai.php?id=shxwzh
-上海ics,http://m.wuzhij.com/shanghai.php?id=shics
-上海都市,http://m.wuzhij.com/shanghai.php?id=shds
-第1财经,http://m.wuzhij.com/shanghai.php?id=dycj
-上海纪实人文,http://m.wuzhij.com/shanghai.php?id=jsrw
-哈哈炫动,http://m.wuzhij.com/shanghai.php?id=hhxd
+东方卫视,http://tvzb.viphost.vip/shanghai.php?id=dfws
+上海新闻综合,http://tvzb.viphost.vip/shanghai.php?id=shxwzh
+上海ics,http://tvzb.viphost.vip/shanghai.php?id=shics
+上海都市,http://tvzb.viphost.vip/shanghai.php?id=shds
+第1财经,http://tvzb.viphost.vip/shanghai.php?id=dycj
+上海纪实人文,http://tvzb.viphost.vip/shanghai.php?id=jsrw
+哈哈炫动,http://tvzb.viphost.vip/shanghai.php?id=hhxd
 浙江钱江都市,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江教科影院,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
@@ -4607,74 +4607,6 @@ Now 668足球,http://histar-proxy.isus.cc/now-668
 无锡都市,http://stream.thmz.com/wxtv3/playlist.m3u8
 无锡生活,http://stream.thmz.com/wxtv4/playlist.m3u8
 无锡经济,http://stream.thmz.com/wxtv5/playlist.m3u8
-海滨综合 1080,http://live.dxhmt.cn:9081/tv/11527-1.m3u8
-巩义 1080,http://live.dxhmt.cn:9081/tv/10181-1.m3u8
-荥阳 1080,http://live.dxhmt.cn:9081/tv/10182-1.m3u8
-新密 1080,http://live.dxhmt.cn:9081/tv/10183-2.m3u8
-新郑 1080,http://live.dxhmt.cn:9081/tv/10184-1.m3u8
-杞县 1080,http://live.dxhmt.cn:9081/tv/10221-1.m3u8
-通许 1080,http://live.dxhmt.cn:9081/tv/10222-1.m3u8
-尉氏 1080,http://live.dxhmt.cn:9081/tv/10223-1.m3u8
-兰考 1080,http://live.dxhmt.cn:9081/tv/10225-1.m3u8
-新安 1080,http://live.dxhmt.cn:9081/tv/10323-1.m3u8
-汝阳 1080,http://live.dxhmt.cn:9081/tv/10326-1.m3u8
-宜阳 1080,http://live.dxhmt.cn:9081/tv/10327-1.m3u8
-宝丰 1080,http://live.dxhmt.cn:9081/tv/10421-1.m3u8
-叶县 1080,http://live.dxhmt.cn:9081/tv/10422-1.m3u8
-鲁山 1080,http://live.dxhmt.cn:9081/tv/10423-1.m3u8
-郏县 1080,http://live.dxhmt.cn:9081/tv/10425-1.m3u8
-舞钢 1080,http://live.dxhmt.cn:9081/tv/10481-1.m3u8
-汤阴 1080,http://live.dxhmt.cn:9081/tv/10523-1.m3u8
-滑县 1080,http://live.dxhmt.cn:9081/tv/10526-1.m3u8
-内黄 1080,http://live.dxhmt.cn:9081/tv/10527-1.m3u8
-林州 1080,http://live.dxhmt.cn:9081/tv/10581-1.m3u8
-浚县 1080,http://live.dxhmt.cn:9081/tv/10621-1.m3u8
-淇县 1080,http://live.dxhmt.cn:9081/tv/10622-1.m3u8
-新乡 1080,http://live.dxhmt.cn:9081/tv/10721-1.m3u8
-获嘉 1080,http://live.dxhmt.cn:9081/tv/10724-1.m3u8
-原阳 1080,http://live.dxhmt.cn:9081/tv/10725-1.m3u8
-封丘 1080,http://live.dxhmt.cn:9081/tv/10727-1.m3u8
-长垣 1080,http://live.dxhmt.cn:9081/tv/10728-1.m3u8
-卫辉 1080,http://live.dxhmt.cn:9081/tv/10781-1.m3u8
-辉县 1080,http://live.dxhmt.cn:9081/tv/10782-1.m3u8
-武陟 1080,http://live.dxhmt.cn:9081/tv/10823-1.m3u8
-温县 1080,http://live.dxhmt.cn:9081/tv/10825-1.m3u8
-泌阳 1080,http://live.dxhmt.cn:9081/tv/10882-1.m3u8
-孟州 1080,http://live.dxhmt.cn:9081/tv/10883-1.m3u8
-南乐 1080,http://live.dxhmt.cn:9081/tv/10923-1.m3u8
-建安 1080,http://live.dxhmt.cn:9081/tv/11003-1.m3u8
-鄢陵 1080,http://live.dxhmt.cn:9081/tv/11024-1.m3u8
-襄城 1080,http://live.dxhmt.cn:9081/tv/11025-1.m3u8
-禹州 1080,http://live.dxhmt.cn:9081/tv/11081-1.m3u8
-舞阳 1080,http://live.dxhmt.cn:9081/tv/11121-1.m3u8
-渑池 1080,http://live.dxhmt.cn:9081/tv/11221-1.m3u8
-义马 1080,http://live.dxhmt.cn:9081/tv/11281-1.m3u8
-灵宝 1080,http://live.dxhmt.cn:9081/tv/11282-1.m3u8
-方城 1080,http://live.dxhmt.cn:9081/tv/11322-1.m3u8
-镇平 1080,http://live.dxhmt.cn:9081/tv/11324-1.m3u8
-淅川 1080,http://live.dxhmt.cn:9081/tv/11326-1.m3u8
-唐河 1080,http://live.dxhmt.cn:9081/tv/11328-1.m3u8
-新野 1080,http://live.dxhmt.cn:9081/tv/11329-1.m3u8
-桐柏 1080,http://live.dxhmt.cn:9081/tv/11330-1.m3u8
-邓州 1080,http://live.dxhmt.cn:9081/tv/11381-1.m3u8
-永城 1080,http://live.dxhmt.cn:9081/tv/11481-1.m3u8
-罗山 1080,http://live.dxhmt.cn:9081/tv/11521-1.m3u8
-光山 1080,http://live.dxhmt.cn:9081/tv/11522-1.m3u8
-新县 1080,http://live.dxhmt.cn:9081/tv/11523-1.m3u8
-商城 1080,http://live.dxhmt.cn:9081/tv/11524-1.m3u8
-潢川 1080,http://live.dxhmt.cn:9081/tv/11526-1.m3u8
-西华 1080,http://live.dxhmt.cn:9081/tv/11622-1.m3u8
-沈丘 1080,http://live.dxhmt.cn:9081/tv/11624-1.m3u8
-郸城 1080,http://live.dxhmt.cn:9081/tv/11625-1.m3u8
-鹿邑 1080,http://live.dxhmt.cn:9081/tv/11628-1.m3u8
-项城 1080,http://live.dxhmt.cn:9081/tv/11681-1.m3u8
-西平 1080,http://live.dxhmt.cn:9081/tv/11721-1.m3u8
-平舆 1080,http://live.dxhmt.cn:9081/tv/11723-1.m3u8
-确山 1080,http://live.dxhmt.cn:9081/tv/11725-1.m3u8
-泌阳 1080,http://live.dxhmt.cn:9081/tv/11726-1.m3u8
-遂平 1080,http://live.dxhmt.cn:9081/tv/11728-1.m3u8
-新蔡 1080,http://live.dxhmt.cn:9081/tv/11729-1.m3u8
-济源 1080,http://live.dxhmt.cn:9081/tv/19001-1.m3u8
 安阳新闻,http://zhpull.dxhmt.cn:80/anyang/7e3b40563af54e2f9f48e2c67c5d9fab/playlist.m3u8
 安阳公共,http://zhpull.dxhmt.cn:80/anyang/d21bf91860c443caa34c4797d6b0026e/playlist.m3u8
 安阳科教,http://zhpull.dxhmt.cn:80/anyang/24edb37167474b17948c6fbaf09890b8/playlist.m3u8

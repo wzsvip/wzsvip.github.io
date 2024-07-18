@@ -8508,19 +8508,19 @@ http://live.cloud.yanews.cn/video/s10001-YATV-2/index.m3u8?zjild
 #EXTINF:-1 tvg-name="延边-2" tvg-logo="https://live.fanmingming.com/tv/延边-2.png" group-title="📡地方频道",延边-2
 http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8?zjild
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="📡地方频道",东方卫视
-http://m.wuzhij.com/shanghai.php?id=dfws
+http://tvzb.viphost.vip/shanghai.php?id=dfws
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.com/tv/上海新闻综合.png" group-title="📡地方频道",上海新闻综合
-http://m.wuzhij.com/shanghai.php?id=shxwzh
+http://tvzb.viphost.vip/shanghai.php?id=shxwzh
 #EXTINF:-1 tvg-name="上海ics" tvg-logo="https://live.fanmingming.com/tv/上海ics.png" group-title="📡地方频道",上海ics
-http://m.wuzhij.com/shanghai.php?id=shics
+http://tvzb.viphost.vip/shanghai.php?id=shics
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="📡地方频道",上海都市
-http://m.wuzhij.com/shanghai.php?id=shds
+http://tvzb.viphost.vip/shanghai.php?id=shds
 #EXTINF:-1 tvg-name="第1财经" tvg-logo="https://live.fanmingming.com/tv/第1财经.png" group-title="📡地方频道",第1财经
-http://m.wuzhij.com/shanghai.php?id=dycj
+http://tvzb.viphost.vip/shanghai.php?id=dycj
 #EXTINF:-1 tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/上海纪实人文.png" group-title="📡地方频道",上海纪实人文
-http://m.wuzhij.com/shanghai.php?id=jsrw
+http://tvzb.viphost.vip/shanghai.php?id=jsrw
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="📡地方频道",哈哈炫动
-http://m.wuzhij.com/shanghai.php?id=hhxd
+http://tvzb.viphost.vip/shanghai.php?id=hhxd
 #EXTINF:-1 tvg-name="浙江钱江都市" tvg-logo="https://live.fanmingming.com/tv/浙江钱江都市.png" group-title="📡地方频道",浙江钱江都市
 http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江经济生活" tvg-logo="https://live.fanmingming.com/tv/浙江经济生活.png" group-title="📡地方频道",浙江经济生活
@@ -8581,142 +8581,6 @@ http://stream.thmz.com/wxtv3/playlist.m3u8
 http://stream.thmz.com/wxtv4/playlist.m3u8
 #EXTINF:-1 tvg-name="无锡经济" tvg-logo="https://live.fanmingming.com/tv/无锡经济.png" group-title="📡地方频道",无锡经济
 http://stream.thmz.com/wxtv5/playlist.m3u8
-#EXTINF:-1 tvg-name="海滨综合 1080" tvg-logo="https://live.fanmingming.com/tv/海滨综合 1080.png" group-title="📡地方频道",海滨综合 1080
-http://live.dxhmt.cn:9081/tv/11527-1.m3u8
-#EXTINF:-1 tvg-name="巩义 1080" tvg-logo="https://live.fanmingming.com/tv/巩义 1080.png" group-title="📡地方频道",巩义 1080
-http://live.dxhmt.cn:9081/tv/10181-1.m3u8
-#EXTINF:-1 tvg-name="荥阳 1080" tvg-logo="https://live.fanmingming.com/tv/荥阳 1080.png" group-title="📡地方频道",荥阳 1080
-http://live.dxhmt.cn:9081/tv/10182-1.m3u8
-#EXTINF:-1 tvg-name="新密 1080" tvg-logo="https://live.fanmingming.com/tv/新密 1080.png" group-title="📡地方频道",新密 1080
-http://live.dxhmt.cn:9081/tv/10183-2.m3u8
-#EXTINF:-1 tvg-name="新郑 1080" tvg-logo="https://live.fanmingming.com/tv/新郑 1080.png" group-title="📡地方频道",新郑 1080
-http://live.dxhmt.cn:9081/tv/10184-1.m3u8
-#EXTINF:-1 tvg-name="杞县 1080" tvg-logo="https://live.fanmingming.com/tv/杞县 1080.png" group-title="📡地方频道",杞县 1080
-http://live.dxhmt.cn:9081/tv/10221-1.m3u8
-#EXTINF:-1 tvg-name="通许 1080" tvg-logo="https://live.fanmingming.com/tv/通许 1080.png" group-title="📡地方频道",通许 1080
-http://live.dxhmt.cn:9081/tv/10222-1.m3u8
-#EXTINF:-1 tvg-name="尉氏 1080" tvg-logo="https://live.fanmingming.com/tv/尉氏 1080.png" group-title="📡地方频道",尉氏 1080
-http://live.dxhmt.cn:9081/tv/10223-1.m3u8
-#EXTINF:-1 tvg-name="兰考 1080" tvg-logo="https://live.fanmingming.com/tv/兰考 1080.png" group-title="📡地方频道",兰考 1080
-http://live.dxhmt.cn:9081/tv/10225-1.m3u8
-#EXTINF:-1 tvg-name="新安 1080" tvg-logo="https://live.fanmingming.com/tv/新安 1080.png" group-title="📡地方频道",新安 1080
-http://live.dxhmt.cn:9081/tv/10323-1.m3u8
-#EXTINF:-1 tvg-name="汝阳 1080" tvg-logo="https://live.fanmingming.com/tv/汝阳 1080.png" group-title="📡地方频道",汝阳 1080
-http://live.dxhmt.cn:9081/tv/10326-1.m3u8
-#EXTINF:-1 tvg-name="宜阳 1080" tvg-logo="https://live.fanmingming.com/tv/宜阳 1080.png" group-title="📡地方频道",宜阳 1080
-http://live.dxhmt.cn:9081/tv/10327-1.m3u8
-#EXTINF:-1 tvg-name="宝丰 1080" tvg-logo="https://live.fanmingming.com/tv/宝丰 1080.png" group-title="📡地方频道",宝丰 1080
-http://live.dxhmt.cn:9081/tv/10421-1.m3u8
-#EXTINF:-1 tvg-name="叶县 1080" tvg-logo="https://live.fanmingming.com/tv/叶县 1080.png" group-title="📡地方频道",叶县 1080
-http://live.dxhmt.cn:9081/tv/10422-1.m3u8
-#EXTINF:-1 tvg-name="鲁山 1080" tvg-logo="https://live.fanmingming.com/tv/鲁山 1080.png" group-title="📡地方频道",鲁山 1080
-http://live.dxhmt.cn:9081/tv/10423-1.m3u8
-#EXTINF:-1 tvg-name="郏县 1080" tvg-logo="https://live.fanmingming.com/tv/郏县 1080.png" group-title="📡地方频道",郏县 1080
-http://live.dxhmt.cn:9081/tv/10425-1.m3u8
-#EXTINF:-1 tvg-name="舞钢 1080" tvg-logo="https://live.fanmingming.com/tv/舞钢 1080.png" group-title="📡地方频道",舞钢 1080
-http://live.dxhmt.cn:9081/tv/10481-1.m3u8
-#EXTINF:-1 tvg-name="汤阴 1080" tvg-logo="https://live.fanmingming.com/tv/汤阴 1080.png" group-title="📡地方频道",汤阴 1080
-http://live.dxhmt.cn:9081/tv/10523-1.m3u8
-#EXTINF:-1 tvg-name="滑县 1080" tvg-logo="https://live.fanmingming.com/tv/滑县 1080.png" group-title="📡地方频道",滑县 1080
-http://live.dxhmt.cn:9081/tv/10526-1.m3u8
-#EXTINF:-1 tvg-name="内黄 1080" tvg-logo="https://live.fanmingming.com/tv/内黄 1080.png" group-title="📡地方频道",内黄 1080
-http://live.dxhmt.cn:9081/tv/10527-1.m3u8
-#EXTINF:-1 tvg-name="林州 1080" tvg-logo="https://live.fanmingming.com/tv/林州 1080.png" group-title="📡地方频道",林州 1080
-http://live.dxhmt.cn:9081/tv/10581-1.m3u8
-#EXTINF:-1 tvg-name="浚县 1080" tvg-logo="https://live.fanmingming.com/tv/浚县 1080.png" group-title="📡地方频道",浚县 1080
-http://live.dxhmt.cn:9081/tv/10621-1.m3u8
-#EXTINF:-1 tvg-name="淇县 1080" tvg-logo="https://live.fanmingming.com/tv/淇县 1080.png" group-title="📡地方频道",淇县 1080
-http://live.dxhmt.cn:9081/tv/10622-1.m3u8
-#EXTINF:-1 tvg-name="新乡 1080" tvg-logo="https://live.fanmingming.com/tv/新乡 1080.png" group-title="📡地方频道",新乡 1080
-http://live.dxhmt.cn:9081/tv/10721-1.m3u8
-#EXTINF:-1 tvg-name="获嘉 1080" tvg-logo="https://live.fanmingming.com/tv/获嘉 1080.png" group-title="📡地方频道",获嘉 1080
-http://live.dxhmt.cn:9081/tv/10724-1.m3u8
-#EXTINF:-1 tvg-name="原阳 1080" tvg-logo="https://live.fanmingming.com/tv/原阳 1080.png" group-title="📡地方频道",原阳 1080
-http://live.dxhmt.cn:9081/tv/10725-1.m3u8
-#EXTINF:-1 tvg-name="封丘 1080" tvg-logo="https://live.fanmingming.com/tv/封丘 1080.png" group-title="📡地方频道",封丘 1080
-http://live.dxhmt.cn:9081/tv/10727-1.m3u8
-#EXTINF:-1 tvg-name="长垣 1080" tvg-logo="https://live.fanmingming.com/tv/长垣 1080.png" group-title="📡地方频道",长垣 1080
-http://live.dxhmt.cn:9081/tv/10728-1.m3u8
-#EXTINF:-1 tvg-name="卫辉 1080" tvg-logo="https://live.fanmingming.com/tv/卫辉 1080.png" group-title="📡地方频道",卫辉 1080
-http://live.dxhmt.cn:9081/tv/10781-1.m3u8
-#EXTINF:-1 tvg-name="辉县 1080" tvg-logo="https://live.fanmingming.com/tv/辉县 1080.png" group-title="📡地方频道",辉县 1080
-http://live.dxhmt.cn:9081/tv/10782-1.m3u8
-#EXTINF:-1 tvg-name="武陟 1080" tvg-logo="https://live.fanmingming.com/tv/武陟 1080.png" group-title="📡地方频道",武陟 1080
-http://live.dxhmt.cn:9081/tv/10823-1.m3u8
-#EXTINF:-1 tvg-name="温县 1080" tvg-logo="https://live.fanmingming.com/tv/温县 1080.png" group-title="📡地方频道",温县 1080
-http://live.dxhmt.cn:9081/tv/10825-1.m3u8
-#EXTINF:-1 tvg-name="泌阳 1080" tvg-logo="https://live.fanmingming.com/tv/泌阳 1080.png" group-title="📡地方频道",泌阳 1080
-http://live.dxhmt.cn:9081/tv/10882-1.m3u8
-#EXTINF:-1 tvg-name="孟州 1080" tvg-logo="https://live.fanmingming.com/tv/孟州 1080.png" group-title="📡地方频道",孟州 1080
-http://live.dxhmt.cn:9081/tv/10883-1.m3u8
-#EXTINF:-1 tvg-name="南乐 1080" tvg-logo="https://live.fanmingming.com/tv/南乐 1080.png" group-title="📡地方频道",南乐 1080
-http://live.dxhmt.cn:9081/tv/10923-1.m3u8
-#EXTINF:-1 tvg-name="建安 1080" tvg-logo="https://live.fanmingming.com/tv/建安 1080.png" group-title="📡地方频道",建安 1080
-http://live.dxhmt.cn:9081/tv/11003-1.m3u8
-#EXTINF:-1 tvg-name="鄢陵 1080" tvg-logo="https://live.fanmingming.com/tv/鄢陵 1080.png" group-title="📡地方频道",鄢陵 1080
-http://live.dxhmt.cn:9081/tv/11024-1.m3u8
-#EXTINF:-1 tvg-name="襄城 1080" tvg-logo="https://live.fanmingming.com/tv/襄城 1080.png" group-title="📡地方频道",襄城 1080
-http://live.dxhmt.cn:9081/tv/11025-1.m3u8
-#EXTINF:-1 tvg-name="禹州 1080" tvg-logo="https://live.fanmingming.com/tv/禹州 1080.png" group-title="📡地方频道",禹州 1080
-http://live.dxhmt.cn:9081/tv/11081-1.m3u8
-#EXTINF:-1 tvg-name="舞阳 1080" tvg-logo="https://live.fanmingming.com/tv/舞阳 1080.png" group-title="📡地方频道",舞阳 1080
-http://live.dxhmt.cn:9081/tv/11121-1.m3u8
-#EXTINF:-1 tvg-name="渑池 1080" tvg-logo="https://live.fanmingming.com/tv/渑池 1080.png" group-title="📡地方频道",渑池 1080
-http://live.dxhmt.cn:9081/tv/11221-1.m3u8
-#EXTINF:-1 tvg-name="义马 1080" tvg-logo="https://live.fanmingming.com/tv/义马 1080.png" group-title="📡地方频道",义马 1080
-http://live.dxhmt.cn:9081/tv/11281-1.m3u8
-#EXTINF:-1 tvg-name="灵宝 1080" tvg-logo="https://live.fanmingming.com/tv/灵宝 1080.png" group-title="📡地方频道",灵宝 1080
-http://live.dxhmt.cn:9081/tv/11282-1.m3u8
-#EXTINF:-1 tvg-name="方城 1080" tvg-logo="https://live.fanmingming.com/tv/方城 1080.png" group-title="📡地方频道",方城 1080
-http://live.dxhmt.cn:9081/tv/11322-1.m3u8
-#EXTINF:-1 tvg-name="镇平 1080" tvg-logo="https://live.fanmingming.com/tv/镇平 1080.png" group-title="📡地方频道",镇平 1080
-http://live.dxhmt.cn:9081/tv/11324-1.m3u8
-#EXTINF:-1 tvg-name="淅川 1080" tvg-logo="https://live.fanmingming.com/tv/淅川 1080.png" group-title="📡地方频道",淅川 1080
-http://live.dxhmt.cn:9081/tv/11326-1.m3u8
-#EXTINF:-1 tvg-name="唐河 1080" tvg-logo="https://live.fanmingming.com/tv/唐河 1080.png" group-title="📡地方频道",唐河 1080
-http://live.dxhmt.cn:9081/tv/11328-1.m3u8
-#EXTINF:-1 tvg-name="新野 1080" tvg-logo="https://live.fanmingming.com/tv/新野 1080.png" group-title="📡地方频道",新野 1080
-http://live.dxhmt.cn:9081/tv/11329-1.m3u8
-#EXTINF:-1 tvg-name="桐柏 1080" tvg-logo="https://live.fanmingming.com/tv/桐柏 1080.png" group-title="📡地方频道",桐柏 1080
-http://live.dxhmt.cn:9081/tv/11330-1.m3u8
-#EXTINF:-1 tvg-name="邓州 1080" tvg-logo="https://live.fanmingming.com/tv/邓州 1080.png" group-title="📡地方频道",邓州 1080
-http://live.dxhmt.cn:9081/tv/11381-1.m3u8
-#EXTINF:-1 tvg-name="永城 1080" tvg-logo="https://live.fanmingming.com/tv/永城 1080.png" group-title="📡地方频道",永城 1080
-http://live.dxhmt.cn:9081/tv/11481-1.m3u8
-#EXTINF:-1 tvg-name="罗山 1080" tvg-logo="https://live.fanmingming.com/tv/罗山 1080.png" group-title="📡地方频道",罗山 1080
-http://live.dxhmt.cn:9081/tv/11521-1.m3u8
-#EXTINF:-1 tvg-name="光山 1080" tvg-logo="https://live.fanmingming.com/tv/光山 1080.png" group-title="📡地方频道",光山 1080
-http://live.dxhmt.cn:9081/tv/11522-1.m3u8
-#EXTINF:-1 tvg-name="新县 1080" tvg-logo="https://live.fanmingming.com/tv/新县 1080.png" group-title="📡地方频道",新县 1080
-http://live.dxhmt.cn:9081/tv/11523-1.m3u8
-#EXTINF:-1 tvg-name="商城 1080" tvg-logo="https://live.fanmingming.com/tv/商城 1080.png" group-title="📡地方频道",商城 1080
-http://live.dxhmt.cn:9081/tv/11524-1.m3u8
-#EXTINF:-1 tvg-name="潢川 1080" tvg-logo="https://live.fanmingming.com/tv/潢川 1080.png" group-title="📡地方频道",潢川 1080
-http://live.dxhmt.cn:9081/tv/11526-1.m3u8
-#EXTINF:-1 tvg-name="西华 1080" tvg-logo="https://live.fanmingming.com/tv/西华 1080.png" group-title="📡地方频道",西华 1080
-http://live.dxhmt.cn:9081/tv/11622-1.m3u8
-#EXTINF:-1 tvg-name="沈丘 1080" tvg-logo="https://live.fanmingming.com/tv/沈丘 1080.png" group-title="📡地方频道",沈丘 1080
-http://live.dxhmt.cn:9081/tv/11624-1.m3u8
-#EXTINF:-1 tvg-name="郸城 1080" tvg-logo="https://live.fanmingming.com/tv/郸城 1080.png" group-title="📡地方频道",郸城 1080
-http://live.dxhmt.cn:9081/tv/11625-1.m3u8
-#EXTINF:-1 tvg-name="鹿邑 1080" tvg-logo="https://live.fanmingming.com/tv/鹿邑 1080.png" group-title="📡地方频道",鹿邑 1080
-http://live.dxhmt.cn:9081/tv/11628-1.m3u8
-#EXTINF:-1 tvg-name="项城 1080" tvg-logo="https://live.fanmingming.com/tv/项城 1080.png" group-title="📡地方频道",项城 1080
-http://live.dxhmt.cn:9081/tv/11681-1.m3u8
-#EXTINF:-1 tvg-name="西平 1080" tvg-logo="https://live.fanmingming.com/tv/西平 1080.png" group-title="📡地方频道",西平 1080
-http://live.dxhmt.cn:9081/tv/11721-1.m3u8
-#EXTINF:-1 tvg-name="平舆 1080" tvg-logo="https://live.fanmingming.com/tv/平舆 1080.png" group-title="📡地方频道",平舆 1080
-http://live.dxhmt.cn:9081/tv/11723-1.m3u8
-#EXTINF:-1 tvg-name="确山 1080" tvg-logo="https://live.fanmingming.com/tv/确山 1080.png" group-title="📡地方频道",确山 1080
-http://live.dxhmt.cn:9081/tv/11725-1.m3u8
-#EXTINF:-1 tvg-name="泌阳 1080" tvg-logo="https://live.fanmingming.com/tv/泌阳 1080.png" group-title="📡地方频道",泌阳 1080
-http://live.dxhmt.cn:9081/tv/11726-1.m3u8
-#EXTINF:-1 tvg-name="遂平 1080" tvg-logo="https://live.fanmingming.com/tv/遂平 1080.png" group-title="📡地方频道",遂平 1080
-http://live.dxhmt.cn:9081/tv/11728-1.m3u8
-#EXTINF:-1 tvg-name="新蔡 1080" tvg-logo="https://live.fanmingming.com/tv/新蔡 1080.png" group-title="📡地方频道",新蔡 1080
-http://live.dxhmt.cn:9081/tv/11729-1.m3u8
-#EXTINF:-1 tvg-name="济源 1080" tvg-logo="https://live.fanmingming.com/tv/济源 1080.png" group-title="📡地方频道",济源 1080
-http://live.dxhmt.cn:9081/tv/19001-1.m3u8
 #EXTINF:-1 tvg-name="安阳新闻" tvg-logo="https://live.fanmingming.com/tv/安阳新闻.png" group-title="📡地方频道",安阳新闻
 http://zhpull.dxhmt.cn:80/anyang/7e3b40563af54e2f9f48e2c67c5d9fab/playlist.m3u8
 #EXTINF:-1 tvg-name="安阳公共" tvg-logo="https://live.fanmingming.com/tv/安阳公共.png" group-title="📡地方频道",安阳公共
