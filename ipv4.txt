@@ -965,165 +965,108 @@ CETV-1,http://61.54.14.232:9801/tsfile/live/1044_1.m3u8
 河北公共,http://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8?t=2510710360&k=6c7672b94bb3940303bd8f5b81d4bdb6
 河北公共,http://tv.pull.hebtv.com/jishi/gonggongpindao.flv?t=2510710360&k=3656451936184a7500239d3ba501cf7f
 河北公共,rtmp://tv.pull.hebtv.com/jishi/gonggongpindao?t=2510710360&k=6201048dbf6392c9f95d779a8783ce96
-CCTV1-综合,http://tvzb.viphost.vip/wztv.php?id=cctv1
-CCTV2-财经,http://tvzb.viphost.vip/wztv.php?id=cctv2
-CCTV3-综艺,http://tvzb.viphost.vip/wztv.php?id=cctv3
-CCTV4-国际,http://tvzb.viphost.vip/wztv.php?id=cctv4
-CCTV5-体育,http://tvzb.viphost.vip/wztv.php?id=cctv5
-CCTV6-电影,http://tvzb.viphost.vip/wztv.php?id=cctv6
-CCTV8-电视剧,http://tvzb.viphost.vip/wztv.php?id=cctv8
-CCTV9-纪录,http://tvzb.viphost.vip/wztv.php?id=cctv9
-CCTV10-科教,http://tvzb.viphost.vip/wztv.php?id=cctv10
-CCTV11-戏曲,http://tvzb.viphost.vip/wztv.php?id=cctv11
-CCTV12-社会与法,http://tvzb.viphost.vip/wztv.php?id=cctv12
-CCTV13-新闻,http://tvzb.viphost.vip/wztv.php?id=cctv13
-CCTV14-少儿,http://tvzb.viphost.vip/wztv.php?id=cctv14
-CCTV15-音乐,http://tvzb.viphost.vip/wztv.php?id=cctv15
-CCTV16-奥林匹克,http://tvzb.viphost.vip/wztv.php?id=cctv16
-CCTV17-农业农村,http://tvzb.viphost.vip/wztv.php?id=cctv17
-安徽卫视,http://tvzb.viphost.vip/wztv.php?id=ahws
-北京卫视,http://tvzb.viphost.vip/wztv.php?id=bjws
-兵团卫视,http://tvzb.viphost.vip/wztv.php?id=btws
-重庆卫视,http://tvzb.viphost.vip/wztv.php?id=cqws
-东方卫视,http://tvzb.viphost.vip/wztv.php?id=dfws
-东南卫视,http://tvzb.viphost.vip/wztv.php?id=dnws
-广东卫视,http://tvzb.viphost.vip/wztv.php?id=gdws
-广西卫视,http://tvzb.viphost.vip/wztv.php?id=gxws
-贵州卫视,http://tvzb.viphost.vip/wztv.php?id=gzws
-海南卫视,http://tvzb.viphost.vip/wztv.php?id=hinws
-河北卫视,http://tvzb.viphost.vip/wztv.php?id=hbws
-河南卫视,http://tvzb.viphost.vip/wztv.php?id=hnws
-黑龙江卫视,http://tvzb.viphost.vip/wztv.php?id=hljws
-湖北卫视,http://tvzb.viphost.vip/wztv.php?id=hubws
-湖南卫视,http://tvzb.viphost.vip/wztv.php?id=hunws
-吉林卫视,http://tvzb.viphost.vip/wztv.php?id=jlws
-江苏卫视,http://tvzb.viphost.vip/wztv.php?id=jsws
-江西卫视,http://tvzb.viphost.vip/wztv.php?id=jxws
-辽宁卫视,http://tvzb.viphost.vip/wztv.php?id=lnws
-内蒙古卫视,http://tvzb.viphost.vip/wztv.php?id=nmws
-宁夏卫视,http://tvzb.viphost.vip/wztv.php?id=nxws
-青海卫视,http://tvzb.viphost.vip/wztv.php?id=qhws
-深圳卫视,http://tvzb.viphost.vip/wztv.php?id=szws
-四川卫视,http://tvzb.viphost.vip/wztv.php?id=scws
-天津卫视,http://tvzb.viphost.vip/wztv.php?id=tjws
-西藏卫视,http://tvzb.viphost.vip/wztv.php?id=xzws
-新疆卫视,http://tvzb.viphost.vip/wztv.php?id=xjws
-云南卫视,http://tvzb.viphost.vip/wztv.php?id=ynws
-浙江卫视,http://tvzb.viphost.vip/wztv.php?id=zjws
-炫动卡通,http://tvzb.viphost.vip/wztv.php?id=xdkt
-金鹰纪实,http://tvzb.viphost.vip/wztv.php?id=jyjs
-金鹰卡通,http://tvzb.viphost.vip/wztv.php?id=jykt
-中国教育1,http://tvzb.viphost.vip/wztv.php?id=cetv1
-中国教育4,http://tvzb.viphost.vip/wztv.php?id=cetv4
-江西都市,http://tvzb.viphost.vip/wztv.php?id=jxds
-江西经济,http://tvzb.viphost.vip/wztv.php?id=jxjs
-江西影视,http://tvzb.viphost.vip/wztv.php?id=jxys
-江西公共,http://tvzb.viphost.vip/wztv.php?id=jxgg
-江西少儿,http://tvzb.viphost.vip/wztv.php?id=jxse
-江西新闻,http://tvzb.viphost.vip/wztv.php?id=jxxw
-江西教育,http://tvzb.viphost.vip/wztv.php?id=jxjy
-CCTV1-综合,http://tvzb.viphost.vip/cyschc.php?id=cctv1
-CCTV2-财经,http://tvzb.viphost.vip/cyschc.php?id=cctv2
-CCTV3-综艺,http://tvzb.viphost.vip/cyschc.php?id=cctv3
-CCTV4-国际,http://tvzb.viphost.vip/cyschc.php?id=cctv4
-CCTV5-体育,http://tvzb.viphost.vip/cyschc.php?id=cctv5
-CCTV5-体育+,http://tvzb.viphost.vip/cyschc.php?id=cctv5p
-CCTV6-电影,http://tvzb.viphost.vip/cyschc.php?id=cctv6
-CCTV7-军农,http://tvzb.viphost.vip/cyschc.php?id=cctv7
-CCTV8-电视剧,http://tvzb.viphost.vip/cyschc.php?id=cctv8
-CCTV9-纪录,http://tvzb.viphost.vip/cyschc.php?id=cctv9
-CCTV10-科教,http://tvzb.viphost.vip/cyschc.php?id=cctv10
-CCTV11-戏曲,http://tvzb.viphost.vip/cyschc.php?id=cctv11
-CCTV12-社会与法,http://tvzb.viphost.vip/cyschc.php?id=cctv12
-CCTV13-新闻,http://tvzb.viphost.vip/cyschc.php?id=cctv13
-CCTV14-少儿,http://tvzb.viphost.vip/cyschc.php?id=cctv14
-CCTV15-音乐,http://tvzb.viphost.vip/cyschc.php?id=cctv15
-CCTV16-奥林匹克,http://tvzb.viphost.vip/cyschc.php?id=cctv16
-CCTV17-农业农村,http://tvzb.viphost.vip/cyschc.php?id=cctv17
-CCTV-4K,http://tvzb.viphost.vip/cyschc.php?id=cctv16_4k
-CHC动作电影,http://tvzb.viphost.vip/cyschc.php?id=chcdz
-CHC高清电影,http://tvzb.viphost.vip/cyschc.php?id=chcgq
-CHC家庭影院,http://tvzb.viphost.vip/cyschc.php?id=chcjt
-河南卫视,http://tvzb.viphost.vip/cyschc.php?id=hnws
-安徽卫视,http://tvzb.viphost.vip/cyschc.php?id=ahws
-北京卫视,http://tvzb.viphost.vip/cyschc.php?id=bjws
-兵团卫视,http://tvzb.viphost.vip/cyschc.php?id=btws
-重庆卫视,http://tvzb.viphost.vip/cyschc.php?id=cqws
-东方卫视,http://tvzb.viphost.vip/cyschc.php?id=dfws
-东南卫视,http://tvzb.viphost.vip/cyschc.php?id=dnws
-广东卫视,http://tvzb.viphost.vip/cyschc.php?id=gdws
-广西卫视,http://tvzb.viphost.vip/cyschc.php?id=gxws
-贵州卫视,http://tvzb.viphost.vip/cyschc.php?id=gzws
-海南卫视,http://tvzb.viphost.vip/cyschc.php?id=hinws
-河北卫视,http://tvzb.viphost.vip/cyschc.php?id=hbws
-黑龙江卫视,http://tvzb.viphost.vip/cyschc.php?id=hljws
-湖北卫视,http://tvzb.viphost.vip/cyschc.php?id=hubws
-湖南卫视,http://tvzb.viphost.vip/cyschc.php?id=hunws
-吉林卫视,http://tvzb.viphost.vip/cyschc.php?id=jlws
-江苏卫视,http://tvzb.viphost.vip/cyschc.php?id=jsws
-江西卫视,http://tvzb.viphost.vip/cyschc.php?id=jxws
-金鹰卡通,http://tvzb.viphost.vip/cyschc.php?id=jykt
-辽宁卫视,http://tvzb.viphost.vip/cyschc.php?id=lnws
-内蒙古卫视,http://tvzb.viphost.vip/cyschc.php?id=nmws
-宁夏卫视,http://tvzb.viphost.vip/cyschc.php?id=nxws
-青海卫视,http://tvzb.viphost.vip/cyschc.php?id=qhws
-三沙卫视,http://tvzb.viphost.vip/cyschc.php?id=ssws
-深圳卫视,http://tvzb.viphost.vip/cyschc.php?id=szws
-四川卫视,http://tvzb.viphost.vip/cyschc.php?id=scws
-天津卫视,http://tvzb.viphost.vip/cyschc.php?id=tjws
-西藏卫视,http://tvzb.viphost.vip/cyschc.php?id=xzws
-新疆卫视,http://tvzb.viphost.vip/cyschc.php?id=xjws
-云南卫视,http://tvzb.viphost.vip/cyschc.php?id=ynws
-浙江卫视,http://tvzb.viphost.vip/cyschc.php?id=zjws
-重温经典,http://tvzb.viphost.vip/cyschc.php?id=cwjd
-爱看导视,http://tvzb.viphost.vip/cyschc.php?id=akds
-兵器科技,http://tvzb.viphost.vip/cyschc.php?id=bqkj
-财富天下,http://tvzb.viphost.vip/cyschc.php?id=cftx
-车迷,http://tvzb.viphost.vip/cyschc.php?id=cmpd
-第一剧场,http://tvzb.viphost.vip/cyschc.php?id=dyjc
-发现之旅,http://tvzb.viphost.vip/cyschc.php?id=fxzl
-风云剧场,http://tvzb.viphost.vip/cyschc.php?id=fyjc
-风云音乐,http://tvzb.viphost.vip/cyschc.php?id=fyyy
-风云足球,http://tvzb.viphost.vip/cyschc.php?id=fyzq
-高尔夫网球,http://tvzb.viphost.vip/cyschc.php?id=gefwq
-国学,http://tvzb.viphost.vip/cyschc.php?id=gxpd
-怀旧剧场,http://tvzb.viphost.vip/cyschc.php?id=hjjc
-快乐垂钓,http://tvzb.viphost.vip/cyschc.php?id=klcd
-老故事,http://tvzb.viphost.vip/cyschc.php?id=lgs
-求索纪录,http://tvzb.viphost.vip/cyschc.php?id=qsjl
-收藏天下,http://tvzb.viphost.vip/cyschc.php?id=sctx
-书画,http://tvzb.viphost.vip/cyschc.php?id=sh
-天元围棋,http://tvzb.viphost.vip/cyschc.php?id=tywq
-文化精品,http://tvzb.viphost.vip/cyschc.php?id=whjp
-先锋乒羽,http://tvzb.viphost.vip/cyschc.php?id=xfpy
-新动漫,http://tvzb.viphost.vip/cyschc.php?id=xdm
-央视台球,http://tvzb.viphost.vip/cyschc.php?id=ystq
-证券服务,http://tvzb.viphost.vip/cyschc.php?id=zqfw
-中国天气,http://tvzb.viphost.vip/cyschc.php?id=zgtq
-中学生,http://tvzb.viphost.vip/cyschc.php?id=zxs
-重广融媒,http://tvzb.viphost.vip/cyschc.php?id=cgrm
-东方财经,http://tvzb.viphost.vip/cyschc.php?id=dfcj
-动漫秀场,http://tvzb.viphost.vip/cyschc.php?id=dmxc
-都市剧场,http://tvzb.viphost.vip/cyschc.php?id=dsjc
-法治天地,http://tvzb.viphost.vip/cyschc.php?id=fztd
-欢笑剧场,http://tvzb.viphost.vip/cyschc.php?id=hxjc
-魅力足球,http://tvzb.viphost.vip/cyschc.php?id=mlxq
-生活时尚,http://tvzb.viphost.vip/cyschc.php?id=shss
-游戏风云,http://tvzb.viphost.vip/cyschc.php?id=yxfy
-山东教育,http://tvzb.viphost.vip/cyschc.php?id=sdjy
-早期教育,http://tvzb.viphost.vip/cyschc.php?id=zqjy
-CETV1,http://tvzb.viphost.vip/cyschc.php?id=cetv1
-CETV4,http://tvzb.viphost.vip/cyschc.php?id=cetv4
-百姓健康,http://tvzb.viphost.vip/cyschc.php?id=bxjk
-北京纪实科教,http://tvzb.viphost.vip/cyschc.php?id=bjjskj
-环球旅游,http://tvzb.viphost.vip/cyschc.php?id=hqly
-环球奇观,http://tvzb.viphost.vip/cyschc.php?id=hqqg
-聚鲨环球精选,http://tvzb.viphost.vip/cyschc.php?id=jshwjx
-卡酷少儿,http://tvzb.viphost.vip/cyschc.php?id=bjkk
-生态环境,http://tvzb.viphost.vip/cyschc.php?id=sthj
-四海钓鱼,http://tvzb.viphost.vip/cyschc.php?id=shdy
-优优宝贝,http://tvzb.viphost.vip/cyschc.php?id=yybb
-中华特产,http://tvzb.viphost.vip/cyschc.php?id=zhtc
+CCTV1-综合,http://10086.wuzhij.top/cyschc.php?id=cctv1
+CCTV2-财经,http://10086.wuzhij.top/cyschc.php?id=cctv2
+CCTV3-综艺,http://10086.wuzhij.top/cyschc.php?id=cctv3
+CCTV4-国际,http://10086.wuzhij.top/cyschc.php?id=cctv4
+CCTV5-体育,http://10086.wuzhij.top/cyschc.php?id=cctv5
+CCTV5-体育+,http://10086.wuzhij.top/cyschc.php?id=cctv5p
+CCTV6-电影,http://10086.wuzhij.top/cyschc.php?id=cctv6
+CCTV7-军农,http://10086.wuzhij.top/cyschc.php?id=cctv7
+CCTV8-电视剧,http://10086.wuzhij.top/cyschc.php?id=cctv8
+CCTV9-纪录,http://10086.wuzhij.top/cyschc.php?id=cctv9
+CCTV10-科教,http://10086.wuzhij.top/cyschc.php?id=cctv10
+CCTV11-戏曲,http://10086.wuzhij.top/cyschc.php?id=cctv11
+CCTV12-社会与法,http://10086.wuzhij.top/cyschc.php?id=cctv12
+CCTV13-新闻,http://10086.wuzhij.top/cyschc.php?id=cctv13
+CCTV14-少儿,http://10086.wuzhij.top/cyschc.php?id=cctv14
+CCTV15-音乐,http://10086.wuzhij.top/cyschc.php?id=cctv15
+CCTV16-奥林匹克,http://10086.wuzhij.top/cyschc.php?id=cctv16
+CCTV17-农业农村,http://10086.wuzhij.top/cyschc.php?id=cctv17
+CCTV-4K,http://10086.wuzhij.top/cyschc.php?id=cctv16_4k
+CHC动作电影,http://10086.wuzhij.top/cyschc.php?id=chcdz
+CHC高清电影,http://10086.wuzhij.top/cyschc.php?id=chcgq
+CHC家庭影院,http://10086.wuzhij.top/cyschc.php?id=chcjt
+河南卫视,http://10086.wuzhij.top/cyschc.php?id=hnws
+安徽卫视,http://10086.wuzhij.top/cyschc.php?id=ahws
+北京卫视,http://10086.wuzhij.top/cyschc.php?id=bjws
+兵团卫视,http://10086.wuzhij.top/cyschc.php?id=btws
+重庆卫视,http://10086.wuzhij.top/cyschc.php?id=cqws
+东方卫视,http://10086.wuzhij.top/cyschc.php?id=dfws
+东南卫视,http://10086.wuzhij.top/cyschc.php?id=dnws
+广东卫视,http://10086.wuzhij.top/cyschc.php?id=gdws
+广西卫视,http://10086.wuzhij.top/cyschc.php?id=gxws
+贵州卫视,http://10086.wuzhij.top/cyschc.php?id=gzws
+海南卫视,http://10086.wuzhij.top/cyschc.php?id=hinws
+河北卫视,http://10086.wuzhij.top/cyschc.php?id=hbws
+黑龙江卫视,http://10086.wuzhij.top/cyschc.php?id=hljws
+湖北卫视,http://10086.wuzhij.top/cyschc.php?id=hubws
+湖南卫视,http://10086.wuzhij.top/cyschc.php?id=hunws
+吉林卫视,http://10086.wuzhij.top/cyschc.php?id=jlws
+江苏卫视,http://10086.wuzhij.top/cyschc.php?id=jsws
+江西卫视,http://10086.wuzhij.top/cyschc.php?id=jxws
+金鹰卡通,http://10086.wuzhij.top/cyschc.php?id=jykt
+辽宁卫视,http://10086.wuzhij.top/cyschc.php?id=lnws
+内蒙古卫视,http://10086.wuzhij.top/cyschc.php?id=nmws
+宁夏卫视,http://10086.wuzhij.top/cyschc.php?id=nxws
+青海卫视,http://10086.wuzhij.top/cyschc.php?id=qhws
+三沙卫视,http://10086.wuzhij.top/cyschc.php?id=ssws
+深圳卫视,http://10086.wuzhij.top/cyschc.php?id=szws
+四川卫视,http://10086.wuzhij.top/cyschc.php?id=scws
+天津卫视,http://10086.wuzhij.top/cyschc.php?id=tjws
+西藏卫视,http://10086.wuzhij.top/cyschc.php?id=xzws
+新疆卫视,http://10086.wuzhij.top/cyschc.php?id=xjws
+云南卫视,http://10086.wuzhij.top/cyschc.php?id=ynws
+浙江卫视,http://10086.wuzhij.top/cyschc.php?id=zjws
+重温经典,http://10086.wuzhij.top/cyschc.php?id=cwjd
+爱看导视,http://10086.wuzhij.top/cyschc.php?id=akds
+兵器科技,http://10086.wuzhij.top/cyschc.php?id=bqkj
+财富天下,http://10086.wuzhij.top/cyschc.php?id=cftx
+车迷,http://10086.wuzhij.top/cyschc.php?id=cmpd
+第一剧场,http://10086.wuzhij.top/cyschc.php?id=dyjc
+发现之旅,http://10086.wuzhij.top/cyschc.php?id=fxzl
+风云剧场,http://10086.wuzhij.top/cyschc.php?id=fyjc
+风云音乐,http://10086.wuzhij.top/cyschc.php?id=fyyy
+风云足球,http://10086.wuzhij.top/cyschc.php?id=fyzq
+高尔夫网球,http://10086.wuzhij.top/cyschc.php?id=gefwq
+国学,http://10086.wuzhij.top/cyschc.php?id=gxpd
+怀旧剧场,http://10086.wuzhij.top/cyschc.php?id=hjjc
+快乐垂钓,http://10086.wuzhij.top/cyschc.php?id=klcd
+老故事,http://10086.wuzhij.top/cyschc.php?id=lgs
+求索纪录,http://10086.wuzhij.top/cyschc.php?id=qsjl
+收藏天下,http://10086.wuzhij.top/cyschc.php?id=sctx
+书画,http://10086.wuzhij.top/cyschc.php?id=sh
+天元围棋,http://10086.wuzhij.top/cyschc.php?id=tywq
+文化精品,http://10086.wuzhij.top/cyschc.php?id=whjp
+先锋乒羽,http://10086.wuzhij.top/cyschc.php?id=xfpy
+新动漫,http://10086.wuzhij.top/cyschc.php?id=xdm
+央视台球,http://10086.wuzhij.top/cyschc.php?id=ystq
+证券服务,http://10086.wuzhij.top/cyschc.php?id=zqfw
+中国天气,http://10086.wuzhij.top/cyschc.php?id=zgtq
+中学生,http://10086.wuzhij.top/cyschc.php?id=zxs
+重广融媒,http://10086.wuzhij.top/cyschc.php?id=cgrm
+东方财经,http://10086.wuzhij.top/cyschc.php?id=dfcj
+动漫秀场,http://10086.wuzhij.top/cyschc.php?id=dmxc
+都市剧场,http://10086.wuzhij.top/cyschc.php?id=dsjc
+法治天地,http://10086.wuzhij.top/cyschc.php?id=fztd
+欢笑剧场,http://10086.wuzhij.top/cyschc.php?id=hxjc
+魅力足球,http://10086.wuzhij.top/cyschc.php?id=mlxq
+生活时尚,http://10086.wuzhij.top/cyschc.php?id=shss
+游戏风云,http://10086.wuzhij.top/cyschc.php?id=yxfy
+山东教育,http://10086.wuzhij.top/cyschc.php?id=sdjy
+早期教育,http://10086.wuzhij.top/cyschc.php?id=zqjy
+CETV1,http://10086.wuzhij.top/cyschc.php?id=cetv1
+CETV4,http://10086.wuzhij.top/cyschc.php?id=cetv4
+百姓健康,http://10086.wuzhij.top/cyschc.php?id=bxjk
+北京纪实科教,http://10086.wuzhij.top/cyschc.php?id=bjjskj
+环球旅游,http://10086.wuzhij.top/cyschc.php?id=hqly
+环球奇观,http://10086.wuzhij.top/cyschc.php?id=hqqg
+聚鲨环球精选,http://10086.wuzhij.top/cyschc.php?id=jshwjx
+卡酷少儿,http://10086.wuzhij.top/cyschc.php?id=bjkk
+生态环境,http://10086.wuzhij.top/cyschc.php?id=sthj
+四海钓鱼,http://10086.wuzhij.top/cyschc.php?id=shdy
+优优宝贝,http://10086.wuzhij.top/cyschc.php?id=yybb
+中华特产,http://10086.wuzhij.top/cyschc.php?id=zhtc
 CCTV1,http://27.16.234.19:4022/udp/239.254.96.96:8550
 CCTV2,http://27.16.234.19:4022/udp/239.69.1.102:10250
 CCTV3,http://27.16.234.19:4022/udp/239.69.1.122:10370
@@ -3179,16 +3122,16 @@ CGTN-俄语,http://115.60.241.249:2000/rtp/225.1.5.39:1349
 禹州综合,http://live.dxhmt.cn:9081/tv/11081-1.m3u8
 禹州公共,http://tvpull.dxhmt.cn:9081/tv/11081-2.m3u8
 禹州公共,http://tvpull.dxhmt.cn/tv/11081-2.m3u8
-洛阳新闻,http://mtv.wuzhij.com/hnly.php?id=zh
-洛阳科教,http://mtv.wuzhij.com/hnly.php?id=kj
-洛阳文旅,http://mtv.wuzhij.com/hnly.php?id=wl
-崇县综合,http://mtv.wuzhij.com/hnly.php?id=cx
-洛宁综合,http://mtv.wuzhij.com/hnly.php?id=ln
-新安综合,http://mtv.wuzhij.com/hnly.php?id=xa
-周口新闻,http://mtv.wuzhij.com/hnzk.php?id=zkxwzh
-周口公共,http://mtv.wuzhij.com/hnzk.php?id=zkgg
-周口教育,http://mtv.wuzhij.com/hnzk.php?id=zkjy
-周口川汇,http://mtv.wuzhij.com/hnzk.php?id=zkch
+洛阳新闻,http://10086.wuzhij.top/hnly.php?id=zh
+洛阳科教,http://10086.wuzhij.top/hnly.php?id=kj
+洛阳文旅,http://10086.wuzhij.top/hnly.php?id=wl
+崇县综合,http://10086.wuzhij.top/hnly.php?id=cx
+洛宁综合,http://10086.wuzhij.top/hnly.php?id=ln
+新安综合,http://10086.wuzhij.top/hnly.php?id=xa
+周口新闻,http://10086.wuzhij.top/hnzk.php?id=zkxwzh
+周口公共,http://10086.wuzhij.top/hnzk.php?id=zkgg
+周口教育,http://10086.wuzhij.top/hnzk.php?id=zkjy
+周口川汇,http://10086.wuzhij.top/hnzk.php?id=zkch
 CCTV1-综合,http://219.156.48.77:9999/rtp/225.1.4.73:1102
 CCTV2-财经,http://219.156.48.77:9999/rtp/225.1.4.74:1103
 CCTV3-综艺,http://219.156.48.77:9999/rtp/225.1.4.158:1194
@@ -7954,20 +7897,20 @@ Now 668足球,http://histar-proxy.isus.cc/now-668
 湖南电影,http://php.jdshipin.com:8880/iptv.php?id=hndy
 湖南娱乐,http://php.jdshipin.com:8880/iptv.php?id=hnyl
 湖南国际,http://php.jdshipin.com:8880/iptv.php?id=hngj
-湖南电视剧,http://mtv.wuzhij.com/mg.php?id=hndsj
-湖南国际,http://mtv.wuzhij.com/mg.php?id=hngj
-湖南娱乐,http://mtv.wuzhij.com/mg.php?id=hnyl
-湖南都市,http://mtv.wuzhij.com/mg.php?id=hnds         
-金鹰纪实,http://mtv.wuzhij.com/mg.php?id=jyjs
-湖南公共,http://mtv.wuzhij.com/mg.php?id=hngg
-金鹰卡通,http://mtv.wuzhij.com/mg.php?id=jykt
-陕西卫视,http://mtv.wuzhij.com/sxxa.php?id=sxws
-农林卫视,http://mtv.wuzhij.com/sxxa.php?id=nlws
-陕西新闻,http://mtv.wuzhij.com/sxxa.php?id=sxxwzx
-陕西都市,http://mtv.wuzhij.com/sxxa.php?id=sxdsqc
-陕西生活,http://mtv.wuzhij.com/sxxa.php?id=sxsh
-陕西公共,http://mtv.wuzhij.com/sxxa.php?id=sxgg
-陕西体育,http://mtv.wuzhij.com/sxxa.php?id=sxtyxx
+湖南电视剧,http://10086.wuzhij.top/mg.php?id=hndsj
+湖南国际,http://10086.wuzhij.top/mg.php?id=hngj
+湖南娱乐,http://10086.wuzhij.top/mg.php?id=hnyl
+湖南都市,http://10086.wuzhij.top/mg.php?id=hnds         
+金鹰纪实,http://10086.wuzhij.top/mg.php?id=jyjs
+湖南公共,http://10086.wuzhij.top/mg.php?id=hngg
+金鹰卡通,http://10086.wuzhij.top/mg.php?id=jykt
+陕西卫视,http://10086.wuzhij.top/sxxa.php?id=sxws
+农林卫视,http://10086.wuzhij.top/sxxa.php?id=nlws
+陕西新闻,http://10086.wuzhij.top/sxxa.php?id=sxxwzx
+陕西都市,http://10086.wuzhij.top/sxxa.php?id=sxdsqc
+陕西生活,http://10086.wuzhij.top/sxxa.php?id=sxsh
+陕西公共,http://10086.wuzhij.top/sxxa.php?id=sxgg
+陕西体育,http://10086.wuzhij.top/sxxa.php?id=sxtyxx
 延边频道,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8?zjild
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?zjild
@@ -8007,10 +7950,10 @@ Now 668足球,http://histar-proxy.isus.cc/now-668
 广西｜贺州,http://zhz.gxhzxw.com:2935/live/HZXW-HD/chunklist.m3u8
 广西｜贺州,http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
 广西｜罗城综合,http://111.12.75.177:9100/lctvlive/lch.m3u8?zguangxd
-桂林新闻综合,http://mtv.wuzhij.com/gl.php?id=xwzh
-桂林公共,http://mtv.wuzhij.com/gl.php?id=glgg
-桂林科教旅游,http://mtv.wuzhij.com/gl.php?id=glkj
-http://mtv.wuzhij.com/katusha.php
+桂林新闻综合,http://10086.wuzhij.top/gl.php?id=xwzh
+桂林公共,http://10086.wuzhij.top/gl.php?id=glgg
+桂林科教旅游,http://10086.wuzhij.top/gl.php?id=glkj
+http://10086.wuzhij.top/katusha.php
 苏州4K频道,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 河北频道,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3944fff7fdd8f8caf6adce2c9a0ef126
 平泉电影,https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
@@ -8041,13 +7984,13 @@ http://mtv.wuzhij.com/katusha.php
 河北公共,http://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8?t=2510710360&k=6c7672b94bb3940303bd8f5b81d4bdb6
 河北公共,http://tv.pull.hebtv.com/jishi/gonggongpindao.flv?t=2510710360&k=3656451936184a7500239d3ba501cf7f
 河北公共,rtmp://tv.pull.hebtv.com/jishi/gonggongpindao?t=2510710360&k=6201048dbf6392c9f95d779a8783ce96
-东方卫视,http://tvzb.viphost.vip/shanghai.php?id=dfws
-上海新闻综合,http://tvzb.viphost.vip/shanghai.php?id=shxwzh
-上海ics,http://tvzb.viphost.vip/shanghai.php?id=shics
-上海都市,http://tvzb.viphost.vip/shanghai.php?id=shds
-第1财经,http://tvzb.viphost.vip/shanghai.php?id=dycj
-上海纪实人文,http://tvzb.viphost.vip/shanghai.php?id=jsrw
-哈哈炫动,http://tvzb.viphost.vip/shanghai.php?id=hhxd
+东方卫视,http://10086.wuzhij.top/shanghai.php?id=dfws
+上海新闻综合,http://10086.wuzhij.top/shanghai.php?id=shxwzh
+上海ics,http://10086.wuzhij.top/shanghai.php?id=shics
+上海都市,http://10086.wuzhij.top/shanghai.php?id=shds
+第1财经,http://10086.wuzhij.top/shanghai.php?id=dycj
+上海纪实人文,http://10086.wuzhij.top/shanghai.php?id=jsrw
+哈哈炫动,http://10086.wuzhij.top/shanghai.php?id=hhxd
 上海新闻综合,http://5f11df.tv.netsite.cc/proxy/1800137038/1800137038.m3u8
 上海外语频道,http://5f11df.tv.netsite.cc/proxy/1701776112/1701776112.m3u8
 上海第一财经,http://5f11df.tv.netsite.cc/proxy/1946402424/1946402424.m3u8
@@ -8420,56 +8363,56 @@ http://mtv.wuzhij.com/katusha.php
 地下交通站,http://159.75.85.63:35455/huya/11342433?cdn=hwcdn
 小兵张嘎,http://live.iill.top/yy.php?id=1354930225
 五号特工组,http://live.iill.top/yy.php?id=1507704566
-游击队,http://mtv.wuzhij.com/huya.php?id=11352936&cdn=hwcdn
+游击队,http://10086.wuzhij.top/huya.php?id=11352936&cdn=hwcdn
 游击队,http://159.75.85.63:35455/huya/11352936?cdn=hwcdn
 游击队,http://159.75.85.63:35455/huya/11352936?cdn=txcdn
 游击队,http://159.75.85.63:35455/huya/11352936?cdn=hscdn
-雪豹,http://mtv.wuzhij.com/huya.php?id=29580970&cdn=txcdn
+雪豹,http://10086.wuzhij.top/huya.php?id=29580970&cdn=txcdn
 雪豹,http://159.75.85.63:35455/huya/29580970?cdn=hwcdn
 雪豹,http://159.75.85.63:35455/huya/29580970?cdn=hscdn
 雪豹,http://159.75.85.63:35455/huya/29580970?cdn=hwcdn
-狼毒花,http://mtv.wuzhij.com/huya.php?id=11602042&cdn=hwcdn
+狼毒花,http://10086.wuzhij.top/huya.php?id=11602042&cdn=hwcdn
 狼毒花,http://159.75.85.63:35455/huya/11602042?cdn=txcdn
 狼毒花,http://159.75.85.63:35455/huya/11602042?cdn=hscdn
 狼毒花,http://159.75.85.63:35455/huya/11602042?cdn=hwcdn
 二炮手,http://live.iill.top/yy.php?id=1354930964
-老农民,http://mtv.wuzhij.com/huya.php?id=29580971&cdn=txcdn
+老农民,http://10086.wuzhij.top/huya.php?id=29580971&cdn=txcdn
 老农民,http://159.75.85.63:35455/huya/29580971?cdn=txcdn
 老农民,http://159.75.85.63:35455/huya/29580971?cdn=hscdn
 老农民,http://159.75.85.63:35455/huya/29580971?cdn=hwcdn
-海绵宝宝,http://mtv.wuzhij.com/huya.php?id=11352919&cdn=txcdn
+海绵宝宝,http://10086.wuzhij.top/huya.php?id=11352919&cdn=txcdn
 海绵宝宝,http://159.75.85.63:35455/huya/11352919?cdn=txcdn
 海绵宝宝,http://159.75.85.63:35455/huya/11352919?cdn=hwcdn
 海绵宝宝,http://159.75.85.63:35455/huya/11352919?cdn=hscdn
-哆啦A梦,http://mtv.wuzhij.com/huya.php?id=11601963&cdn=txcdn
+哆啦A梦,http://10086.wuzhij.top/huya.php?id=11601963&cdn=txcdn
 哆啦A梦,http://159.75.85.63:35455/huya/11601963?cdn=txcdn
 哆啦A梦,http://159.75.85.63:35455/huya/11601963?cdn=hscdn
 哆啦A梦,http://159.75.85.63:35455/huya/11601963?cdn=hwcdn
-蜡笔小新,http://mtv.wuzhij.com/huya.php?id=11352970&cdn=txcdn
+蜡笔小新,http://10086.wuzhij.top/huya.php?id=11352970&cdn=txcdn
 蜡笔小新,http://159.75.85.63:35455/huya/11352970?cdn=txcdn
 蜡笔小新,http://159.75.85.63:35455/huya/11352970?cdn=hscdn
 蜡笔小新,http://159.75.85.63:35455/huya/11352970?cdn=hwcdn
-成龙历险记,http://mtv.wuzhij.com/huya.php?id=11352946&cdn=txcdn
+成龙历险记,http://10086.wuzhij.top/huya.php?id=11352946&cdn=txcdn
 成龙历险记,http://159.75.85.63:35455/huya/11352946?cdn=txcdn
 成龙历险记,http://159.75.85.63:35455/huya/11352946?cdn=hscdn
 成龙历险记,http://159.75.85.63:35455/huya/11352946?cdn=hwcdn
-樱桃小丸子,http://mtv.wuzhij.com/huya.php?id=11342394&cdn=txcdn
+樱桃小丸子,http://10086.wuzhij.top/huya.php?id=11342394&cdn=txcdn
 樱桃小丸子,http://159.75.85.63:35455/huya/11342394?cdn=txcdn
 樱桃小丸子,http://159.75.85.63:35455/huya/11342394?cdn=hscdn
 樱桃小丸子,http://159.75.85.63:35455/huya/11342394?cdn=hwcdn
-火影忍者,http://mtv.wuzhij.com/huya.php?id=11342385&cdn=hwcdn
+火影忍者,http://10086.wuzhij.top/huya.php?id=11342385&cdn=hwcdn
 火影忍者,http://159.75.85.63:35455/huya/11342385?cdn=txcdn
 火影忍者,http://159.75.85.63:35455/huya/11342385?cdn=hscdn
 火影忍者,http://159.75.85.63:35455/huya/11342385?cdn=hwcdn
-中华小当家,http://mtv.wuzhij.com/huya.php?id=24257300&cdn=txcdn
+中华小当家,http://10086.wuzhij.top/huya.php?id=24257300&cdn=txcdn
 中华小当家,http://159.75.85.63:35455/huya/24257300?cdn=txcdn
 中华小当家,http://159.75.85.63:35455/huya/24257300?cdn=hscdn
 中华小当家,http://159.75.85.63:35455/huya/24257300?cdn=hwcdn
-网球王子,http://mtv.wuzhij.com/huya.php?id=11352882&cdn=hwcdn
+网球王子,http://10086.wuzhij.top/huya.php?id=11352882&cdn=hwcdn
 网球王子,http://159.75.85.63:35455/huya/11352882?cdn=txcdn
 网球王子,http://159.75.85.63:35455/huya/11352882?cdn=hscdn
 网球王子,http://159.75.85.63:35455/huya/11352882?cdn=hwcdn
-斗罗大陆,http://mtv.wuzhij.com/huya.php?id=11352906&cdn=txcdn
+斗罗大陆,http://10086.wuzhij.top/huya.php?id=11352906&cdn=txcdn
 斗罗大陆,http://159.75.85.63:35455/huya/11352906?cdn=txcdn
 斗罗大陆,http://159.75.85.63:35455/huya/11352906?cdn=hscdn
 斗罗大陆,http://159.75.85.63:35455/huya/11352906?cdn=hwcdn
@@ -8479,20 +8422,20 @@ http://mtv.wuzhij.com/katusha.php
 三国演义94版,http://live.iill.top/yy.php?id=1354930932
 新三国演义10版,http://live.iill.top/yy.php?id=1382851457
 新三国演义,http://live.iill.top/yy.php?id=1382851415
-新水浒传11版,http://mtv.wuzhij.com/huya.php?id=11342384&cdn=txcdn
+新水浒传11版,http://10086.wuzhij.top/huya.php?id=11342384&cdn=txcdn
 新水浒传11版,http://159.75.85.63:35455/huya/11342384?cdn=txcdn
 新水浒传11版,http://159.75.85.63:35455/huya/11342384?cdn=hscdn
 新水浒传11版,http://159.75.85.63:35455/huya/11342384?cdn=hwcdn
 天龙八部黄日华版,http://live.iill.top/yy.php?id=1351814644
-神雕侠侣古天乐版,http://mtv.wuzhij.com/huya.php?id=23865171&cdn=txcdn
+神雕侠侣古天乐版,http://10086.wuzhij.top/huya.php?id=23865171&cdn=txcdn
 神雕侠侣古天乐版,http://159.75.85.63:35455/huya/23865171?cdn=txcdn
 神雕侠侣古天乐版,http://159.75.85.63:35455/huya/23865171?cdn=hscdn
 神雕侠侣古天乐版,http://159.75.85.63:35455/huya/23865171?cdn=hwcdn
-笑傲江湖吕颂贤版,http://mtv.wuzhij.com/huya.php?id=23865142&cdn=hwcdn
+笑傲江湖吕颂贤版,http://10086.wuzhij.top/huya.php?id=23865142&cdn=hwcdn
 笑傲江湖吕颂贤版,http://159.75.85.63:35455/huya/23865142?cdn=txcdn
 笑傲江湖吕颂贤版,http://159.75.85.63:35455/huya/23865142?cdn=hscdn
 笑傲江湖吕颂贤版,http://159.75.85.63:35455/huya/23865142?cdn=hwcdn
-倚天屠龙记吴启华版,http://mtv.wuzhij.com/huya.php?id=23734246&cdn=txcdn
+倚天屠龙记吴启华版,http://10086.wuzhij.top/huya.php?id=23734246&cdn=txcdn
 倚天屠龙记吴启华版,http://159.75.85.63:35455/huya/23734246?cdn=txcdn
 倚天屠龙记吴启华版,http://159.75.85.63:35455/huya/23734246?cdn=hscdn
 倚天屠龙记吴启华版,http://159.75.85.63:35455/huya/23734246?cdn=hwcdn
@@ -8501,11 +8444,11 @@ http://mtv.wuzhij.com/katusha.php
 封神榜,http://live.iill.top/yy.php?id=1353426319
 神雕侠侣,http://live.iill.top/yy.php?id=1351762426
 鹿鼎记,http://live.iill.top/yy.php?id=28265277
-鹿鼎记梁朝伟版,http://mtv.wuzhij.com/huya.php?id=23734183&cdn=hwcdn
+鹿鼎记梁朝伟版,http://10086.wuzhij.top/huya.php?id=23734183&cdn=hwcdn
 鹿鼎记梁朝伟版,http://159.75.85.63:35455/huya/23734183?cdn=txcdn
 鹿鼎记梁朝伟版,http://159.75.85.63:35455/huya/23734183?cdn=hscdn
 鹿鼎记梁朝伟版,http://159.75.85.63:35455/huya/23734183?cdn=hwcdn
-鹿鼎记陈小春版,http://mtv.wuzhij.com/huya.php?id=23865080&cdn=txcdn
+鹿鼎记陈小春版,http://10086.wuzhij.top/huya.php?id=23865080&cdn=txcdn
 鹿鼎记陈小春版,http://159.75.85.63:35455/huya/23865080?cdn=txcdn
 鹿鼎记陈小春版,http://159.75.85.63:35455/huya/23865080?cdn=hscdn
 鹿鼎记陈小春版,http://159.75.85.63:35455/huya/23865080?cdn=hwcdn
@@ -8517,46 +8460,46 @@ http://mtv.wuzhij.com/katusha.php
 寻秦记,http://live.iill.top/yy.php?id=1382851591
 寒山潜龙,http://live.iill.top/yy.php?id=1382745103
 隋唐英雄传,http://live.iill.top/yy.php?id=1352475619
-老三国,http://mtv.wuzhij.com/huya.php?id=11602081&cdn=hwcdn
+老三国,http://10086.wuzhij.top/huya.php?id=11602081&cdn=hwcdn
 老三国,http://159.75.85.63:35455/huya/11602081?cdn=txcdn
 老三国,http://159.75.85.63:35455/huya/11602081?cdn=hscdn
 老三国,http://159.75.85.63:35455/huya/11602081?cdn=hwcdn
-新三国,http://mtv.wuzhij.com/huya.php?id=11352944&cdn=hwcdn
+新三国,http://10086.wuzhij.top/huya.php?id=11352944&cdn=hwcdn
 新三国,http://159.75.85.63:35455/huya/11352944?cdn=txcdn
 新三国,http://159.75.85.63:35455/huya/11352944?cdn=hscdn
 新三国,http://159.75.85.63:35455/huya/11352944?cdn=hwcdn
-新水浒,http://mtv.wuzhij.com/huya.php?id=11342384&cdn=txcdn
+新水浒,http://10086.wuzhij.top/huya.php?id=11342384&cdn=txcdn
 新水浒,http://159.75.85.63:35455/huya/11342384?cdn=txcdn
 新水浒,http://159.75.85.63:35455/huya/11342384?cdn=hscdn
 新水浒,http://159.75.85.63:35455/huya/11342384?cdn=hwcdn
-铁齿铜牙纪晓岚,http://mtv.wuzhij.com/huya.php?id=11342396&cdn=hwcdn
+铁齿铜牙纪晓岚,http://10086.wuzhij.top/huya.php?id=11342396&cdn=hwcdn
 铁齿铜牙纪晓岚,http://159.75.85.63:35455/huya/11342396?cdn=txcdn
 铁齿铜牙纪晓岚,http://159.75.85.63:35455/huya/11342396?cdn=hscdn
 铁齿铜牙纪晓岚,http://159.75.85.63:35455/huya/11342396?cdn=hwcdn
-庆余年,http://mtv.wuzhij.com/huya.php?id=11352960&cdn=txcdn
+庆余年,http://10086.wuzhij.top/huya.php?id=11352960&cdn=txcdn
 庆余年,http://159.75.85.63:35455/huya/11352960?cdn=txcdn
 庆余年,http://159.75.85.63:35455/huya/11352960?cdn=hscdn
 庆余年,http://159.75.85.63:35455/huya/11352960?cdn=hwcdn
-雍正王朝,http://mtv.wuzhij.com/huya.php?id=11342439&cdn=hwcdn
+雍正王朝,http://10086.wuzhij.top/huya.php?id=11342439&cdn=hwcdn
 雍正王朝,http://159.75.85.63:35455/huya/11342439?cdn=txcdn
 雍正王朝,http://159.75.85.63:35455/huya/11342439?cdn=hscdn
 雍正王朝,http://159.75.85.63:35455/huya/11342439?cdn=hwcdn
 少年包青天,http://live.iill.top/yy.php?id=1356043677
 少年包青天1-3,http://live.iill.top/yy.php?id=38498680
 少年包青天3,http://live.iill.top/yy.php?id=1382851540
-风云雄霸天下,http://mtv.wuzhij.com/huya.php?id=21059612&cdn=txcdn
+风云雄霸天下,http://10086.wuzhij.top/huya.php?id=21059612&cdn=txcdn
 风云雄霸天下,http://159.75.85.63:35455/huya/21059612?cdn=txcdn
 风云雄霸天下,http://159.75.85.63:35455/huya/21059612?cdn=hscdn
 风云雄霸天下,http://159.75.85.63:35455/huya/21059612?cdn=hwcdn
-封神榜陈浩民版,http://mtv.wuzhij.com/huya.php?id=23749096&cdn=txcdn
+封神榜陈浩民版,http://10086.wuzhij.top/huya.php?id=23749096&cdn=txcdn
 封神榜陈浩民版,http://159.75.85.63:35455/huya/23749096?cdn=txcdn
 封神榜陈浩民版,http://159.75.85.63:35455/huya/23749096?cdn=hscdn
 封神榜陈浩民版,http://159.75.85.63:35455/huya/23749096?cdn=hwcdn
-少年张三丰,http://mtv.wuzhij.com/huya.php?id=26355824&cdn=hwcdn
+少年张三丰,http://10086.wuzhij.top/huya.php?id=26355824&cdn=hwcdn
 少年张三丰,http://159.75.85.63:35455/huya/26355824?cdn=txcdn
 少年张三丰,http://159.75.85.63:35455/huya/26355824?cdn=hscdn
 少年张三丰,http://159.75.85.63:35455/huya/26355824?cdn=hwcdn
-倚天屠龙记,http://mtv.wuzhij.com/huya.php?id=11342403&cdn=txcdn
+倚天屠龙记,http://10086.wuzhij.top/huya.php?id=11342403&cdn=txcdn
 倚天屠龙记,http://159.75.85.63:35455/huya/11342403?cdn=txcdn
 倚天屠龙记,http://159.75.85.63:35455/huya/11342403?cdn=hscdn
 倚天屠龙记,http://159.75.85.63:35455/huya/11342403?cdn=hwcdn
@@ -8567,80 +8510,81 @@ http://mtv.wuzhij.com/katusha.php
 宰相刘罗锅,http://live.iill.top/yy.php?id=1382745191
 隋唐英雄传,http://live.iill.top/yy.php?id=1352475619
 康熙微服私访记,http://live.iill.top/yy.php?id=1352811698
-康熙王朝,http://mtv.wuzhij.com/huya.php?id=11352940&cdn=hwcdn
+康熙王朝,http://10086.wuzhij.top/huya.php?id=11352940&cdn=hwcdn
 康熙王朝,http://159.75.85.63:35455/huya/11352940?cdn=txcdn
 康熙王朝,http://159.75.85.63:35455/huya/11352940?cdn=hscdn
 康熙王朝,http://159.75.85.63:35455/huya/11352940?cdn=hwcdn
 康熙王朝yy,http://live.iill.top/yy.php?id=23055599
 大汉天子,http://live.iill.top/yy.php?id=1382736807
 宰相刘罗锅,http://live.iill.top/yy.php?id=1382745191
-神医喜来乐,http://live.iill.top/yy.php?id=1382714119
+神医喜来乐,http://tv.iill.top/yy.php?id=1382714119
+https://tv.iill.top/%E5%85%AC%E5%91%8A.html
 忠烈杨家将,http://live.iill.top/yy.php?id=1382749909
 少年歌行,http://live.iill.top/yy.php?id=1450556636
 雪中悍刀行,http://live.iill.top/yy.php?id=1382660835
 鹊刀门传奇,http://live.iill.top/yy.php?id=1355344777
 花千骨,http://live.iill.top/yy.php?id=1354943110
-花千骨hy,http://mtv.wuzhij.com/huya.php?id=26355839&cdn=hwcdn
+花千骨hy,http://10086.wuzhij.top/huya.php?id=26355839&cdn=hwcdn
 花千骨hy,http://159.75.85.63:35455/huya/26355839?cdn=txcdn
 花千骨hy,http://159.75.85.63:35455/huya/26355839?cdn=hscdn
 花千骨hy,http://159.75.85.63:35455/huya/26355839?cdn=hwcdn
-刁蛮公主,http://mtv.wuzhij.com/huya.php?id=29465879&cdn=txcdn
+刁蛮公主,http://10086.wuzhij.top/huya.php?id=29465879&cdn=txcdn
 刁蛮公主,http://159.75.85.63:35455/huya/29465879?cdn=txcdn
 刁蛮公主,http://159.75.85.63:35455/huya/29465879?cdn=hscdn
 刁蛮公主,http://159.75.85.63:35455/huya/29465879?cdn=hwcdn
 神探狄仁杰,http://live.iill.top/yy.php?id=1351755386
-神探狄仁杰hy,http://mtv.wuzhij.com/huya.php?id=11342425&cdn=hwcdn
+神探狄仁杰hy,http://10086.wuzhij.top/huya.php?id=11342425&cdn=hwcdn
 神探狄仁杰hy,http://159.75.85.63:35455/huya/11342425?cdn=txcdn
 神探狄仁杰hy,http://159.75.85.63:35455/huya/11342425?cdn=hscdn
 神探狄仁杰hy,http://159.75.85.63:35455/huya/11342425?cdn=hwcdn
-曲三更破案,http://mtv.wuzhij.com/huya.php?id=21059595&cdn=hwcdn
+曲三更破案,http://10086.wuzhij.top/huya.php?id=21059595&cdn=hwcdn
 曲三更破案,http://159.75.85.63:35455/huya/21059595?cdn=txcdn
 曲三更破案,http://159.75.85.63:35455/huya/21059595?cdn=hscdn
 曲三更破案,http://159.75.85.63:35455/huya/21059595?cdn=hwcdn
-李卫当官,http://mtv.wuzhij.com/huya.php?id=26355788&cdn=hwcdn
+李卫当官,http://10086.wuzhij.top/huya.php?id=26355788&cdn=hwcdn
 李卫当官,http://159.75.85.63:35455/huya/26355788?cdn=txcdn
 李卫当官,http://159.75.85.63:35455/huya/26355788?cdn=hscdn
 李卫当官,http://159.75.85.63:35455/huya/26355788?cdn=hwcdn
-大宋提刑官,http://mtv.wuzhij.com/huya.php?id=26355856&cdn=hwcdn
+大宋提刑官,http://10086.wuzhij.top/huya.php?id=26355856&cdn=hwcdn
 大宋提刑官,http://159.75.85.63:35455/huya/26355856?cdn=txcdn
 大宋提刑官,http://159.75.85.63:35455/huya/26355856?cdn=hscdn
 大宋提刑官,http://159.75.85.63:35455/huya/26355856?cdn=hwcdn
 仙剑奇侠传,http://live.iill.top/yy.php?id=1382749903
 武林外传,http://live.iill.top/yy.php?id=1355652820
 宝莲灯前传,http://live.iill.top/yy.php?id=1354931631
-宝莲灯前传HY,http://mtv.wuzhij.com/huya.php?id=21059563&cdn=hwcdn
+宝莲灯前传HY,http://10086.wuzhij.top/huya.php?id=21059563&cdn=hwcdn
 宝莲灯前传HY,http://159.75.85.63:35455/huya/21059563?cdn=txcdn
 宝莲灯前传HY,http://159.75.85.63:35455/huya/21059563?cdn=hscdn
 宝莲灯前传HY,http://159.75.85.63:35455/huya/21059563?cdn=hwcdn
-西游记,http://mtv.wuzhij.com/huya.php?id=26355861&cdn=txcdn
+西游记,http://10086.wuzhij.top/huya.php?id=26355861&cdn=txcdn
 西游记,http://159.75.85.63:35455/huya/26355861?cdn=txcdn
 西游记,http://159.75.85.63:35455/huya/26355861?cdn=hscdn
 西游记,http://159.75.85.63:35455/huya/26355861?cdn=hwcdn
 西游记后传,http://live.iill.top/yy.php?id=1382736846
 西游记张卫健版,http://live.iill.top/yy.php?id=1354936155
-西游记2,http://mtv.wuzhij.com/huya.php?id=29465859&cdn=txcdn
+西游记2,http://10086.wuzhij.top/huya.php?id=29465859&cdn=txcdn
 西游记2,http://159.75.85.63:35455/huya/29465859?cdn=txcdn
 西游记2,http://159.75.85.63:35455/huya/29465859?cdn=hscdn
 西游记2,http://159.75.85.63:35455/huya/29465859?cdn=hwcdn
 济公游记,http://live.iill.top/yy.php?id=1355265814
 新白娘子传奇,http://live.iill.top/yy.php?id=1354930969
 太子妃升职记,http://live.iill.top/yy.php?id=1354932359
-楚汉骄雄,http://mtv.wuzhij.com/huya.php?id=23740156&cdn=hwcdn
+楚汉骄雄,http://10086.wuzhij.top/huya.php?id=23740156&cdn=hwcdn
 楚汉骄雄,http://159.75.85.63:35455/huya/23740156?cdn=txcdn
 楚汉骄雄,http://159.75.85.63:35455/huya/23740156?cdn=hscdn
 楚汉骄雄,http://159.75.85.63:35455/huya/23740156?cdn=hwcdn
-洗冤录,http://mtv.wuzhij.com/huya.php?id=23903130&cdn=hwcdn
+洗冤录,http://10086.wuzhij.top/huya.php?id=23903130&cdn=hwcdn
 洗冤录,http://159.75.85.63:35455/huya/23903130?cdn=txcdn
 洗冤录,http://159.75.85.63:35455/huya/23903130?cdn=hscdn
 洗冤录,http://159.75.85.63:35455/huya/23903130?cdn=hwcdn
-金枝欲孽,http://mtv.wuzhij.com/huya.php?id=23865036&cdn=txcdn
+金枝欲孽,http://10086.wuzhij.top/huya.php?id=23865036&cdn=txcdn
 金枝欲孽,http://159.75.85.63:35455/huya/23865036?cdn=txcdn
 金枝欲孽,http://159.75.85.63:35455/huya/23865036?cdn=hscdn
 金枝欲孽,http://159.75.85.63:35455/huya/23865036?cdn=hwcdn
 金玉满堂,http://live.iill.top/yy.php?id=1382736881
 天下第一,http://live.iill.top/yy.php?id=1382736838
 公主嫁到,http://live.iill.top/yy.php?id=1382736915
-延禧攻略,http://mtv.wuzhij.com/huya.php?id=26355864&cdn=txcdn
+延禧攻略,http://10086.wuzhij.top/huya.php?id=26355864&cdn=txcdn
 延禧攻略,http://159.75.85.63:35455/huya/26355864?cdn=txcdn
 延禧攻略,http://159.75.85.63:35455/huya/26355864?cdn=hscdn
 延禧攻略,http://159.75.85.63:35455/huya/26355864?cdn=hwcdn
@@ -8654,13 +8598,13 @@ http://mtv.wuzhij.com/katusha.php
 父母爱情,http://live.iill.top/yy.php?id=1354926650
 情满四合院,http://live.iill.top/yy.php?id=1382736888
 永远一家人,http://live.iill.top/yy.php?id=1382736873
-爱情公寓,http://mtv.wuzhij.com/huya.php?id=11336726&cdn=hwcdn
+爱情公寓,http://10086.wuzhij.top/huya.php?id=11336726&cdn=hwcdn
 爱情公寓,http://159.75.85.63:35455/huya/11336726?cdn=txcdn
 爱情公寓,http://159.75.85.63:35455/huya/11336726?cdn=hscdn
 爱情公寓,http://159.75.85.63:35455/huya/11336726?cdn=hwcdn
 爱情公寓dy,http://tv.wuzhij.com/douyu/6863367
 我爱我家,http://live.iill.top/yy.php?id=1382735557
-家有儿女,http://mtv.wuzhij.com/huya.php?id=11352872&cdn=txcdn
+家有儿女,http://10086.wuzhij.top/huya.php?id=11352872&cdn=txcdn
 家有儿女,http://159.75.85.63:35455/huya/11352872?cdn=txcdn
 家有儿女,http://159.75.85.63:35455/huya/11352872?cdn=hscdn
 家有儿女,http://159.75.85.63:35455/huya/11352872?cdn=hwcdn
@@ -8668,7 +8612,7 @@ http://mtv.wuzhij.com/katusha.php
 粉红色女郎,http://live.iill.top/yy.php?id=1354888671
 放羊的星星,http://live.iill.top/yy.php?id=1355260662
 来自星星的你,http://live.iill.top/yy.php?id=1354930976
-繁花,http://mtv.wuzhij.com/huya.php?id=21059580&cdn=txcdn
+繁花,http://10086.wuzhij.top/huya.php?id=21059580&cdn=txcdn
 繁花,http://159.75.85.63:35455/huya/21059580?cdn=txcdn
 繁花,http://159.75.85.63:35455/huya/21059580?cdn=hscdn
 繁花,http://159.75.85.63:35455/huya/21059580?cdn=hwcdn
@@ -8684,41 +8628,41 @@ http://mtv.wuzhij.com/katusha.php
 生逢灿烂的日子,http://live.iill.top/yy.php?id=1382745085
 狂飙,http://live.iill.top/yy.php?id=1355142167
 士兵突击yy,http://live.iill.top/yy.php?id=1382828766
-士兵突击,http://mtv.wuzhij.com/huya.php?id=11342430&cdn=hwcdn
+士兵突击,http://10086.wuzhij.top/huya.php?id=11342430&cdn=hwcdn
 士兵突击,http://159.75.85.63:35455/huya/11342430?cdn=txcdn
 士兵突击,http://159.75.85.63:35455/huya/11342430?cdn=hscdn
 士兵突击,http://159.75.85.63:35455/huya/11342430?cdn=hwcdn
 火蓝刀锋,http://live.iill.top/yy.php?id=1382737892
 特种兵火凤凰,http://live.iill.top/yy.php?id=1463088777
 怪医文三块,http://live.iill.top/yy.php?id=1354936154
-邻里一家亲,http://mtv.wuzhij.com/huya.php?id=11342426&cdn=hwcdn
+邻里一家亲,http://10086.wuzhij.top/huya.php?id=11342426&cdn=hwcdn
 邻里一家亲,http://159.75.85.63:35455/huya/11342426?cdn=txcdn
 邻里一家亲,http://159.75.85.63:35455/huya/11342426?cdn=hscdn
 邻里一家亲,http://159.75.85.63:35455/huya/11342426?cdn=hwcdn
 风筝,http://live.iill.top/yy.php?id=1354931585
 伪装者,http://live.iill.top/yy.php?id=1382851593
 叛逆者,http://live.iill.top/yy.php?id=1382736868
-鬼吹灯之怒晴湘西,http://mtv.wuzhij.com/huya.php?id=11602075&cdn=hwcdn
+鬼吹灯之怒晴湘西,http://10086.wuzhij.top/huya.php?id=11602075&cdn=hwcdn
 鬼吹灯之怒晴湘西,http://159.75.85.63:35455/huya/11602075?cdn=txcdn
 鬼吹灯之怒晴湘西,http://159.75.85.63:35455/huya/11602075?cdn=hscdn
 鬼吹灯之怒晴湘西,http://159.75.85.63:35455/huya/11602075?cdn=hwcdn
-鬼吹灯之龙岭迷窟,http://mtv.wuzhij.com/huya.php?id=29465863&cdn=hwcdn
+鬼吹灯之龙岭迷窟,http://10086.wuzhij.top/huya.php?id=29465863&cdn=hwcdn
 鬼吹灯之龙岭迷窟,http://159.75.85.63:35455/huya/29465863?cdn=txcdn
 鬼吹灯之龙岭迷窟,http://159.75.85.63:35455/huya/29465863?cdn=hscdn
 鬼吹灯之龙岭迷窟,http://159.75.85.63:35455/huya/29465863?cdn=hwcdn
-鬼吹灯之昆仑神宫,http://mtv.wuzhij.com/huya.php?id=11601957&cdn=hwcdn
+鬼吹灯之昆仑神宫,http://10086.wuzhij.top/huya.php?id=11601957&cdn=hwcdn
 鬼吹灯之昆仑神宫,http://159.75.85.63:35455/huya/11601957?cdn=txcdn
 鬼吹灯之昆仑神宫,http://159.75.85.63:35455/huya/11601957?cdn=hscdn
 鬼吹灯之昆仑神宫,http://159.75.85.63:35455/huya/11601957?cdn=hwcdn
-鬼吹灯之云南虫谷,http://mtv.wuzhij.com/huya.php?id=11352898&cdn=hwcdn
+鬼吹灯之云南虫谷,http://10086.wuzhij.top/huya.php?id=11352898&cdn=hwcdn
 鬼吹灯之云南虫谷,http://159.75.85.63:35455/huya/11352898?cdn=txcdn
 鬼吹灯之云南虫谷,http://159.75.85.63:35455/huya/11352898?cdn=hscdn
 鬼吹灯之云南虫谷,http://159.75.85.63:35455/huya/11352898?cdn=hwcdn
-鬼吹灯之南海归墟,http://mtv.wuzhij.com/huya.php?id=11352883&cdn=hwcdn
+鬼吹灯之南海归墟,http://10086.wuzhij.top/huya.php?id=11352883&cdn=hwcdn
 鬼吹灯之南海归墟,http://159.75.85.63:35455/huya/11352883?cdn=txcdn
 鬼吹灯之南海归墟,http://159.75.85.63:35455/huya/11352883?cdn=hscdn
 鬼吹灯之南海归墟,http://159.75.85.63:35455/huya/11352883?cdn=hwcdn
-使徒行者,http://mtv.wuzhij.com/huya.php?id=23734256&cdn=txcdn
+使徒行者,http://10086.wuzhij.top/huya.php?id=23734256&cdn=txcdn
 使徒行者,http://159.75.85.63:35455/huya/23734256?cdn=txcdn
 使徒行者,http://159.75.85.63:35455/huya/23734256?cdn=hscdn
 使徒行者,http://159.75.85.63:35455/huya/23734256?cdn=hwcdn
@@ -8726,11 +8670,11 @@ http://mtv.wuzhij.com/katusha.php
 飞虎之潜行极战,http://live.iill.top/yy.php?id=1354932420
 法证先锋Ⅰ,http://live.iill.top/yy.php?id=1354930939
 法证先锋Ⅱ,http://live.iill.top/yy.php?id=1354888736
-法证先锋Ⅲ,http://mtv.wuzhij.com/huya.php?id=23863804?cdn=hwcdn
+法证先锋Ⅲ,http://10086.wuzhij.top/huya.php?id=23863804?cdn=hwcdn
 法证先锋Ⅲ,http://159.75.85.63:35455/huya/23863804?cdn=txcdn
 法证先锋Ⅲ,http://159.75.85.63:35455/huya/23863804?cdn=hscdn
 法证先锋Ⅲ,http://159.75.85.63:35455/huya/23863804?cdn=hwcdn
-法证先锋Ⅳ,http://mtv.wuzhij.com/huya.php?id=23829543&cdn=txcdn
+法证先锋Ⅳ,http://10086.wuzhij.top/huya.php?id=23829543&cdn=txcdn
 法证先锋Ⅳ,http://159.75.85.63:35455/huya/23829543?cdn=txcdn
 法证先锋Ⅳ,http://159.75.85.63:35455/huya/23829543?cdn=hscdn
 法证先锋Ⅳ,http://159.75.85.63:35455/huya/23829543?cdn=hwcdn
@@ -8739,37 +8683,37 @@ http://mtv.wuzhij.com/katusha.php
 读心神探2节点,http://live.iill.top/yy.php?id=1382851589
 心理追凶,http://live.iill.top/yy.php?id=1354936207
 机动部队,http://live.iill.top/yy.php?id=1354932371
-刑事侦缉档案,http://mtv.wuzhij.com/huya.php?id=23734169&cdn=txcdn
+刑事侦缉档案,http://10086.wuzhij.top/huya.php?id=23734169&cdn=txcdn
 刑事侦缉档案,http://159.75.85.63:35455/huya/23734169?cdn=txcdn
 刑事侦缉档案,http://159.75.85.63:35455/huya/23734169?cdn=hscdn
 刑事侦缉档案,http://159.75.85.63:35455/huya/23734169?cdn=hwcdn
-鉴证实录,http://mtv.wuzhij.com/huya.php?id=23903183
+鉴证实录,http://10086.wuzhij.top/huya.php?id=23903183
 鉴证实录,http://159.75.85.63:35455/huya/23903183?cdn=txcdn
 鉴证实录,http://159.75.85.63:35455/huya/23903183?cdn=hscdn
 鉴证实录,http://159.75.85.63:35455/huya/23903183?cdn=hwcdn
-扫黄先锋,http://mtv.wuzhij.com/huya.php?id=23903196
+扫黄先锋,http://10086.wuzhij.top/huya.php?id=23903196
 扫黄先锋,http://159.75.85.63:35455/huya/23903196?cdn=txcdn
 扫黄先锋,http://159.75.85.63:35455/huya/23903196?cdn=hscdn
 扫黄先锋,http://159.75.85.63:35455/huya/23903196?cdn=hwcdn
-陀枪师姐,http://mtv.wuzhij.com/huya.php?id=23860039
+陀枪师姐,http://10086.wuzhij.top/huya.php?id=23860039
 陀枪师姐,http://159.75.85.63:35455/huya/23860039?cdn=txcdn
 陀枪师姐,http://159.75.85.63:35455/huya/23860039?cdn=hscdn
 陀枪师姐,http://159.75.85.63:35455/huya/23860039?cdn=hwcdn
-创世纪,http://mtv.wuzhij.com/huya.php?id=23749083
+创世纪,http://10086.wuzhij.top/huya.php?id=23749083
 创世纪,http://159.75.85.63:35455/huya/23749083?cdn=txcdn
 创世纪,http://159.75.85.63:35455/huya/23749083?cdn=hscdn
 创世纪,http://159.75.85.63:35455/huya/23749083?cdn=hwcdn
-笑看风云,http://mtv.wuzhij.com/huya.php?id=23865058
+笑看风云,http://10086.wuzhij.top/huya.php?id=23865058
 笑看风云,http://159.75.85.63:35455/huya/23865058?cdn=txcdn
 笑看风云,http://159.75.85.63:35455/huya/23865058?cdn=hwcdn
 笑看风云,http://159.75.85.63:35455/huya/23865058?cdn=hscdn
 流金岁月,http://live.iill.top/yy.php?id=1382736891
-大时代,http://mtv.wuzhij.com/huya.php?id=23865161
+大时代,http://10086.wuzhij.top/huya.php?id=23865161
 大时代,http://159.75.85.63:35455/huya/23865161?cdn=txcdn
 大时代,http://159.75.85.63:35455/huya/23865161?cdn=hscdn
 大时代,http://159.75.85.63:35455/huya/23865161?cdn=hwcdn
 缺宅男女,http://live.iill.top/yy.php?id=1382745088
-搞笑一家人,http://mtv.wuzhij.com/huya.php?id=11342402
+搞笑一家人,http://10086.wuzhij.top/huya.php?id=11342402
 搞笑一家人,http://159.75.85.63:35455/huya/11342402?cdn=txcdn
 搞笑一家人,http://159.75.85.63:35455/huya/11342402?cdn=hscdn
 搞笑一家人,http://159.75.85.63:35455/huya/11342402?cdn=hwcdn
@@ -12079,6 +12023,7 @@ Marin TV Educational Channel,https://dacastmmd.mmdlive.lldns.net/dacastmmd/bc1fc
 Martin County TV,https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/martin/G0074_002/chunklist.m3u8
 Matlock,https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f754f98185580007eb0754/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29b4c4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d5919973-30db-4595-8199-595f82332246
 Maverick Black Cinema,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/1280x720_5000000/index.m3u8
+MAX,https://epg.pw/stream/dced7ccdfdd93ad0cfa865977d76e816f63397d62fab04e86bc13db49560f819.m3u8
 MBC 1 USA,https://mbc-1-usa-ak.akamaized.net/out/v1/8c1ce74bfd0743aab1026ef5b2aecfa4/index_6.m3u8
 MBC 3 USA,https://mbc-3-usa-ak.akamaized.net/out/v1/8bbfec9446d84c9ea0dfa34edede6db9/index_2.m3u8
 MBC 3 USA,https://mbc-3-usa-ak.akamaized.net/out/v1/8bbfec9446d84c9ea0dfa34edede6db9/index_1.m3u8
@@ -12092,84 +12037,135 @@ MCPSS TV,https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/chunklist_w171
 MCTV,https://603591da64140.streamlock.net/live/mp4:MCTVtest_aac/chunklist_w2137820394.m3u8
 Mega TV,https://mdstrm.com/live-stream-playlist/660b066dae419408a11b6072.m3u8
 Merit Street,https://tbn-jw.cdn.vustreams.com/live/merit-dev/live.isml/live-audio_0=96000-video=6499968.m3u8
-更新到这里,
-MLB,https://epg.pw/stream/5b8beb00f1e943d7ea77720dfda4593c39db5dd3d2ff1cd0eaaf1886217e330d.m3u8
+ight Pulp logo
+Midnight Pulp,https://d3knca0xtk4ya9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1sxenfkl27gw6/playlist.m3u8
+ight Pulp logo
+Midnight Pulp,https://amg01201-cinedigmenterta-midnightpulp-cineverse-axym1.amagi.tv/playlist/amg01201-cinedigmenterta-midnightpulp-cineverse/playlist.m3u8
+Midpen Media Center Channel 26,https://5c2974786200d.streamlock.net/live-chan26/ngrp:ch26_all/playlist.m3u8
+Midpen Media Center Channel 28,https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/chunklist_w1758242420_b5131072.m3u8
+Midpen Media Center Channel 29,https://5c2974786200d.streamlock.net/live-chan29/ngrp:ch29_all/chunklist_w87942451_b5131072.m3u8
+Midpen Media Center Channel 30,https://5c2974786200d.streamlock.net/live-chan30/ngrp:ch30_all/chunklist_w1802127613_b5251072.m3u8
+Midpen Media Center Channel 75,https://5c2974786200d.streamlock.net/live-chan75/ngrp:ch75_all/chunklist_w1975752298_b5251072.m3u8
+Midsomer Murders,https://lnc-midsomer-murders.tubi.video/4300.m3u8
+Mission Impossible,https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f77977bd924d80007eee60c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3ce20b90-25ae-42dc-84a6-734942b41041
+Mission TV,https://stream.missiontv.com:1935/live/missiontv_720p/playlist.m3u8
+Misterios sin resolver,https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d882d5233170007ee880e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bde7044b-90d4-4e57-bcb7-61c20fa767bb
+Monroe County TV,https://castus-vod-dev.s3.amazonaws.com/vod_clients/monroe/live/ch1/video.m3u8
+Morro Bay Channel 20,https://agp-nimble.streamguys1.com/MBCh20/MBCh20/playlist.m3u8
+Movies for Gamers,https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6008ddf24ef92b00079d61cf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2f37e9d8-bdac-4d46-949d-ccfbf76dd6e0
+MovieSphere,https://moviesphereuk-samsunguk.amagi.tv/1080p-vtt/index.m3u8
+MPTV,https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/moorpark/G0086_003/playlist.m3u8
+MST3K,https://mst3k-roku.amagi.tv/playlist.m3u8
+MSTV,https://reflect-mcsb-vod.cablecast.tv/live-16/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?duration=0
 MSNBC,https://epg.pw/stream/a7b1c6e3296f96e0b03c08113b6df7766e6fc6817ec65d78a6655f2d0a25ce61.m3u8
-MTV HD,https://epg.pw/stream/60c9274fee881ea4ae97808c924ef9b3a1b6a894aca33bcfefddde0dc1c81583.m3u8
-MTV Live HD,https://epg.pw/stream/0a990d5adf36e1802cd3d46549a3158858559d45381fafad2aca9854b72324f6.m3u8
-MotorTrend ,https://epg.pw/stream/5d4f1747f85e73c21462891c028376b45353cf0b9024aff4e1c3972e06cdc03f.m3u8
-MotorTrend ,https://epg.pw/stream/f64f285246c248721bcb226a929fb702b51f9ccb48b4648e1757929bbd8812c4.m3u8
-Mystery Science Theater 3000,https://epg.pw/stream/2a94a241bc66c57328872e74ec139b9db0c672fe772930ff445772f6ab52b1d1.m3u8
-Mystery Science Theater 3000,https://epg.pw/stream/9cfa0b227805ba587a86ec8286b5774c06325602eb67bc61d110016989aa6a2b.m3u8
-Mystery Science Theater 3000,https://epg.pw/stream/1a5b51105177e0d155be87b85eca2518d09ea4d504b38aaad80f477c485af298.m3u8
-Mystery Science Theater 3000,https://epg.pw/stream/7ff8411a292da9209733a6d618859c50ece85c85432437af0ae30a94f271e80d.m3u8
-Mystery Science Theater 3000,https://epg.pw/stream/9d581279c15fff0954258aa63fd287241d904c5ad8e21f96fa407fb10430856a.m3u8
-NASA,https://epg.pw/stream/a322d7692bb9f9c6feda0cfc015a419d1c57d81e4f202f9a477e271d70bdc953.m3u8
-NASA,https://epg.pw/stream/c0118389e99bd041520eceb9e0cc4bb44e15e8cc32de2943a2172b72b67277ca.m3u8
+MTV Biggest Pop,https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080clivestitch/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=db3aa987-9f35-4664-b523-5fe34623b36c&profilesFromStream=true
+MTV East,https://170.254.18.106/MTV/index.m3u8
+MTV Live,https://fl5.moveonjoy.com/MTV_LIVE/index.m3u8
+MTV Live,https://143.244.60.97/MTV_LIVE/index.m3u8
+MTV Pluto TV,https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=21f0e654-cec9-4722-a81b-dd17d02581d3
+MTV Spankin' New,https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fdb8ca91eedee1633117livestitch/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f1066e5a-9a82-4a1b-a025-868c083394e4&profilesFromStream=true
+MTV2 East,https://fl5.moveonjoy.com/MTV_2/index.m3u8
+MTV2 East,https://143.244.60.97/MTV_2/index.m3u8
+Museum TV Fast,https://amg01492-secomsasmediart-museumtv-en-plex-abtzr.amagi.tv/playlist/amg01492-secomsasmediart-museumtv-en-plex/cb413e4f7b7b6fdccb993a6cd4f642f2d1076689553ade376ff85e9170e3a068f8e3bb9ab117be7759811fce7976340f182fc009af2255858123fc41357d1c64fc9ab37fd1e8027bf781537e35d11a1f20e00c15d022512297b94b5acc7d9469151fed3e6b541984a946a87555db830c9b6752f3c9a01d256d0606c4084d92f50df8a0f84d55ab34e3ee411d8a2746f9825ccdd51cb89ed55b9853fb29a34dc1c7e0e88246d3c4c87cac54b57a5a0e6039ca852197990fb58dd73d6fca2465174f50e0ee91ae1d6acb1f465ffda893eb61ac429e8f17be0a4fd38133d2e64ae85e994bcad440a9b9bedb02722da5d05e7255d88fc2a4da45fe39fb99d884f37c6e8dfe54594acc7fd1212a42f0b7ab46c1ab11e735e67e10299d1ae0e8dda81e7778fb882d00f304c7c2e6913e4301400c0b855ca595577948b797c9e31c3b554148acd5008ad699161c6b41939805943215bdc9848adb4e6a9b3b5b6cba318d03242cee216570e162cbaa6d4dc7745ad5626fab1665d110b5f80de5b7d7e0313eb7f5ce56b03abce24481a042e146146d2f9fbe6c534c477890c9630e3b768a05a4f0c2f3780405a3af9eb0901d6c5669441c5ddbb4a75d948cc9251856f2522061661958c35781278c563b6d44ae3fdda81b7b8c02534fb7f64522300abfdeb09380d9b023832d829fac697e79354eb2310c2a6b93868556f33d411c2909986e842269d8d7968cb8b0317a5a48beb479964e22f35718d3/34/1920x1080_4716800/index.m3u8
+MyEncinitasTV,https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/encinitas/G0322_002/playlist.m3u8
+Mystery Science Theater 3000,https://mst3k-vizio.amagi.tv/1080p-cc/index.m3u8
+Mystery Science Theater 3000,https://mst3k-vizio.amagi.tv/480p-cc/index.m3u8
+MyTime Movie Network East,https://mytime-tcl.amagi.tv/playlist720-p.m3u8
+Napa Valley Channel 27,https://cdn3.wowza.com/5/WDIrTW5sM1JEY1NN/napatv/G0360_003/playlist.m3u8
+Napa Valley Channel 28,https://cdn3.wowza.com/5/WDIrTW5sM1JEY1NN/napatv/G0360_004/playlist.m3u8
+Naruto,https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bbd39836-427d-4099-82bb-28b34f88aa35
+Nashua ETV,https://livestream.telvue.com/nashuanh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/nashuanh2/stream1/chunks.m3u8
 NASA,https://epg.pw/stream/fe5e012832625c63ae3f1f3e786ba90540f8f311497cfdd0f4057d1bbed09297.m3u8
 NASA,https://epg.pw/stream/250b7a722ad83104de36fb62e1092707a7156c4efa4d4bc752a57f57dbd52996.m3u8
-NASA,https://epg.pw/stream/c47c224dbca1ea83888396d88e09ffafdbd6759cd6d22b7910cf2d89442032be.m3u8
-NASA TV,https://epg.pw/stream/7b6d570ef6d35890f10c9b2b1ca72a33f92144da160b2511e639cc587a5d6594.m3u8
-NASA TV,https://epg.pw/stream/3143a0e83f663fbc74eb1fd6e35d5399e03e7848c52a2fd4655d340dc706fb49.ctv
-NASA TV HD,https://epg.pw/stream/809433b2a0d834d826e8bf5cd8532d994c4f7e74e4168f1e1e69620988eb6008.m3u8
-NAT GEO WILD,https://epg.pw/stream/20873b9d86660dc6d5d6d82ed579724a03914190f54b2b0fe2570066fe468a8f.m3u8
-NAT WILD HD,https://epg.pw/stream/28b6bc84cf0549a253888a3f7355cbfa67866e37c5cb8926c4fde6732daca03c.m3u8
-NBA TV,http://histar-proxy.isus.cc/nba
-NBA TV,https://epg.pw/stream/7f2bd1645fdabcfcf86d805d6e9ef3bea250e128573389a23053273443a9938b.m3u8
-NBA TV,https://epg.pw/stream/369fb2318cc44411da4978338594a962e8f76a567affc1a6968066bba5f98188.ctv
-NBA TV,https://epg.pw/stream/3b6414cf619308a7d6edc3d1cc885fcbc8512eef391f4a88ef40d169ad9c77ef.m3u8
-NBA TV,https://epg.pw/stream/3925ae0efbedb5860be0c6f5ed7cb1875529f4f97ace42bf2dac6ef282dc90e4.ctv
-NBA TV,https://epg.pw/stream/a5ff680ddfad88059288079dd0056136a0a0689e0141dd29b4ba3abe495005c6.m3u8
-NBA TV,https://epg.pw/stream/77f399323d933577ee9accd1ce66ee491369f26854266769c707917846ceb8ba.m3u8
-NBC 4(WNBC) ,https://epg.pw/stream/9cd30da4494639b5e26907f615f45e584d85412fa827681d667004fd6f3ca923.m3u8
-NBC NEW YORK FHD,https://epg.pw/stream/ef2104154f6b1d1047c2b6cfd2286c9adbe86b22da7e2aaa919c2720bbde02c9.m3u8
-NBC NEWS,https://epg.pw/stream/631808e98e5e0c16d34a294b125bcc77e995706bb687f0c0c45eb65e183dbe26.m3u8
-NBC News Now,https://epg.pw/stream/0627b3a4b3d3b23be2a5bc24d486a4f93d9feacb3311f1d186bb6fc6d171f810.m3u8
-NBC News Now,https://epg.pw/stream/13da8773207aae3f0cacf2692a006f1ab4b3c20c27c9e2657c36677364ffe85d.m3u8
-NBC News Now,https://epg.pw/stream/19f452dbed9060f5726caeed77dc4c67a04476c9d8c2641c1c74097d08c35bb5.m3u8
-NBC News Now,https://epg.pw/stream/5d1912673cf279d6671be832db357089373d9194f955419101301d858faa34d6.m3u8
-NBC News Now,https://epg.pw/stream/fc4fcf0183caf90777e78187bd52882d50082ed5d734bcdfddb11505a9a8bcde.m3u8
-NBC News Now,https://epg.pw/stream/85bbaf0c1e5eb0a8f45b8aafa475654e8a62f8c715a0ef2587be5b20947c618b.m3u8
-NBC News Now,https://epg.pw/stream/250bcc25280d2447785007e77ebd96d8c5e26002971bae9c11095aa1c65dd7f6.m3u8
-NBC News Now,https://epg.pw/stream/03c2285f13ba9d9cbbf16426eb003881fca2591c7f41b97c8957d570ddd9c85c.m3u8
-Nat Geo People,https://epg.pw/stream/5823b55365da834bd497d71c2ec939a8ec21bd1baaee048a72bcf2bdf38ab1ab.m3u8
-News 12 Brooklyn,https://epg.pw/stream/abf1d5317e0b18af87f69a16b0407962ada2c26a88b677b6177e78f87583517b.m3u8
-Newsmax,https://epg.pw/stream/ed041d6d05c3dbb7adeace1332768b5e6f323d6a7a1c15bed90cb5e6c9731ee8.m3u8
-Newsmax,https://epg.pw/stream/d89ace0f9e697dec1c0dc56ca2c86cb735912e189a8b4122fbccd197e8db39a2.m3u8
-Newsmax,https://epg.pw/stream/a0700963affc31b73b6facdd4a5d4762c1f2794c5ea494cf0ad2ee3e38e0fb49.m3u8
-Newsmax,https://epg.pw/stream/96a1bd998fb9a94e619226123915079010579a57682e20d88e756cbfe243a700.m3u8
-Newsmax,https://epg.pw/stream/ad118f1a40d7b7326cee0988453175fa6a7adbb68e8494f3a43f9866f4385970.m3u8
-Newsmax,https://epg.pw/stream/75cdccd17e398a668456b08901a5368f292a99dbd64ffb25f950543fff793d0a.m3u8
-Newsmax,https://epg.pw/stream/a0976fb31d5681ac21397674e1fe7181a6a29ec2073adc4c0ae921b9c5dd4c3b.m3u8
-Newsmax,https://epg.pw/stream/9b8ccb137a356b8eac2498744694848e5c7d6b4ffe0592b93c7e9eb3fc7b0b41.m3u8
-Nick Jr,https://epg.pw/stream/9c7fa187371be3cfc17d1ebfd95442de725e82975f28f396f44af1ebd8aebd30.m3u8
-Nick Jr,https://epg.pw/stream/7dc8b81ecc96ca037fc88ee7c5b5a09f0350973a9f81d434126aac5949ff3b8b.m3u8
-Nickelodeon,https://epg.pw/stream/d6fdd44fe93eeffa30ea4fcb8034b3e2b7250f2c877604c4bb8636170360229a.m3u8
-Nickelodeon,https://epg.pw/stream/d111046fcc29e3955f6039e221c06b98d9af17e38910315ce3ae5d122313f8c8.ctv
-Nickelodeon,https://epg.pw/stream/46f4d2267340929e9b093af918161197efe7fe4d0f39b2250811c448d158653d.ctv
-Nickelodeon,https://epg.pw/stream/fba17568cf12f5e55430748c79a255490d885c9d7dfc3b1308fda810068c12f5.m3u8
-Nickelodeon,https://epg.pw/stream/cbca7941f3913838e87f3b5d10b5b99039480a7f1c9d5c20b63b43154e4f2ff9.m3u8
-Nickelodeon,https://epg.pw/stream/1388b82fc45bec9bbef3f80e3f9b1559a2c91aeeb664c0f1d74ecc66ba42a876.m3u8
-Nickelodeon,https://epg.pw/stream/c9c754813867942eb412dc8fbf91760174435741c7890f0e728c4f87794dad4f.m3u8
-Nickelodeon,https://epg.pw/stream/97c42c8566cae0ccc91ea4c50c79dd2835dc53a21ca9fd36c8f1cb2a40aac7a1.m3u8
-Nickelodeon,https://epg.pw/stream/962f207ae091033ef3fd874ba2e6bae1dc704990e82d3d2baa3b9c99fd41c817.m3u8
-Nickelodeon,https://epg.pw/stream/993131335d2da2e86079909718c1269d7b71068b112cdd4a4caa47575dfe8354.m3u8
-Nickelodeon,https://epg.pw/stream/fa06410d218abee5081fed78e20e6feb3a6f94405216c4ad14f205a06cbe01d3.m3u8
-Outdoor Channel,https://epg.pw/stream/ee57c97f1026a659f73d390f9ed71ecfb056a69ed8bc5062ec983af25a278880.m3u8
-Outdoor Channel,https://epg.pw/stream/e664a7fdfd87eb1751dd7e8ed2b2465efd1fc3c32e26cc66ecdfcef43f7b0cc3.m3u8
-Outdoor Channel,https://epg.pw/stream/283f0b44df8e714197f5d52fc5858d853df8806bc73e9f9133c193cfc4ef641f.m3u8
-Outdoor Channel HD,https://epg.pw/stream/afd282557048fa69a70e3b522fd97a51fd5d8eacc6709a5a402b05bec7839497.m3u8
-Outdoor Channel HD,https://epg.pw/stream/ca360a071154c2f823bddadf504eff9373ebad195f429ec2c0fc022ef12993ee.m3u8
-Oxygen,https://epg.pw/stream/3d2dcb468e02458f9f2b9a61c93be1f7503519bc53b8389ab6acf56dba4c5e87.m3u8
-PARAMOUNT,https://epg.pw/stream/5dbfa351d0af7f63a0dc2def23fe4b73ad7fb43396826ceb7f4060d5806eb149.m3u8
-PBS Kids,https://epg.pw/stream/df01dcd772d84f4c853ff298ab7d17065bc72e610f79248352c23f381ab43504.m3u8
-Paramount Network,https://epg.pw/stream/028417d92d85c279f9d87155c477a0274cefda4c9d5e55c3431eac249193032f.m3u8
-Paramount Network,https://epg.pw/stream/8f4f4786b18f3db57b9239b4ed82764091bba24b4395955059f1cfe722518180.m3u8
-Playboy TV,https://epg.pw/stream/68c4a4e9b2e6db8dbe020db90099cf0bb4716c57282d8dcdd9d6d271199e2ec6.m3u8
-Playboy TV,https://epg.pw/stream/ba0fc03dd3112ffdadf758bfceada5e519c6f4099f4441e31a9c70acb6a2b098.m3u8
-Playboy TV,https://epg.pw/stream/b018426809f2a205c5f86623a18282d537d00dadcb4828d242c591064e6593c9.m3u8
-Playboy TV,https://epg.pw/stream/472d3ba01b7c397deb7e04490166564a46570c73ca7907bd075dc4b220ab99eb.m3u8
-Playboy TV,https://epg.pw/stream/499ceff5e81c0d852819d255ecf010f48aae834721b9352edeaf3f0f0fcb4563.m3u8
+NBC (Atlanta),https://lnc-wxia.tubi.video/live-1.m3u8
+NBC (Baltimore),https://lnc-wbal.tubi.video/playlist_1280x720.m3u8
+NBC (Birmingham),https://lnc-wvtm.tubi.video/playlist_1280x720.m3u8
+NBC (Chicago),https://143.244.60.30/NBC_EAST/index.m3u8
+NBC (Cincinnati),https://lnc-wlwt.tubi.video/playlist_1280x720.m3u8
+NBC (Cleveland),https://lnc-wkyc.tubi.video/live-1.m3u8
+NBC (Colorado Springs),https://lnc-koaa.tubi.video/playlistR1080p.m3u8
+NBC (Corpus Christi),https://lnc-kris.tubi.video/playlistR1080p.m3u8
+NBC (Cranston),https://dai.google.com/linear/hls/pa/event/kpannrCBQ5KwdV3Hag3Wog/stream/dcc791dd-4380-428d-828a-3ed7137e7a50:TUL/variant/d0d8a34ce764ba4b48e2e783dbd145b3/bandwidth/6053027.m3u8
+NBC (Daytona Beach),https://lnc-wesh.tubi.video/playlist_1280x720.m3u8
+NBC (Denver),https://lnc-kusa.tubi.video/index_1.m3u8
+NBC (Greenville),https://lnc-wyff.tubi.video/playlist_1280x720.m3u8
+NBC (Indianapolis),https://lnc-wthr.tubi.video/live-1.m3u8
+NBC (Kansas City),https://lnc-kshb2.tubi.video/playlistR1080p.m3u8
+NBC (Lancaster),https://lnc-wgal.tubi.video/playlist_1280x720.m3u8
+NBC (Lexington),https://lnc-wlex.tubi.video/playlistR1080p.m3u8
+NBC (Macon),https://dai.google.com/linear/hls/event/ygKx2LkmRQCZ_orwBQhfFw/master.m3u8
+NBC (Minneapolis),https://lnc-kare.tubi.video/index_1.m3u8
+NBC (Monterey),https://lnc-ksbw.tubi.video/playlist_1280x720.m3u8
+NBC (New Orleans),https://lnc-wdsu.tubi.video/playlist_1280x720.m3u8
+NBC News NOW,https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/1280x720_1645600/chunklist.m3u8
+NBC (Phoenix),https://lnc-kpnx.tubi.video/live-1.m3u8
+NBC (Pittsburgh),https://lnc-wpxi2.tubi.video/1080p/index.m3u8
+NBC (Plattsburg),https://lnc-wptz.tubi.video/playlist_1280x720.m3u8
+NBC (Portland),https://lnc-kgw.tubi.video/index_1.m3u8
+NBC (Sacramento),https://lnc-kcra.tubi.video/playlist_1280x720.m3u8
+NBC (Santa Barbara),https://lnc-ksby.tubi.video/playlistR1080p.m3u8
+NBC (Seattle),https://lnc-king.tubi.video/index_1.m3u8
+NBC (St Louis),https://lnc-ksdk.tubi.video/index_1.m3u8
+NBC (Tulsa),https://lnc-kjrh.tubi.video/playlistR1080p.m3u8
+NBC (Winston-Salem),https://lnc-wxii.tubi.video/playlist_1280x720.m3u8
+NBCLX,https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1-5.m3u8
+NBTV,https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/newportbeach/G0064_003/playlist.m3u8
+NCTV Channel 14,https://s3-us-west-2.amazonaws.com/newington.castus-vod/live/ch1/video.m3u8
+NCTV Channel 16,https://s3-us-west-2.amazonaws.com/newington.castus-vod/live/ch2/video.m3u8
+NCTV79,https://livestream.telvue.com/nctv791/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+News12 New York,https://lnc-news12.tubi.video/primary/2.m3u8
+News12 New York,https://lnc-news12.tubi.video/primary/3.m3u8
+Newsmax 2,https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b179af994403942f3061d6livestitch/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5104-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b86b942-5804-4df4-a9a2-24f45aaeb974&profilesFromStream=true
+Newsmax TV,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index5000.m3u8
+Newsmax TV,https://amg01756-newsnet-newsnet-klowdtv-332s1.amagi.tv/playlist/amg01756-newsnet-newsnet-klowdtv/playlist.m3u8
+Newsmax TV,https://amg01756-newsnet-newsnet-klowdtv-332s1.amagi.tv/playlist/amg01756-newsnet-newsnet-klowdtv/cb543d1e7f6c678684cb3a64cef044a3f9b953fc087a8d6933fb4b926bc10f41f9e5af86a540ff1902cb5d81385e7d505c6cdb7fdc7d05cfaf6ada146d20436bf8f8b30ac79b1209b5da0f342ab27807418f4e558c703477dbc2131cca68e62e4b40be49267d1ab99025b1660e9cdb5f9b087cd8f68278296d2907dd0200b0bf56a0e1e14341d96ca2af1d48933f38b8d01b95810cd8d1820adc1a9973f2138391f699c71687839867af03e6795d0e747fd4d12896cf10b788cf3c74c8272b444602e0a1caac4869b4472924907e6022078571fbba67ec5539b2149d4bc4039e6abe0cb49336cacf95fe328cbd39a6210c09aff7b482bb143eb874f2a1e8a71336f9a45210cfae1c5be7d09cd07de934fd5b261573d8918cc95757e19c408994b182a09385439f24cdc8ce3a5c28a102290d9c54ae966c947c9328e8863f2852585cf6da74ca82cb5139660fd7d105942549e88fd3a29f2c2ec36c1f15da50887a4b3e9c643b2eb563a9cb6e25c9071a953938cc5d37ab4be8f779a6f095b6507bfdf5ef76d243a3f506dbfd07e94a395a09bcbb6c1f66446fdfe36342682a8d15aa879bb1244751bca18dd3cf51310b3c57610d8de3f579d4db937e534597214b0a1331199216d960db722b517fb361b9ca2062841426229cc0090f0b3cc798e0c3ebfbc546bc73d68fcd3120355c69df66553e0f33d76bed70ec2d406e2e8759e7932b4910e4b01c5e0d32/50/1280x720_2964940/index.m3u8
+Newsy,https://content-auso1.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37/d.m3u8?pbs=f492ae3793994ec7b314e84740a596ae
+NFL Channel,https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5105-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6477ef85-3680-442c-94d8-27197903b1f6
+NHRA TV,https://lnc-nhra.tubi.video/nh_720p_high.m3u8
+Nick Clasico,https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+Nick Jr. East,https://fl5.moveonjoy.com/NICK_JR/index.m3u8
+Nickelodeon East,https://143.244.60.30/NICKELODEON/index.m3u8
+Nicktoons East,https://143.244.60.30/NICKTOONS/index.m3u8
+NickMusic,https://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8
+Nitro Circus,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/1280x720_5000000/index.m3u8
+NJ PBS (Trenton),https://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8
+NMBTV,https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/citynmb/G2044_002/playlist.m3u8
+No Parents Allowed,https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5db0ae5af8797b00095c0794/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7810-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2c5ce324-21ad-48f6-827f-afd8d0d9db57
+Nosey,https://lnc-nosey.tubi.video/playlist1080-tp.m3u8
+Nosey Divorce Court,https://stitcheraws.unreel.me/wse-node02.powr.com/powr/ngrp:5eb1e76d1474f9020c06f9ee_all/playlist.m3u8
+Nosey Judge Karen's Court,https://stitcheraws.unreel.me/wse-node02.powr.com/powr/ngrp:5eb1e7261474f9020c06f9ec_all/playlist.m3u8
+Nosey Steve Wilkos,https://30a-tv.com/feeds/720p/7.m3u8
+Novelas con la abuela,https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7814-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=00d6c705-94dd-4af1-8f07-d8b02bcc1884
+Novelisima,https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
+NTD TV East,https://ntd02.akamaized.net/NTDA/index.m3u8
+NTD TV West,https://ntd02.akamaized.net/NTD-West/index.m3u8
+NYXT,https://reflect-stream-bronxnet.cablecast.tv/live-10/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?duration=0
+OAN Encore,https://cdn.herringnetwork.com/80A4DFF/oane_oregon/OAN_Encore.m3u8
+OAN Plus,https://oan-plus-tcl.amagi.tv/playlistR720P.m3u8
+Olelo 49,https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_009/playlist.m3u8
+Olelo 53,https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_011/playlist.m3u8
+Olelo 54,https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_012/playlist.m3u8
+Olelo 55,https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_013/playlist.m3u8
+Omid Javedan,https://livestream.5centscdn.com/shaditv/23abe62a446fc05ce0a6c810f4045308.sdp/index.m3u8
+One America News Network,https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/oan_720p/playlist.m3u8
+One Piece,https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7816-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4b38ba42-6f97-4a17-b657-1277978d366c
+Ontario Public Access Channel,https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/ontarioca/G2446_002/playlist.m3u8
+Opcion TV,https://5790d294af2dc.streamlock.net/8066/8066/playlist.m3u8
+Orange TV,https://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/playlist.m3u8
+Orange TV3,https://cdn3.wowza.com/5/R09KQXpaMWlrRjly/cityoforange/G1025_004/playlist.m3u8
+Outdoor America,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutdooramerica/CDN/1920x1080_4725600/index.m3u8
+Outdoor Channel,https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/cb543d1e7f6c678684cb3a6ecef342a6f9b953fc087a8d6933fb4b926bc10f41f9e5af86a540ff1902cb5d81385e7d505c6cdb7fdc7d05cfaf6ada146d20436bf8f8b30ac79b1209b5da0f342ab27807418f4e558c703477dbc2131cca68e62e4b40be49267d1ab99025b1660e9cdb5f9b087cd8f68278296d2907dd0200b0bf56a0e1e14341d96ca2af1d48933f38b8d01b95810cd8d1820adc1a9973f2138391f699c746d7839266ae04bb795d0e747bd4d12896cf10ee8ec868749827781e4a00e5a7c3f81d3fb4472924907e6022078571fbba67ec5539b2149d4bc4039e6abe0cb49336cacf95fe328cbd39a6210c09aff7b482bb143eb874f2a1e8a71336f9a45210cfae1c5be7d09cd07de934fd5b261573d8918cc95757e19c408994b182a09385439f24cdc8ce3a5c28a102290d9c54ae966c947c9328e8863f2852585cf6da74ca82cb5139660fd7d105942549e88fd3a29f2c2ec36c1f15da50887a4b3e9c643b2eb563a9cb6e25c9071a953938cc5d37ab4be8f779a6f095b6507bfdf5ef76d243a3f506dbfd07e94a395a09bcbb6c1f66446fdfe36342682a8d15aa879bb1244751bca18dd3cf51310b3c57610d8de3f579d4db937e534597214b0a1331199216d960db722b517fb361b9ca2062841426229cc0090f0b3cc798e0c3ebfbc546bc73d68fcd3120355c69df61573e0f33d750da70ec2d9e65ccfcfcaaadb5b3d0c60b724dad44/22/1920x1080_5287612/index.m3u8
+Outside TV+,https://outsidetvplus-xumo.amagi.tv/playlistR1080p.m3u8
+Pac-12 Insider,https://lnc-pac12.tubi.video/playlistR1080p.m3u8
+Palm Beaches TV,https://live.feed.thepalmbeaches.tv/index720p/partial.m3u8
+Panarmenian TV,https://us1.ottstream.live:17071/C279/index.m3u8?token=123TREWQ456
+Paramount Movie Channel,https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7819-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a4a0712-cb24-4d05-b429-1b98c1f73f74
+Paramount Network East,https://170.254.18.106/PARAMOUNT/index.m3u8
+Paramount+ Picks,https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f20-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=86df5336-6268-4928-9b7d-3af618ca807b
+Pasco TV,https://cpcdn.azureedge.net/PASCOCOFLLIVE1/PASCOCOFLLIVE1/chunklist.m3u8
+Payam-e-Afghan TV,https://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8
+Payvand TV,https://bozztv.com/cus01/ucur1/Payvand/index.m3u8
+更新到这里,
 RETRO TV,https://epg.pw/stream/f353063c5dcd6e2b64ecaca89486135b9625abc2a835b973f76f47c767fba372.m3u8
 RETRO TV,https://epg.pw/stream/9b67f86cbc2ea57cbdc18df5d489582da0cf6292a2cdb08f3705c325faccc469.m3u8
 RETRO TV,https://epg.pw/stream/bb0a6f810a49506f22a537075b556e19c397de51700c2fa7bf32f7113c52d028.m3u8
