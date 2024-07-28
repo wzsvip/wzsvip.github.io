@@ -32,11 +32,19 @@ http://118.144.105.55:91/live/CCTV14hd-8M/live.m3u8
 #EXTINF:-1 tvg-name="CCTV15-音乐" tvg-logo="https://live.fanmingming.com/tv/CCTV15-音乐.png" group-title="🇨🇳电视频道",CCTV15-音乐
 http://124.205.11.203:91/live/CCTV15hd-8M/live.m3u8
 #EXTINF:-1 tvg-name="CCTV16-奥林匹克" tvg-logo="https://live.fanmingming.com/tv/CCTV16-奥林匹克.png" group-title="🇨🇳电视频道",CCTV16-奥林匹克
+https://ayocndali.v.myalicdn.com/ayocnd/4kcctv16_2td.m3u8?auth_key=1722134975-fffbcfa879bdfb17533fc0d2708902ab-0-7fcacc7409e0b5e044efaad5dc3cf946
+#EXTINF:-1 tvg-name="CCTV16-奥林匹克" tvg-logo="https://live.fanmingming.com/tv/CCTV16-奥林匹克.png" group-title="🇨🇳电视频道",CCTV16-奥林匹克
+https://ayocndali.v.myalicdn.com/ayocnd/4kcctv16_2hd/index.m3u8?auth_key=1722133967-fffbcfa879bdfb17533fc0d2708902ab-0-c84ff0ab80da47405ca4f2c4fee9deeb
+#EXTINF:-1 tvg-name="CCTV16-奥林匹克" tvg-logo="https://live.fanmingming.com/tv/CCTV16-奥林匹克.png" group-title="🇨🇳电视频道",CCTV16-奥林匹克
 http://124.205.11.246:91/live/CCTV16hd-8M/live.m3u8
 #EXTINF:-1 tvg-name="CCTV17-农业农村" tvg-logo="https://live.fanmingming.com/tv/CCTV17-农业农村.png" group-title="🇨🇳电视频道",CCTV17-农业农村
 http://124.205.11.203:91/live/CCTV17hd-8M/live.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="🇨🇳电视频道",CCTV-4K
 http://159.75.85.63:5679/cctv4k.php
+#EXTINF:-1 tvg-name="CCTV16-奥林匹克 4K" tvg-logo="https://live.fanmingming.com/tv/CCTV16-奥林匹克 4K.png" group-title="🇨🇳电视频道",CCTV16-奥林匹克 4K
+http://159.75.85.63:5828/cctv164k.php
+#EXTINF:-1 tvg-name="CCTV16-奥林匹克 8K" tvg-logo="https://live.fanmingming.com/tv/CCTV16-奥林匹克 8K.png" group-title="🇨🇳电视频道",CCTV16-奥林匹克 8K
+http://159.75.85.63:8654/xx8k50fps.php
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="🇨🇳电视频道",河南卫视
 http://123.163.55.234:9901/tsfile/live/0139_1.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="🇨🇳电视频道",河南卫视
