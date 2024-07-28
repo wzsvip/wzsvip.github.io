@@ -32,11 +32,17 @@ http://118.144.105.55:91/live/CCTV14hd-8M/live.m3u8
 #EXTINF:-1 tvg-name="CCTV15-音乐" tvg-logo="https://live.fanmingming.com/tv/CCTV15-音乐.png" group-title="🇨🇳电视频道",CCTV15-音乐
 http://124.205.11.203:91/live/CCTV15hd-8M/live.m3u8
 #EXTINF:-1 tvg-name="CCTV16-奥林匹克" tvg-logo="https://live.fanmingming.com/tv/CCTV16-奥林匹克.png" group-title="🇨🇳电视频道",CCTV16-奥林匹克
+https://ayocndali.v.myalicdn.com/ayocnd/4kcctv16_2td.m3u8?auth_key=1722165870-fffbcfa879bdfb17533fc0d2708902ab-0-a9eb09f09fd44abdba3845e6498cce7c
+#EXTINF:-1 tvg-name="CCTV16-奥林匹克" tvg-logo="https://live.fanmingming.com/tv/CCTV16-奥林匹克.png" group-title="🇨🇳电视频道",CCTV16-奥林匹克
 http://124.205.11.246:91/live/CCTV16hd-8M/live.m3u8
 #EXTINF:-1 tvg-name="CCTV17-农业农村" tvg-logo="https://live.fanmingming.com/tv/CCTV17-农业农村.png" group-title="🇨🇳电视频道",CCTV17-农业农村
 http://124.205.11.203:91/live/CCTV17hd-8M/live.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="🇨🇳电视频道",CCTV-4K
 http://159.75.85.63:5679/cctv4k.php
+#EXTINF:-1 tvg-name="CCTV16-奥林匹克 4K" tvg-logo="https://live.fanmingming.com/tv/CCTV16-奥林匹克 4K.png" group-title="🇨🇳电视频道",CCTV16-奥林匹克 4K
+http://159.75.85.63:5828/cctv164k.php
+#EXTINF:-1 tvg-name="CCTV16-奥林匹克 8K" tvg-logo="https://live.fanmingming.com/tv/CCTV16-奥林匹克 8K.png" group-title="🇨🇳电视频道",CCTV16-奥林匹克 8K
+http://159.75.85.63:8654/xx8k50fps.php
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="🇨🇳电视频道",河南卫视
 http://123.163.55.234:9901/tsfile/live/0139_1.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="🇨🇳电视频道",河南卫视
@@ -20681,6 +20687,38 @@ http://10086.wuzhij.top/shanghai.php?id=dycj
 http://10086.wuzhij.top/shanghai.php?id=jsrw
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="📡地方频道",哈哈炫动
 http://10086.wuzhij.top/shanghai.php?id=hhxd
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="📡地方频道",湖北卫视
+http://10086.wuzhij.top/hubei.php?id=hbws
+#EXTINF:-1 tvg-name="湖北经视" tvg-logo="https://live.fanmingming.com/tv/湖北经视.png" group-title="📡地方频道",湖北经视
+http://10086.wuzhij.top/hubei.php?id=hbjs
+#EXTINF:-1 tvg-name="湖北综合" tvg-logo="https://live.fanmingming.com/tv/湖北综合.png" group-title="📡地方频道",湖北综合
+http://10086.wuzhij.top/hubei.php?id=hbzh
+#EXTINF:-1 tvg-name="湖北公共新闻" tvg-logo="https://live.fanmingming.com/tv/湖北公共新闻.png" group-title="📡地方频道",湖北公共新闻
+http://10086.wuzhij.top/hubei.php?id=hbgg
+#EXTINF:-1 tvg-name="湖北影视" tvg-logo="https://live.fanmingming.com/tv/湖北影视.png" group-title="📡地方频道",湖北影视
+http://10086.wuzhij.top/hubei.php?id=hbys
+#EXTINF:-1 tvg-name="湖北生活" tvg-logo="https://live.fanmingming.com/tv/湖北生活.png" group-title="📡地方频道",湖北生活
+http://10086.wuzhij.top/hubei.php?id=hbsh
+#EXTINF:-1 tvg-name="湖北教育" tvg-logo="https://live.fanmingming.com/tv/湖北教育.png" group-title="📡地方频道",湖北教育
+http://10086.wuzhij.top/hubei.php?id=hbjy
+#EXTINF:-1 tvg-name="湖北垄上" tvg-logo="https://live.fanmingming.com/tv/湖北垄上.png" group-title="📡地方频道",湖北垄上
+http://10086.wuzhij.top/hubei.php?id=hbls
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="📡地方频道",贵州卫视
+http://10086.wuzhij.top/guizhou.php?id=gzws
+#EXTINF:-1 tvg-name="贵州经济" tvg-logo="https://live.fanmingming.com/tv/贵州经济.png" group-title="📡地方频道",贵州经济
+http://10086.wuzhij.top/guizhou.php?id=gzjj
+#EXTINF:-1 tvg-name="贵州法制" tvg-logo="https://live.fanmingming.com/tv/贵州法制.png" group-title="📡地方频道",贵州法制
+http://10086.wuzhij.top/guizhou.php?id=gzfz
+#EXTINF:-1 tvg-name="贵州公共" tvg-logo="https://live.fanmingming.com/tv/贵州公共.png" group-title="📡地方频道",贵州公共
+http://10086.wuzhij.top/guizhou.php?id=gzgg
+#EXTINF:-1 tvg-name="贵州影视" tvg-logo="https://live.fanmingming.com/tv/贵州影视.png" group-title="📡地方频道",贵州影视
+http://10086.wuzhij.top/guizhou.php?id=gzwy
+#EXTINF:-1 tvg-name="贵州生活" tvg-logo="https://live.fanmingming.com/tv/贵州生活.png" group-title="📡地方频道",贵州生活
+http://10086.wuzhij.top/guizhou.php?id=gzsh
+#EXTINF:-1 tvg-name="贵州科教" tvg-logo="https://live.fanmingming.com/tv/贵州科教.png" group-title="📡地方频道",贵州科教
+http://10086.wuzhij.top/guizhou.php?id=gzkj
+#EXTINF:-1 tvg-name="贵州移动" tvg-logo="https://live.fanmingming.com/tv/贵州移动.png" group-title="📡地方频道",贵州移动
+http://10086.wuzhij.top/guizhou.php?id=gzyd
 #EXTINF:-1 tvg-name="丰宁综合频道" tvg-logo="https://live.fanmingming.com/tv/丰宁综合频道.png" group-title="📡地方频道",丰宁综合频道
 https://jwliveqxzb.hebyun.com.cn/fengningzonghe/fengningzonghe.m3u8
 #EXTINF:-1 tvg-name="深泽综合频道" tvg-logo="https://live.fanmingming.com/tv/深泽综合频道.png" group-title="📡地方频道",深泽综合频道
