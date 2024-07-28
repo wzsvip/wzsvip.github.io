@@ -18,6 +18,8 @@ CCTV15-音乐,http://124.205.11.203:91/live/CCTV15hd-8M/live.m3u8
 CCTV16-奥林匹克,http://124.205.11.246:91/live/CCTV16hd-8M/live.m3u8
 CCTV17-农业农村,http://124.205.11.203:91/live/CCTV17hd-8M/live.m3u8
 CCTV-4K,http://159.75.85.63:5679/cctv4k.php
+CCTV16-奥林匹克 4K,http://159.75.85.63:5828/cctv164k.php
+CCTV16-奥林匹克 8K,http://159.75.85.63:8654/xx8k50fps.php
 河南卫视,http://123.163.55.234:9901/tsfile/live/0139_1.m3u8
 河南卫视,http://219.159.147.195:9901/tsfile/live/1034_1.m3u8
 河南卫视,http://124.205.11.202:91/live/HeNWS-1500k/live.m3u8
