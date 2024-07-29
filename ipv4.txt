@@ -15,7 +15,7 @@ CCTV12-社会与法,http://124.205.11.199:91/live/CCTV12hd-8M/live.m3u8
 CCTV13-新闻,http://124.205.11.199:91/live/CCTV13hd-8M/live.m3u8
 CCTV14-少儿,http://118.144.105.55:91/live/CCTV14hd-8M/live.m3u8
 CCTV15-音乐,http://124.205.11.203:91/live/CCTV15hd-8M/live.m3u8
-CCTV16-奥林匹克,https://ayocndali.v.myalicdn.com/ayocnd/4kcctv16_2td.m3u8?auth_key=1722237783-fffbcfa879bdfb17533fc0d2708902ab-0-48220c349ce96f0ae18b2cd79f34631a
+CCTV16-奥林匹克,https://ayocndali.v.myalicdn.com/ayocnd/4kcctv16_2td.m3u8?auth_key=1722296173-fffbcfa879bdfb17533fc0d2708902ab-0-c4d5217005cd1ad9aad311e559d4c09a
 CCTV16-奥林匹克,http://124.205.11.246:91/live/CCTV16hd-8M/live.m3u8
 CCTV17-农业农村,http://124.205.11.203:91/live/CCTV17hd-8M/live.m3u8
 CCTV-4K,http://159.75.85.63:5679/cctv4k.php
@@ -168,12 +168,12 @@ CETV1中教1台,http://125.116.63.105:4022/udp/233.50.201.75:5140
 CETV1中教2台,http://111.225.115.28:808/tsfile/live/1029_1.m3u8
 CETV1中教3台,http://117.176.241.206:4022/rtp/239.11.0.247:5140
 CETV1中教4台,http://144.255.40.226:4022/udp/239.21.1.222:5002
-CHC-家庭影院,http://219.145.19.154:5552/rtp/239.112.205.205:5140
+CHC-家庭影院,http://111.165.245.196:8000/udp/225.1.1.213:5002
 CHC-高清影院,http://124.115.207.92:8081/rtp/239.112.205.206:5140
-CHC-动作影院,http://117.32.84.33:8013/rtp/239.112.205.207:5140
-CHC-家庭影院,http://117.32.84.33:8013/rtp/239.112.205.205:5140
-CHC-高清影院,http://117.32.84.33:8013/rtp/239.112.205.206:5140
-CHC-动作影院,http://219.145.19.154:5552/rtp/239.112.205.207:5140
+CHC-动作影院,http://60.220.167.202:8082/rtp/226.0.2.94:8012
+CHC-家庭影院,http://171.110.10.10:8181/tsfile/live/1056_1.m3u8
+CHC-高清影院,http://60.221.41.127:4022/rtp/226.0.2.93:8004
+CHC-动作影院,http://118.79.12.225:6000/rtp/226.0.2.94:8012
 CHC-家庭影院,http://58.19.38.162:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC-动作电影,http://58.19.38.162:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC-高清电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0

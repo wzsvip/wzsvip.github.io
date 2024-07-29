@@ -32,7 +32,7 @@ http://118.144.105.55:91/live/CCTV14hd-8M/live.m3u8
 #EXTINF:-1 tvg-name="CCTV15-音乐" tvg-logo="https://live.fanmingming.com/tv/CCTV15-音乐.png" group-title="🇨🇳电视频道",CCTV15-音乐
 http://124.205.11.203:91/live/CCTV15hd-8M/live.m3u8
 #EXTINF:-1 tvg-name="CCTV16-奥林匹克" tvg-logo="https://live.fanmingming.com/tv/CCTV16-奥林匹克.png" group-title="🇨🇳电视频道",CCTV16-奥林匹克
-https://ayocndali.v.myalicdn.com/ayocnd/4kcctv16_2td.m3u8?auth_key=1722248845-fffbcfa879bdfb17533fc0d2708902ab-0-41bb9aa9e80afe24c49f012aa5b9ae19
+https://ayocndali.v.myalicdn.com/ayocnd/4kcctv16_2td.m3u8?auth_key=1722296173-fffbcfa879bdfb17533fc0d2708902ab-0-c4d5217005cd1ad9aad311e559d4c09a
 #EXTINF:-1 tvg-name="CCTV16-奥林匹克" tvg-logo="https://live.fanmingming.com/tv/CCTV16-奥林匹克.png" group-title="🇨🇳电视频道",CCTV16-奥林匹克
 http://124.205.11.246:91/live/CCTV16hd-8M/live.m3u8
 #EXTINF:-1 tvg-name="CCTV17-农业农村" tvg-logo="https://live.fanmingming.com/tv/CCTV17-农业农村.png" group-title="🇨🇳电视频道",CCTV17-农业农村
@@ -338,17 +338,17 @@ http://117.176.241.206:4022/rtp/239.11.0.247:5140
 #EXTINF:-1 tvg-name="CETV1中教4台" tvg-logo="https://live.fanmingming.com/tv/CETV1中教4台.png" group-title="🇨🇳电视频道",CETV1中教4台
 http://144.255.40.226:4022/udp/239.21.1.222:5002
 #EXTINF:-1 tvg-name="CHC-家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC-家庭影院.png" group-title="🇨🇳电视频道",CHC-家庭影院
-http://219.145.19.154:5552/rtp/239.112.205.205:5140
+http://111.165.245.196:8000/udp/225.1.1.213:5002
 #EXTINF:-1 tvg-name="CHC-高清影院" tvg-logo="https://live.fanmingming.com/tv/CHC-高清影院.png" group-title="🇨🇳电视频道",CHC-高清影院
 http://124.115.207.92:8081/rtp/239.112.205.206:5140
 #EXTINF:-1 tvg-name="CHC-动作影院" tvg-logo="https://live.fanmingming.com/tv/CHC-动作影院.png" group-title="🇨🇳电视频道",CHC-动作影院
-http://117.32.84.33:8013/rtp/239.112.205.207:5140
+http://60.220.167.202:8082/rtp/226.0.2.94:8012
 #EXTINF:-1 tvg-name="CHC-家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC-家庭影院.png" group-title="🇨🇳电视频道",CHC-家庭影院
-http://117.32.84.33:8013/rtp/239.112.205.205:5140
+http://171.110.10.10:8181/tsfile/live/1056_1.m3u8
 #EXTINF:-1 tvg-name="CHC-高清影院" tvg-logo="https://live.fanmingming.com/tv/CHC-高清影院.png" group-title="🇨🇳电视频道",CHC-高清影院
-http://117.32.84.33:8013/rtp/239.112.205.206:5140
+http://60.221.41.127:4022/rtp/226.0.2.93:8004
 #EXTINF:-1 tvg-name="CHC-动作影院" tvg-logo="https://live.fanmingming.com/tv/CHC-动作影院.png" group-title="🇨🇳电视频道",CHC-动作影院
-http://219.145.19.154:5552/rtp/239.112.205.207:5140
+http://118.79.12.225:6000/rtp/226.0.2.94:8012
 #EXTINF:-1 tvg-name="CHC-家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC-家庭影院.png" group-title="🇨🇳电视频道",CHC-家庭影院
 http://58.19.38.162:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CHC-动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC-动作电影.png" group-title="🇨🇳电视频道",CHC-动作电影
