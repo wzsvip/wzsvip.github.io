@@ -10079,6 +10079,8 @@ https://5b0f5374bdf0c.streamlock.net:444/LiveTV/NOTVHD/playlist.m3u8
 https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/playlist.m3u8
 #EXTINF:-1 tvg-name="KSCE-DT1" tvg-logo="https://live.fanmingming.com/tv/KSCE-DT1.png" group-title="🇺🇸美国",KSCE-DT1
 https://2-fss-2.streamhoster.com/pl_138/200226-1359204-1/playlist.m3u8
+#EXTINF:-1 tvg-name="KSCE-DT2" tvg-logo="https://live.fanmingming.com/tv/KSCE-DT2.png" group-title="🇺🇸美国",KSCE-DT2
+https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8
 #EXTINF:-1 tvg-name="KSCE-DT3" tvg-logo="https://live.fanmingming.com/tv/KSCE-DT3.png" group-title="🇺🇸美国",KSCE-DT3
 https://2-fss-1.streamhoster.com/pl_122/200226-1427780-1/playlist.m3u8
 #EXTINF:-1 tvg-name="KTCA-DT5" tvg-logo="https://live.fanmingming.com/tv/KTCA-DT5.png" group-title="🇺🇸美国",KTCA-DT5
@@ -10697,40 +10699,194 @@ https://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist.m3u8
 http://37.27.111.214:8080/live/45/hls.m3u8
 #EXTINF:-1 tvg-name="VoA TV" tvg-logo="https://live.fanmingming.com/tv/VoA TV.png" group-title="🇺🇸美国",VoA TV
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8
+#EXTINF:-1 tvg-name="Racing America" tvg-logo="https://live.fanmingming.com/tv/Racing America.png" group-title="🇺🇸美国",Racing America
+https://lnc-racing-america.tubi.video/playlistR1080p.m3u8
+#EXTINF:-1 tvg-name="Radio y Television Marti" tvg-logo="https://live.fanmingming.com/tv/Radio y Television Marti.png" group-title="🇺🇸美国",Radio y Television Marti
+https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist_1080.m3u8
+#EXTINF:-1 tvg-name="RadioMensaje TV" tvg-logo="https://live.fanmingming.com/tv/RadioMensaje TV.png" group-title="🇺🇸美国",RadioMensaje TV
+https://eu1.servers10.com:8081/8230/index.m3u8
+#EXTINF:-1 tvg-name="Rainbow Squad" tvg-logo="https://live.fanmingming.com/tv/Rainbow Squad.png" group-title="🇺🇸美国",Rainbow Squad
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb028c2e6a0c00075275a5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6277-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=76f1eaf6-33c5-447a-87c9-414df640b519
+#EXTINF:-1 tvg-name="RCTV" tvg-logo="https://live.fanmingming.com/tv/RCTV.png" group-title="🇺🇸美国",RCTV
+https://livestream.telvue.com/riflecmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/riflecmttv2/stream1/chunks.m3u8
+#EXTINF:-1 tvg-name="RCTV" tvg-logo="https://live.fanmingming.com/tv/RCTV.png" group-title="🇺🇸美国",RCTV
+https://livestream.telvue.com/riflecmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="RCTV3" tvg-logo="https://live.fanmingming.com/tv/RCTV3.png" group-title="🇺🇸美国",RCTV3
+https://vod.cityofrc.us/live-6/live/WIFI-1096k-360p/WIFI-1096k-360p.m3u8
+#EXTINF:-1 tvg-name="Real Families" tvg-logo="https://live.fanmingming.com/tv/Real Families.png" group-title="🇺🇸美国",Real Families
+https://lds-realfamilies-plex.amagi.tv/720p-cc/index.m3u8
+#EXTINF:-1 tvg-name="Real Wild" tvg-logo="https://live.fanmingming.com/tv/Real Wild.png" group-title="🇺🇸美国",Real Wild
+https://amg00426-littledotstudio-realwildnz-samsungnz-wz0bm.amagi.tv/playlist/amg00426-littledotstudio-realwildnz-samsungnz/cb543d1e7f6c678684cb3a6ecef042a5f9b953fc087a8d6933fb4b926bc10f41f9e5af86a540ff1902cb5d81385e7d505c6cdb7fdc7d05cfaf6ada146d20436bf8f8b30ac79b1209b5da0f342ab27807418f4e558c703477dbc2131cca68e62e4b40be49267d1ab99025b1660e9cdb5f9b087cd8f68278296d2907dd0200b0bf56a0e1e14341d96ca2af1d48933f38b8d01b95810cd8d1820adc1a9973f2138391f699c743d0d0c066fb52ba795d5d717bd4d12896cf10eedccd687499272a421d05b7a7caa61c68b4472924907e6022078571fbba67ec5539b2149d4bc4039e6abe0cb49336cacf95fe328cbd39a6210c09aff7b482bb143eb874f2a1e8a71336f9a45210cfae1c5be7d09cd07de934fd5b261573d8918cc95757e19c408994b182a09385439f24cdc8ce3a5c28a102290d9c54ae966c947c9328e8863f2852585cf6da74ca82cb5139660fd7d105942549e88fd3a29f2c2ec36c1f15da50887a4b3e9c643b2eb563a9cb6e25c9071a953938cc5d37ab4be8f779a6f095b6507bfdf5ef76d243a3f506dbfd07e94a395a09bcbb6c1f66446fdfe36342682a8d15aa879bb1244751bca18dd3cf51310b3c57610d8de3f579d4db937e534597214b0a1331199216d960db722b517fb361b9ca2062841426229cc0090f0b3cc798e0c3ebfbc546bc73d68fcd3120355c69df60543e0f33d737a03fed2da1bce62e20aed068f2321731c0f3367b/31/848x480_1686360/index.m3u8
+#EXTINF:-1 tvg-name="Red Apple 21" tvg-logo="https://live.fanmingming.com/tv/Red Apple 21.png" group-title="🇺🇸美国",Red Apple 21
+https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/chunklist.m3u8
+#EXTINF:-1 tvg-name="Redbox Comedy" tvg-logo="https://live.fanmingming.com/tv/Redbox Comedy.png" group-title="🇺🇸美国",Redbox Comedy
+https://comedy-redbox.amagi.tv/1080p/index.m3u8
+#EXTINF:-1 tvg-name="Redbox Comedy" tvg-logo="https://live.fanmingming.com/tv/Redbox Comedy.png" group-title="🇺🇸美国",Redbox Comedy
+https://comedy-redbox.amagi.tv/480p/index.m3u8
+#EXTINF:-1 tvg-name="Redbox Rush" tvg-logo="https://live.fanmingming.com/tv/Redbox Rush.png" group-title="🇺🇸美国",Redbox Rush
+https://redboxaaa-rush-1dr73.amagi.tv/playlist/redboxAAA-rush/cb543d1e7f6c678684cb3967cef344a5f9b953fc087a8d6933fb4b926bc10f41f9e5af86a540ff1902cb5d81385e7d505c6cdb7fdc7d05cfaf6ada146d20436bf8f8b30ac79b1209b5da0f342ab27807418f4e558c703477dbc2131cca68e62e4b40be49267d1ab99025b1660e9cdb5f9b087cd8f68278296d2907dd0200b0bf56a0e1e14341d96ca2af1d48933f38b8d01b95810cd8d1820adc1a9973f2138391f699c714d1d0c36bab03b3795d5d762dd4d12896cf10b7dc986f74cf70711f1b04b6a6c4f8166bb4472924907e6022078571fbba67ec5539b2149d4bc4039e6abe0cb49336cacf95fe328cbd39a6210c09aff7b482bb143eb874f2a1e8a71336f9a45210cfae1c5be7d09cd07de934fd5b261573d8918cc95757e19c408994b182a09385439f24cdc8ce3a5c28a102290d9c54ae966c947c9328e8863f2852585cf6da74ca82cb5139660fd7d105942549e88fd3a29f2c2ec36c1f15da50887a4b3e9c643b2eb563a9cb6e25c9071a953938cc5d37ab4be8f779a6f095b6507bfdf5ef76d243a3f506dbfd07e94a395a09bcbb6c1f66446fdfe36342682a8d15aa879bb1244751bca18dd3cf51310b3c57610d8de3f579d4db937e534597214b0a1331199216d960db722b517fb361b9ca2062841426229cc0090f0b3cc798e0c3ebfbc546bc73d68fcd3120355c69de62517776b256ec8b06fa9e1837c1b08690c59fa5fe965e12f945d039/141/848x480_1686360/index.m3u8
+#EXTINF:-1 tvg-name="Redbox Rush" tvg-logo="https://live.fanmingming.com/tv/Redbox Rush.png" group-title="🇺🇸美国",Redbox Rush
+https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
+#EXTINF:-1 tvg-name="Redbox Spotlight" tvg-logo="https://live.fanmingming.com/tv/Redbox Spotlight.png" group-title="🇺🇸美国",Redbox Spotlight
+https://spotlight-redbox.amagi.tv/1080p/index.m3u8
+#EXTINF:-1 tvg-name="Redbox Spotlight" tvg-logo="https://live.fanmingming.com/tv/Redbox Spotlight.png" group-title="🇺🇸美国",Redbox Spotlight
+https://spotlight-redbox.amagi.tv/480p/index.m3u8
+#EXTINF:-1 tvg-name="Redbox Spotlight" tvg-logo="https://live.fanmingming.com/tv/Redbox Spotlight.png" group-title="🇺🇸美国",Redbox Spotlight
+https://spotlight-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Redbox Unsolved Mysteries" tvg-logo="https://live.fanmingming.com/tv/Redbox Unsolved Mysteries.png" group-title="🇺🇸美国",Redbox Unsolved Mysteries
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-name="Reelz" tvg-logo="https://live.fanmingming.com/tv/Reelz.png" group-title="🇺🇸美国",Reelz
+https://bcovlive-a.akamaihd.net/rc21a8bc6455344c699a06e9220fe2748/us-west-2/5245389775001/playlist.m3u8
+#EXTINF:-1 tvg-name="Reelz" tvg-logo="https://live.fanmingming.com/tv/Reelz.png" group-title="🇺🇸美国",Reelz
+https://bcovlive-a.akamaihd.net/rc21a8bc6455344c699a06e9220fe2748/us-west-2/us-west-2/5245389775001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-name="Reelz Channel XUMO" tvg-logo="https://live.fanmingming.com/tv/Reelz Channel XUMO.png" group-title="🇺🇸美国",Reelz Channel XUMO
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/1920x1080_4725600/index.m3u8
+#EXTINF:-1 tvg-name="Rescue 911" tvg-logo="https://live.fanmingming.com/tv/Rescue 911.png" group-title="🇺🇸美国",Rescue 911
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f21e831e9fe730007706acb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8981-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=829d9eef-9cc5-49ef-9790-7aed2bb2aa09
+#EXTINF:-1 tvg-name="RetroCrush" tvg-logo="https://live.fanmingming.com/tv/RetroCrush.png" group-title="🇺🇸美国",RetroCrush
+https://amg01201-cinedigmenterta-retrocrush-lgus-ati5e.amagi.tv/playlist/amg01201-cinedigmenterta-retrocrush-lgus/cb573d1e7f6c678684cb3a61cef5468264371fde1d6988693eb5518975d10725dce2b48be65b9e3608dd4087351a6c505677ad1bdf7809b6ce08ed0868280816fa99c365db99120eb0d8112a2bb1630e20be4e4985420670f2e00e47d06ee2375645a841457e06a09145bd2a0b9ed51afc2a7ad0f2c471290e021dc00008faa85dbdffff5944d86fbfb01c4e85521ab5db1e9cc47fead68519c75c8375f60a9e94e29fdb428286c237ae53af600c0c7330c8d17c95845fe28a9b24699d287f121c07bfa595fb180e862d3b34795456dd1f9d26fdcb48b46e3eaf059c0fb7248b7faf1ad59924c2839aaf8fc5a4c6be364f28b2f1a8cada3836af6ff8a393bd391ccbb07cf020b8ee1dd98f7810dfeb6d1cf096534d37bd14237219cd9457929eb3ccccb884499d22c5fd56f957ad2f4e0b188f51ae9b228e678d38e0e21a2f49551fedbb5bc094d65734221ed7db1ee2414aed83aac3fd1b32c6645468d831f815573c9c633e2cab7da8c8752ca8361a89300afe5a1e8956b3ed7fa2e988b346739ef6f36fd323afb903d9f3428e683f520dfab26c7c4d5e72ddeb29556337930bb0829ab2395850bab7e0f1c25a34027924530a8af0ee3fcedd97674e40b33e4c07551e13840bdf6dad62185154b674b5851f7597012e5781916d0c0a3dc699f3edaad9c84db97a93fff536213e5301e5661d478eb21e729b285e2316d81128258c0f6f468894ce70ec53/85/1920x1080_6046040/index.m3u8
+#EXTINF:-1 tvg-name="Revolt" tvg-logo="https://live.fanmingming.com/tv/Revolt.png" group-title="🇺🇸美国",Revolt
+https://lnc-revolt.tubi.video/playlistR1080p.m3u8
+#EXTINF:-1 tvg-name="Revry" tvg-logo="https://live.fanmingming.com/tv/Revry.png" group-title="🇺🇸美国",Revry
+https://revry-revry-3-eu.rakuten.wurl.tv/5d6f0ec36efcb58256d38c4344b5f7f7.m3u8
+#EXTINF:-1 tvg-name="Revry" tvg-logo="https://live.fanmingming.com/tv/Revry.png" group-title="🇺🇸美国",Revry
+https://revry-revry-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Revry News" tvg-logo="https://live.fanmingming.com/tv/Revry News.png" group-title="🇺🇸美国",Revry News
+https://revry-revrynews-1-eu.rakuten.wurl.tv/376f3de18909153b3d2166f36e65597d.m3u8
+#EXTINF:-1 tvg-name="Revry News" tvg-logo="https://live.fanmingming.com/tv/Revry News.png" group-title="🇺🇸美国",Revry News
+https://revry-revrynews-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Revry Queer" tvg-logo="https://live.fanmingming.com/tv/Revry Queer.png" group-title="🇺🇸美国",Revry Queer
+https://linear-43.frequency.stream/mt/galxy/43/hls/master/playlist_1920x1080.m3u8
+#EXTINF:-1 tvg-name="RFD-TV" tvg-logo="https://live.fanmingming.com/tv/RFD-TV.png" group-title="🇺🇸美国",RFD-TV
+https://rfdtv-jw.cdn.vustreams.com/live/7cba1a3b-318a-4097-8492-374478370b91/live.isml/live-audio_0=64000-video=6499968.m3u8
+#EXTINF:-1 tvg-name="RiffTrax" tvg-logo="https://live.fanmingming.com/tv/RiffTrax.png" group-title="🇺🇸美国",RiffTrax
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58d947b9e420d8656ee101ab/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8982-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1ae8efba-578b-4c2b-a7a1-ec96f6d4bf26
+#EXTINF:-1 tvg-name="Radio Javan TV" tvg-logo="https://live.fanmingming.com/tv/Radio Javan TV.png" group-title="🇺🇸美国",Radio Javan TV
+https://74.115.215.41/live/smil:rjtv.smil/chunklist_w242070981_b2892000.m3u8
+#EXTINF:-1 tvg-name="Radio Javan TV" tvg-logo="https://live.fanmingming.com/tv/Radio Javan TV.png" group-title="🇺🇸美国",Radio Javan TV
+https://74.115.215.41/live/smil:rjtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="RTH-TV1" tvg-logo="https://live.fanmingming.com/tv/RTH-TV1.png" group-title="🇺🇸美国",RTH-TV1
+https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4203440/chunklist_b3500000.m3u8
+#EXTINF:-1 tvg-name="RTN Chicago" tvg-logo="https://live.fanmingming.com/tv/RTN Chicago.png" group-title="🇺🇸美国",RTN Chicago
+https://5bb3298db4821.streamlock.net/3707/live1/playlist.m3u8
+#EXTINF:-1 tvg-name="Ryan and Friends" tvg-logo="https://live.fanmingming.com/tv/Ryan and Friends.png" group-title="🇺🇸美国",Ryan and Friends
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fb584b7613a31000789de5alivestitch/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8984-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=674985cd-9104-489b-8677-79ffaee83405&profilesFromStream=true
+#EXTINF:-1 tvg-name="Ryan and Friends" tvg-logo="https://live.fanmingming.com/tv/Ryan and Friends.png" group-title="🇺🇸美国",Ryan and Friends
+https://amg00286-pocketwatch-ryanandfriends-samsungnz-oc0ua.amagi.tv/playlist/amg00286-pocketwatch-ryanandfriends-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-name="Sada-E-Haq TV" tvg-logo="https://live.fanmingming.com/tv/Sada-E-Haq TV.png" group-title="🇺🇸美国",Sada-E-Haq TV
+https://live.relentlessinnovations.net:1936/sadaehaq/sadaehaq/playlist.m3u8
+#EXTINF:-1 tvg-name="Safeer TV" tvg-logo="https://live.fanmingming.com/tv/Safeer TV.png" group-title="🇺🇸美国",Safeer TV
+https://futuretoday-afv-family-2-ie.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Samuel Goldwyn Classics" tvg-logo="https://live.fanmingming.com/tv/Samuel Goldwyn Classics.png" group-title="🇺🇸美国",Samuel Goldwyn Classics
+https://lnc-samuel-goldwyn-classics.tubi.video/4300.m3u8
+#EXTINF:-1 tvg-name="SC Currents" tvg-logo="https://live.fanmingming.com/tv/SC Currents.png" group-title="🇺🇸美国",SC Currents
+https://reflect-communitytv.cablecast.tv/live-5/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:-1 tvg-name="SC Currents" tvg-logo="https://live.fanmingming.com/tv/SC Currents.png" group-title="🇺🇸美国",SC Currents
+https://reflect-communitytv.cablecast.tv/live-5/live/live.m3u8
+#EXTINF:-1 tvg-name="Scientology Network" tvg-logo="https://live.fanmingming.com/tv/Scientology Network.png" group-title="🇺🇸美国",Scientology Network
+https://stream6.scientology.org/stream/hls_1920x1080_7800k.m3u8?offset=30
+#EXTINF:-1 tvg-name="Scientology Network" tvg-logo="https://live.fanmingming.com/tv/Scientology Network.png" group-title="🇺🇸美国",Scientology Network
+https://stream6.scientology.org/stream/hls_1280x720_4500k.m3u8?offset=30
+#EXTINF:-1 tvg-name="Scottsdale Channel 11" tvg-logo="https://live.fanmingming.com/tv/Scottsdale Channel 11.png" group-title="🇺🇸美国",Scottsdale Channel 11
+https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/scottsdale/G0040_007/chunklist.m3u8
+#EXTINF:-1 tvg-name="Scripps News" tvg-logo="https://live.fanmingming.com/tv/Scripps News.png" group-title="🇺🇸美国",Scripps News
+https://livetv-fa.tubi.video/scripps-news/playlist_4300k.m3u8
+#EXTINF:-1 tvg-name="SCVTV" tvg-logo="https://live.fanmingming.com/tv/SCVTV.png" group-title="🇺🇸美国",SCVTV
+https://reflect-scvtv.cablecast.tv/live-2/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?duration=0
+#EXTINF:-1 tvg-name="Septimo arte" tvg-logo="https://live.fanmingming.com/tv/Septimo arte.png" group-title="🇺🇸美国",Septimo arte
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8987-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1202ea23-d955-4016-bac1-563ea6638683
+#EXTINF:-1 tvg-name="Series con N" tvg-logo="https://live.fanmingming.com/tv/Series con N.png" group-title="🇺🇸美国",Series con N
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb3087fbbc120007fc46be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8988-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8d10604b-577d-49d0-a6bc-03b028c6758f
+#EXTINF:-1 tvg-name="SF Commons 29" tvg-logo="https://live.fanmingming.com/tv/SF Commons 29.png" group-title="🇺🇸美国",SF Commons 29
+https://reflect-bayarea.cablecast.tv/live-5/live/WIFI-1096k-360p/WIFI-1096k-360p.m3u8?duration=0
+#EXTINF:-1 tvg-name="SF Commons 76" tvg-logo="https://live.fanmingming.com/tv/SF Commons 76.png" group-title="🇺🇸美国",SF Commons 76
+https://reflect-bayarea.cablecast.tv/live-6/live/WIFI-1096k-360p/WIFI-1096k-360p.m3u8?duration=0
+#EXTINF:-1 tvg-name="SFGovTV" tvg-logo="https://live.fanmingming.com/tv/SFGovTV.png" group-title="🇺🇸美国",SFGovTV
+https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sanfrancisco/G0051_003/chunklist.m3u8
+#EXTINF:-1 tvg-name="SFGovTV2" tvg-logo="https://live.fanmingming.com/tv/SFGovTV2.png" group-title="🇺🇸美国",SFGovTV2
+https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sanfrancisco/G0051_008/playlist.m3u8
+#EXTINF:-1 tvg-name="SGTV" tvg-logo="https://live.fanmingming.com/tv/SGTV.png" group-title="🇺🇸美国",SGTV
+https://live.seminolecountyfl.gov/live-2/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:-1 tvg-name="Shabakeh 7" tvg-logo="https://live.fanmingming.com/tv/Shabakeh 7.png" group-title="🇺🇸美国",Shabakeh 7
+https://cdn.northtelecom.org/Shabakeh.m3u8
+#EXTINF:-1 tvg-name="Shabakeh 7" tvg-logo="https://live.fanmingming.com/tv/Shabakeh 7.png" group-title="🇺🇸美国",Shabakeh 7
+https://t.northtelecom.org/Shabakeh.m3u8
+#EXTINF:-1 tvg-name="Shalom America" tvg-logo="https://live.fanmingming.com/tv/Shalom America.png" group-title="🇺🇸美国",Shalom America
+https://livestreamcdn.net:444/ShalomTV/ShalomTV/playlist.m3u8
+#EXTINF:-1 tvg-name="Shout! Factory TV" tvg-logo="https://live.fanmingming.com/tv/Shout! Factory TV.png" group-title="🇺🇸美国",Shout! Factory TV
+https://shoutfactory-xumo.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-name="Showtime at the Apollo" tvg-logo="https://live.fanmingming.com/tv/Showtime at the Apollo.png" group-title="🇺🇸美国",Showtime at the Apollo
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxshowtimeattheapollo/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-name="Skwad Play" tvg-logo="https://live.fanmingming.com/tv/Skwad Play.png" group-title="🇺🇸美国",Skwad Play
+https://stream.ads.ottera.tv/cl/240730cqkas3bblkqtgthm7nvg/1280x720_2300000_0_f.m3u8?i=475_71
+#EXTINF:-1 tvg-name="Sky TV New York" tvg-logo="https://live.fanmingming.com/tv/Sky TV New York.png" group-title="🇺🇸美国",Sky TV New York
+https://vse2-na-us-sw69.secdn.net/tvsw2-chorigin/play/prod-2cb201942c94460d9356b2c138272263/playlist.m3u8
+#EXTINF:-1 tvg-name="Slightly Off IFC" tvg-logo="https://live.fanmingming.com/tv/Slightly Off IFC.png" group-title="🇺🇸美国",Slightly Off IFC
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e82547b6b3df60007fec2b5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb093-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5e336fce-1133-44bb-873d-7d5d7f8476c2
+#EXTINF:-1 tvg-name="SLO County Channel 21" tvg-logo="https://live.fanmingming.com/tv/SLO County Channel 21.png" group-title="🇺🇸美国",SLO County Channel 21
+https://agp-nimble.streamguys1.com/SLOC/SLOC/playlist.m3u8
+#EXTINF:-1 tvg-name="Smart LifeStyle TV" tvg-logo="https://live.fanmingming.com/tv/Smart LifeStyle TV.png" group-title="🇺🇸美国",Smart LifeStyle TV
+https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream.m3u8
+#EXTINF:-1 tvg-name="SMCTV Channel 23" tvg-logo="https://live.fanmingming.com/tv/SMCTV Channel 23.png" group-title="🇺🇸美国",SMCTV Channel 23
+https://livestream.telvue.com/santamariactv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="SMCTV Channel 24" tvg-logo="https://live.fanmingming.com/tv/SMCTV Channel 24.png" group-title="🇺🇸美国",SMCTV Channel 24
+https://livestream.telvue.com/santamariactv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/santamariactv2/stream1/chunks.m3u8
+#EXTINF:-1 tvg-name="SMCTV Channel 25" tvg-logo="https://live.fanmingming.com/tv/SMCTV Channel 25.png" group-title="🇺🇸美国",SMCTV Channel 25
+https://livestream.telvue.com/santamariactv3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Smile (Santa Ana)" tvg-logo="https://live.fanmingming.com/tv/Smile (Santa Ana).png" group-title="🇺🇸美国",Smile (Santa Ana)
+https://tbn-jw.cdn.vustreams.com/live/smile/live.isml/live-audio_1=128000-video=2800000.m3u8
+#EXTINF:-1 tvg-name="Smithsonian Channel Selects" tvg-logo="https://live.fanmingming.com/tv/Smithsonian Channel Selects.png" group-title="🇺🇸美国",Smithsonian Channel Selects
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f21ea08007a49000762d349/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb094-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=984e1d1d-6d7f-4f0b-98a5-825ccb67a891
+#EXTINF:-1 tvg-name="So... Real" tvg-logo="https://live.fanmingming.com/tv/So... Real.png" group-title="🇺🇸美国",So... Real
+https://dai.google.com/linear/hls/event/VMzvtHhOQdOAzbV_hQKQbQ/master.m3u8
+#EXTINF:-1 tvg-name="Sony Canal Escape Perfecto" tvg-logo="https://live.fanmingming.com/tv/Sony Canal Escape Perfecto.png" group-title="🇺🇸美国",Sony Canal Escape Perfecto
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/605e479d5b8229000763e697/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb095-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e52ea0d7-7d74-4383-8afa-27a135057740
+#EXTINF:-1 tvg-name="Sony KAL Hindi" tvg-logo="https://live.fanmingming.com/tv/Sony KAL Hindi.png" group-title="🇺🇸美国",Sony KAL Hindi
+https://spt-sonykal-1-us.lg.wurl.tv/playlist_4300k.m3u8
+#EXTINF:-1 tvg-name="Sony Movies" tvg-logo="https://live.fanmingming.com/tv/Sony Movies.png" group-title="🇺🇸美国",Sony Movies
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+#EXTINF:-1 tvg-name="Sound View Community Media" tvg-logo="https://live.fanmingming.com/tv/Sound View Community Media.png" group-title="🇺🇸美国",Sound View Community Media
+https://livestream.telvue.com/soundviewcmt1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Spike !extremo!" tvg-logo="https://live.fanmingming.com/tv/Spike !extremo!.png" group-title="🇺🇸美国",Spike !extremo!
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d11baeb31c5a43b77bf59/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb096-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f37a80ae-914d-4428-8a84-590464669724
+#EXTINF:-1 tvg-name="Spike Outdoors" tvg-logo="https://live.fanmingming.com/tv/Spike Outdoors.png" group-title="🇺🇸美国",Spike Outdoors
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c393cad2de254456f7ef8c2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb097-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ba96820a-ef7c-474b-9484-5944ae6322c0
+#EXTINF:-1 tvg-name="Spike Pluto TV" tvg-logo="https://live.fanmingming.com/tv/Spike Pluto TV.png" group-title="🇺🇸美国",Spike Pluto TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb098-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7817c7c9-18cd-4d07-835d-350e94a68d2b
+#EXTINF:-1 tvg-name="Spirit TV" tvg-logo="https://live.fanmingming.com/tv/Spirit TV.png" group-title="🇺🇸美国",Spirit TV
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Sports News Highlights" tvg-logo="https://live.fanmingming.com/tv/Sports News Highlights.png" group-title="🇺🇸美国",Sports News Highlights
+https://amg01756-newsnet-amg01756c2-klowdtv-us-1123.playouts.now.amagi.tv/playlist/amg01756-newsnetfast-sportsnewshighlightsklowdtv-klowdtvus/playlist.m3u8
+#EXTINF:-1 tvg-name="SportsGrid" tvg-logo="https://live.fanmingming.com/tv/SportsGrid.png" group-title="🇺🇸美国",SportsGrid
+https://sportsgrid-xumo-us.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-name="SportsGrid" tvg-logo="https://live.fanmingming.com/tv/SportsGrid.png" group-title="🇺🇸美国",SportsGrid
+https://sportsgrid-xumo-us.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-name="SPTV" tvg-logo="https://live.fanmingming.com/tv/SPTV.png" group-title="🇺🇸美国",SPTV
+https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/stpete/G0187_003/playlist.m3u8
+#EXTINF:-1 tvg-name="Stadium" tvg-logo="https://live.fanmingming.com/tv/Stadium.png" group-title="🇺🇸美国",Stadium
+https://lnc-stadium2.tubi.video/playlist_7.m3u8
+#EXTINF:-1 tvg-name="Stand-Up TV" tvg-logo="https://live.fanmingming.com/tv/Stand-Up TV.png" group-title="🇺🇸美国",Stand-Up TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5637d31f319573e26b64040b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=33a4d320-29a2-4c88-9bcb-84a407b88251
+#EXTINF:-1 tvg-name="Star Channel Central America" tvg-logo="https://live.fanmingming.com/tv/Star Channel Central America.png" group-title="🇺🇸美国",Star Channel Central America
+https://170.254.18.106/STAR/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Star Trek" tvg-logo="https://live.fanmingming.com/tv/Star Trek.png" group-title="🇺🇸美国",Star Trek
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d71afd5b-b301-46b0-bf30-b8f1833c66d5
+#EXTINF:-1 tvg-name="Stockton Gov TV" tvg-logo="https://live.fanmingming.com/tv/Stockton Gov TV.png" group-title="🇺🇸美国",Stockton Gov TV
+https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/stockton/G0044_008/playlist.m3u8
+#EXTINF:-1 tvg-name="Stories by AMC" tvg-logo="https://live.fanmingming.com/tv/Stories by AMC.png" group-title="🇺🇸美国",Stories by AMC
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=376bc851-10a1-4952-ada7-86e9d28d5845
+#EXTINF:-1 tvg-name="Story Television (Chicago)" tvg-logo="https://live.fanmingming.com/tv/Story Television (Chicago).png" group-title="🇺🇸美国",Story Television (Chicago)
+https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
+#EXTINF:-1 tvg-name="SUMtv Latino" tvg-logo="https://live.fanmingming.com/tv/SUMtv Latino.png" group-title="🇺🇸美国",SUMtv Latino
+https://bozztv.com/uni10rtmp/ssstv2-cdn/smil:ssstv2web.smil/chunklist_b2176000.m3u8
+#EXTINF:-1 tvg-name="Sundance TV East" tvg-logo="https://live.fanmingming.com/tv/Sundance TV East.png" group-title="🇺🇸美国",Sundance TV East
+https://143.244.60.97/SUNDANCE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Survivor" tvg-logo="https://live.fanmingming.com/tv/Survivor.png" group-title="🇺🇸美国",Survivor
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f21e7b24744c60007c1f6fc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d8ecd073-183e-48e4-a98b-a1be120de05a
+#EXTINF:-1 tvg-name="Swerve Sports" tvg-logo="https://live.fanmingming.com/tv/Swerve Sports.png" group-title="🇺🇸美国",Swerve Sports
+https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist_1920x1080.m3u8
 #EXTINF:-1 tvg-name="更新到这里" tvg-logo="https://live.fanmingming.com/tv/更新到这里.png" group-title="🇺🇸美国",更新到这里
 
-#EXTINF:-1 tvg-name="RETRO TV" tvg-logo="https://live.fanmingming.com/tv/RETRO TV.png" group-title="🇺🇸美国",RETRO TV
-https://epg.pw/stream/f353063c5dcd6e2b64ecaca89486135b9625abc2a835b973f76f47c767fba372.m3u8
-#EXTINF:-1 tvg-name="RETRO TV" tvg-logo="https://live.fanmingming.com/tv/RETRO TV.png" group-title="🇺🇸美国",RETRO TV
-https://epg.pw/stream/9b67f86cbc2ea57cbdc18df5d489582da0cf6292a2cdb08f3705c325faccc469.m3u8
-#EXTINF:-1 tvg-name="RETRO TV" tvg-logo="https://live.fanmingming.com/tv/RETRO TV.png" group-title="🇺🇸美国",RETRO TV
-https://epg.pw/stream/bb0a6f810a49506f22a537075b556e19c397de51700c2fa7bf32f7113c52d028.m3u8
-#EXTINF:-1 tvg-name="Ryan and Friends" tvg-logo="https://live.fanmingming.com/tv/Ryan and Friends.png" group-title="🇺🇸美国",Ryan and Friends
-https://epg.pw/stream/9ee5f21963fb8b484ff6aa95209bb95a17b0ac7678817b507fa904353c5c35ce.m3u8
-#EXTINF:-1 tvg-name="Ryan and Friends" tvg-logo="https://live.fanmingming.com/tv/Ryan and Friends.png" group-title="🇺🇸美国",Ryan and Friends
-https://epg.pw/stream/7f3478c383fe1356c6f56f10244ae49383284610052b9a88e10df7cb82b8f0dd.m3u8
-#EXTINF:-1 tvg-name="Ryan and Friends" tvg-logo="https://live.fanmingming.com/tv/Ryan and Friends.png" group-title="🇺🇸美国",Ryan and Friends
-https://epg.pw/stream/c2f5a466c3c97c230934cea04f5bee8120a71920fded9d4e9c4b59d71b60272b.m3u8
-#EXTINF:-1 tvg-name="Ryan and Friends" tvg-logo="https://live.fanmingming.com/tv/Ryan and Friends.png" group-title="🇺🇸美国",Ryan and Friends
-https://epg.pw/stream/37193aba2c96e98cc6d533e86667157a21cf7472125830d1ed7a47e54bffc9f6.m3u8
-#EXTINF:-1 tvg-name="Ryan and Friends" tvg-logo="https://live.fanmingming.com/tv/Ryan and Friends.png" group-title="🇺🇸美国",Ryan and Friends
-https://epg.pw/stream/3ad91b341c8f4beae11fc29677bff6c740f5c23f924b89043d8bab243130950f.m3u8
-#EXTINF:-1 tvg-name="Ryan and Friends" tvg-logo="https://live.fanmingming.com/tv/Ryan and Friends.png" group-title="🇺🇸美国",Ryan and Friends
-https://epg.pw/stream/bfbb0fc3a692f56c1b8f2c4e20849c8230455b2678221a03724ff859d9dee231.m3u8
-#EXTINF:-1 tvg-name="Setanta Sports" tvg-logo="https://live.fanmingming.com/tv/Setanta Sports.png" group-title="🇺🇸美国",Setanta Sports
-https://epg.pw/stream/dbb64de6896483eff5d67e0bdb082bd72ddc3c19b614b094e385a97e96f24fca.m3u8
-#EXTINF:-1 tvg-name="Showtime" tvg-logo="https://live.fanmingming.com/tv/Showtime.png" group-title="🇺🇸美国",Showtime
-https://epg.pw/stream/cf0177a94088b73219bfd1b533c378f8f9b37adefd55f1b5ec6478b86790dec6.m3u8
-#EXTINF:-1 tvg-name="Showtime" tvg-logo="https://live.fanmingming.com/tv/Showtime.png" group-title="🇺🇸美国",Showtime
-https://epg.pw/stream/d37db2e6f4df4947791410185fd99555355adeaa3ec77e9be1cc7c5311383973.m3u8
-#EXTINF:-1 tvg-name="Star Movies" tvg-logo="https://live.fanmingming.com/tv/Star Movies.png" group-title="🇺🇸美国",Star Movies
-https://epg.pw/stream/507165eb1c08d04734c24d1174630d7aace2f4442cec43ea72aa1eb4be902ac2.ctv
-#EXTINF:-1 tvg-name="Star Movies" tvg-logo="https://live.fanmingming.com/tv/Star Movies.png" group-title="🇺🇸美国",Star Movies
-https://epg.pw/stream/9a76a7f732235f398e9bd4fdeaf2a0f5ae6055ef7d0041e1afb8acec4edba94a.ctv
-#EXTINF:-1 tvg-name="Star Movies" tvg-logo="https://live.fanmingming.com/tv/Star Movies.png" group-title="🇺🇸美国",Star Movies
-https://epg.pw/stream/e61d26f3b8a9fba6ceb851b916fd29093428d46c1c9e7f4eb0bc885b34b7a285.m3u8
-#EXTINF:-1 tvg-name="Sundance channel" tvg-logo="https://live.fanmingming.com/tv/Sundance channel.png" group-title="🇺🇸美国",Sundance channel
-https://epg.pw/stream/6f22320a940192037fbed8433a27632555a786ee62a631db6f43a31629845cda.m3u8
 #EXTINF:-1 tvg-name="TBN Inspire" tvg-logo="https://live.fanmingming.com/tv/TBN Inspire.png" group-title="🇺🇸美国",TBN Inspire
 https://epg.pw/stream/68f915f5641cdfda977db532b0e0bc4560a89ee832a68293887b52b449985d75.m3u8
 #EXTINF:-1 tvg-name="TBN Inspire" tvg-logo="https://live.fanmingming.com/tv/TBN Inspire.png" group-title="🇺🇸美国",TBN Inspire

@@ -15,7 +15,7 @@ CCTV12-社会与法,http://124.205.11.199:91/live/CCTV12hd-8M/live.m3u8
 CCTV13-新闻,http://124.205.11.199:91/live/CCTV13hd-8M/live.m3u8
 CCTV14-少儿,http://118.144.105.55:91/live/CCTV14hd-8M/live.m3u8
 CCTV15-音乐,http://124.205.11.203:91/live/CCTV15hd-8M/live.m3u8
-CCTV16-奥林匹克,https://ayocndali.v.myalicdn.com/ayocnd/4kcctv16_2td.m3u8?auth_key=1722313132-fffbcfa879bdfb17533fc0d2708902ab-0-4f2f0d439ce7976ed0b89718ed19a487
+CCTV16-奥林匹克,https://ayocndali.v.myalicdn.com/ayocnd/4kcctv16_2td.m3u8?auth_key=1722333088-fffbcfa879bdfb17533fc0d2708902ab-0-370c327ff0a4faf179abde01be615219
 CCTV16-奥林匹克,http://124.205.11.246:91/live/CCTV16hd-8M/live.m3u8
 CCTV17-农业农村,http://124.205.11.203:91/live/CCTV17hd-8M/live.m3u8
 CCTV-4K,http://159.75.85.63:5679/cctv4k.php
