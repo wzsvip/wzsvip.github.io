@@ -1,7 +1,10 @@
 🇨🇳电视频道,#genre#
+CCTV1-综合,https://pan.nange6.cn:51888/pan/view.php/7ddebbf377bc641ce083d71957c0d474.php?id=cctv1
+CCTV2-财经,https://pan.nange6.cn:51888/pan/view.php/7ddebbf377bc641ce083d71957c0d474.php?id=cctv2
 CCTV1-综合,http://124.205.11.202:91/live/CCTV1hd-8M/live.m3u8
 CCTV2-财经,http://124.205.11.246:91/live/CCTV2hd-8M/live.m3u8
 CCTV3-综艺,http://124.205.11.202:91/live/CCTV3hd-8M/live.m3u8
+CCTV4-国际,https://pan.nange6.cn:51888/pan/view.php/7ddebbf377bc641ce083d71957c0d474.php?id=cctv4
 CCTV4-国际,http://118.144.105.51:91/live/CCTV4hd-8M/live.m3u8
 CCTV5-体育,http://124.205.11.199:91/live/CCTV5hd-8M/live.m3u8
 CCTV5+体育赛事,http://124.205.11.205:91/live/CCTV5+hd-8M/live.m3u8
@@ -12,10 +15,11 @@ CCTV9-纪录,http://124.205.11.246:91/live/CCTV9hd-8M/live.m3u8
 CCTV10-科教,http://124.205.11.197:91/live/CCTV10hd-8M/live.m3u8
 CCTV11-戏曲,http://124.205.11.197:91/live/CCTV11hd-8M/live.m3u8
 CCTV12-社会与法,http://124.205.11.199:91/live/CCTV12hd-8M/live.m3u8
+CCTV13-新闻,https://pan.nange6.cn:51888/pan/view.php/7ddebbf377bc641ce083d71957c0d474.php?id=cctv13
 CCTV13-新闻,http://124.205.11.199:91/live/CCTV13hd-8M/live.m3u8
 CCTV14-少儿,http://118.144.105.55:91/live/CCTV14hd-8M/live.m3u8
 CCTV15-音乐,http://124.205.11.203:91/live/CCTV15hd-8M/live.m3u8
-CCTV16-奥林匹克,https://ayocndali.v.myalicdn.com/ayocnd/4kcctv16_2td.m3u8?auth_key=1722562013-fffbcfa879bdfb17533fc0d2708902ab-0-9bf99b947f9406d15216f4443bb398c1
+CCTV16-奥林匹克,https://ayocndali.v.myalicdn.com/ayocnd/4kcctv16_2td.m3u8?auth_key=1722572945-fffbcfa879bdfb17533fc0d2708902ab-0-5fc922280a8bbea8a2e0f2aef36ce12a
 CCTV16-奥林匹克,http://124.205.11.246:91/live/CCTV16hd-8M/live.m3u8
 CCTV17-农业农村,http://124.205.11.203:91/live/CCTV17hd-8M/live.m3u8
 CCTV-4K,http://159.75.85.63:5679/cctv4k.php
