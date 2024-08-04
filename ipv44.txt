@@ -20,7 +20,7 @@ CCTV13-新闻,https://pan.nange6.cn:51888/pan/view.php/7ddebbf377bc641ce083d7195
 CCTV13-新闻,http://124.205.11.199:91/live/CCTV13hd-8M/live.m3u8
 CCTV14-少儿,http://118.144.105.55:91/live/CCTV14hd-8M/live.m3u8
 CCTV15-音乐,http://124.205.11.205:91/live/CCTV5+hd-8M/live.m3u8
-CCTV16-奥林匹克,https://ayocndali.v.myalicdn.com/ayocnd/4kcctv16_2td.m3u8?auth_key=1722748006-fffbcfa879bdfb17533fc0d2708902ab-0-f0294769f5c0a1d59ebbb9b745c95f70
+CCTV16-奥林匹克,https://ayocndali.v.myalicdn.com/ayocnd/4kcctv16_2td.m3u8?auth_key=1722767747-fffbcfa879bdfb17533fc0d2708902ab-0-40ffeeeb13715c447e6a4adbc22f1861
 CCTV16-奥林匹克,http://124.205.11.246:91/live/CCTV16hd-8M/live.m3u8
 CCTV17-农业农村,http://124.205.11.203:91/live/CCTV17hd-8M/live.m3u8
 CCTV-4K,http://159.75.85.63:5679/cctv4k.php
