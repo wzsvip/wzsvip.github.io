@@ -1,5 +1,209 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="CCTV1-综合" tvg-logo="https://live.fanmingming.com/tv/CCTV1-综合.png" group-title="🇨🇳电视频道",CCTV1-综合
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024078203.m3u8
+#EXTINF:-1 tvg-name="CCTV1-综合" tvg-logo="https://live.fanmingming.com/tv/CCTV1-综合.png" group-title="🇨🇳电视频道",CCTV1-综合
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024117403.m3u8
+#EXTINF:-1 tvg-name="CCTV2-财经" tvg-logo="https://live.fanmingming.com/tv/CCTV2-财经.png" group-title="🇨🇳电视频道",CCTV2-财经
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024075403.m3u8
+#EXTINF:-1 tvg-name="CCTV3-综艺" tvg-logo="https://live.fanmingming.com/tv/CCTV3-综艺.png" group-title="🇨🇳电视频道",CCTV3-综艺
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024068503.m3u8
+#EXTINF:-1 tvg-name="CCTV4-国际" tvg-logo="https://live.fanmingming.com/tv/CCTV4-国际.png" group-title="🇨🇳电视频道",CCTV4-国际
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024078303.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="🇨🇳电视频道",CCTV-4K
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024081303.m3u8
+#EXTINF:-1 tvg-name="CCTV5-体育" tvg-logo="https://live.fanmingming.com/tv/CCTV5-体育.png" group-title="🇨🇳电视频道",CCTV5-体育
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024078403.m3u8
+#EXTINF:-1 tvg-name="CCTV5+体育赛事" tvg-logo="https://live.fanmingming.com/tv/CCTV5+体育赛事.png" group-title="🇨🇳电视频道",CCTV5+体育赛事
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024078003.m3u8
+#EXTINF:-1 tvg-name="CCTV7-军农" tvg-logo="https://live.fanmingming.com/tv/CCTV7-军农.png" group-title="🇨🇳电视频道",CCTV7-军农
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024072003.m3u8
+#EXTINF:-1 tvg-name="CCTV8-电视剧" tvg-logo="https://live.fanmingming.com/tv/CCTV8-电视剧.png" group-title="🇨🇳电视频道",CCTV8-电视剧
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024078503.m3u8
+#EXTINF:-1 tvg-name="CCTV9-纪录" tvg-logo="https://live.fanmingming.com/tv/CCTV9-纪录.png" group-title="🇨🇳电视频道",CCTV9-纪录
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024078603.m3u8
+#EXTINF:-1 tvg-name="CCTV10-科教" tvg-logo="https://live.fanmingming.com/tv/CCTV10-科教.png" group-title="🇨🇳电视频道",CCTV10-科教
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024078703.m3u8
+#EXTINF:-1 tvg-name="CCTV11-戏曲" tvg-logo="https://live.fanmingming.com/tv/CCTV11-戏曲.png" group-title="🇨🇳电视频道",CCTV11-戏曲
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024078803.m3u8
+#EXTINF:-1 tvg-name="CCTV12-社会与法" tvg-logo="https://live.fanmingming.com/tv/CCTV12-社会与法.png" group-title="🇨🇳电视频道",CCTV12-社会与法
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024078903.m3u8
+#EXTINF:-1 tvg-name="CCTV13-新闻" tvg-logo="https://live.fanmingming.com/tv/CCTV13-新闻.png" group-title="🇨🇳电视频道",CCTV13-新闻
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024079003.m3u8
+#EXTINF:-1 tvg-name="CCTV13-新闻" tvg-logo="https://live.fanmingming.com/tv/CCTV13-新闻.png" group-title="🇨🇳电视频道",CCTV13-新闻
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024123103.m3u8
+#EXTINF:-1 tvg-name="CCTV14-少儿" tvg-logo="https://live.fanmingming.com/tv/CCTV14-少儿.png" group-title="🇨🇳电视频道",CCTV14-少儿
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024079103.m3u8
+#EXTINF:-1 tvg-name="CCTV15-音乐" tvg-logo="https://live.fanmingming.com/tv/CCTV15-音乐.png" group-title="🇨🇳电视频道",CCTV15-音乐
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024079203.m3u8
+#EXTINF:-1 tvg-name="CCTV16-奥林匹克" tvg-logo="https://live.fanmingming.com/tv/CCTV16-奥林匹克.png" group-title="🇨🇳电视频道",CCTV16-奥林匹克
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024079303.m3u8
+#EXTINF:-1 tvg-name="CCTV16-奥林匹克" tvg-logo="https://live.fanmingming.com/tv/CCTV16-奥林匹克.png" group-title="🇨🇳电视频道",CCTV16-奥林匹克
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024083703.m3u8
+#EXTINF:-1 tvg-name="CCTV17-农业农村" tvg-logo="https://live.fanmingming.com/tv/CCTV17-农业农村.png" group-title="🇨🇳电视频道",CCTV17-农业农村
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024079503.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="🇨🇳电视频道",安徽卫视
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024171403.m3u8
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="🇨🇳电视频道",北京卫视
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024052703.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="🇨🇳电视频道",东方卫视
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024054503.m3u8
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="🇨🇳电视频道",东南卫视
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024061503.m3u8
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="🇨🇳电视频道",广东卫视
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024060903.m3u8
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="🇨🇳电视频道",广西卫视
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024060703.m3u8
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="🇨🇳电视频道",海南卫视
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024055603.m3u8
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="🇨🇳电视频道",河北卫视
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024171503.m3u8
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="🇨🇳电视频道",河南卫视
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024059703.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="🇨🇳电视频道",黑龙江卫视
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024061003.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="🇨🇳电视频道",湖北卫视
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024171203.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="🇨🇳电视频道",湖南卫视
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024054803.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="🇨🇳电视频道",江苏卫视
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024171103.m3u8
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="🇨🇳电视频道",江西卫视
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024061703.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="🇨🇳电视频道",辽宁卫视
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024171303.m3u8
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="🇨🇳电视频道",山东卫视
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024171603.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="🇨🇳电视频道",深圳卫视
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024061303.m3u8
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="🇨🇳电视频道",四川卫视
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024061403.m3u8
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="🇨🇳电视频道",天津卫视
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2019927003.m3u8
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="🇨🇳电视频道",新疆卫视
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2019927403.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="🇨🇳电视频道",浙江卫视
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024054703.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="🇨🇳电视频道",重庆卫视
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024061103.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="🇨🇳电视频道",江苏卫视
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024171103.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="🇨🇳电视频道",浙江卫视
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024054703.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="🇨🇳电视频道",湖南卫视
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024054803.m3u8
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="🇨🇳电视频道",北京卫视
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024052703.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="🇨🇳电视频道",东方卫视
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024054503.m3u8
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="🇨🇳电视频道",山东卫视
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024171603.m3u8
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="🇨🇳电视频道",天津卫视
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2019927003.m3u8
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="🇨🇳电视频道",四川卫视
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024061403.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="🇨🇳电视频道",安徽卫视
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024171403.m3u8
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="🇨🇳电视频道",江西卫视
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024061703.m3u8
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="🇨🇳电视频道",东南卫视
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024061503.m3u8
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="🇨🇳电视频道",河北卫视
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024171503.m3u8
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="🇨🇳电视频道",河南卫视
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024059703.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="🇨🇳电视频道",重庆卫视
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024061103.m3u8
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="🇨🇳电视频道",海南卫视
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024055603.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="🇨🇳电视频道",深圳卫视
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024061303.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="🇨🇳电视频道",湖北卫视
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024171203.m3u8
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="🇨🇳电视频道",贵州卫视
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024061603.m3u8
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="🇨🇳电视频道",新疆卫视
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2019927403.m3u8
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="🇨🇳电视频道",广西卫视
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024060703.m3u8
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="🇨🇳电视频道",广东卫视
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024060903.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="🇨🇳电视频道",辽宁卫视
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024171303.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="🇨🇳电视频道",黑龙江卫视
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024061003.m3u8
+#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.com/tv/CCTV第一剧场.png" group-title="🇨🇳电视频道",CCTV第一剧场
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024171803.m3u8
+#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://live.fanmingming.com/tv/CCTV电视指南.png" group-title="🇨🇳电视频道",CCTV电视指南
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024172503.m3u8
+#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.com/tv/CCTV风云剧场.png" group-title="🇨🇳电视频道",CCTV风云剧场
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024171703.m3u8
+#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.com/tv/CCTV风云音乐.png" group-title="🇨🇳电视频道",CCTV风云音乐
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024163303.m3u8
+#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.com/tv/CCTV风云足球.png" group-title="🇨🇳电视频道",CCTV风云足球
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
+#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/CCTV高尔夫网球.png" group-title="🇨🇳电视频道",CCTV高尔夫网球
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024166203.m3u8
+#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/CCTV怀旧剧场.png" group-title="🇨🇳电视频道",CCTV怀旧剧场
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024171903.m3u8
+#EXTINF:-1 tvg-name="CCTV女性时尚" tvg-logo="https://live.fanmingming.com/tv/CCTV女性时尚.png" group-title="🇨🇳电视频道",CCTV女性时尚
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024172203.m3u8
+#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.com/tv/CCTV世界地理.png" group-title="🇨🇳电视频道",CCTV世界地理
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024172003.m3u8
+#EXTINF:-1 tvg-name="CCTV卫生健康" tvg-logo="https://live.fanmingming.com/tv/CCTV卫生健康.png" group-title="🇨🇳电视频道",CCTV卫生健康
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024165203.m3u8
+#EXTINF:-1 tvg-name="CCTV文化精品" tvg-logo="https://live.fanmingming.com/tv/CCTV文化精品.png" group-title="🇨🇳电视频道",CCTV文化精品
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024172303.m3u8
+#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://live.fanmingming.com/tv/CCTV央视台球.png" group-title="🇨🇳电视频道",CCTV央视台球
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024172403.m3u8
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="🇨🇳电视频道",CGTN
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024181703.m3u8
+#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="🇨🇳电视频道",世界地理
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024172003.m3u8
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="🇨🇳电视频道",央视台球
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024172403.m3u8
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="🇨🇳电视频道",风云音乐
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024163303.m3u8
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="🇨🇳电视频道",风云剧场
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024171703.m3u8
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="🇨🇳电视频道",第一剧场
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024171803.m3u8
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="🇨🇳电视频道",怀旧剧场
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024171903.m3u8
+#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="🇨🇳电视频道",兵器科技
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024172103.m3u8
+#EXTINF:-1 tvg-name="卫生健康" tvg-logo="https://live.fanmingming.com/tv/卫生健康.png" group-title="🇨🇳电视频道",卫生健康
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024165203.m3u8
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png" group-title="🇨🇳电视频道",女性时尚
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024172203.m3u8
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="🇨🇳电视频道",风云足球
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
+#EXTINF:-1 tvg-name="央视文化" tvg-logo="https://live.fanmingming.com/tv/央视文化.png" group-title="🇨🇳电视频道",央视文化
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024172303.m3u8
+#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="🇨🇳电视频道",电视指南
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024172503.m3u8
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/高尔夫网球.png" group-title="🇨🇳电视频道",高尔夫网球
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024166203.m3u8
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="🇨🇳电视频道",CGTN
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024181703.m3u8
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="🇨🇳电视频道",CGTN纪录
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024182303.m3u8
+#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="🇨🇳电视频道",CGTN西语
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024182103.m3u8
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="🇨🇳电视频道",CGTN法语
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024181803.m3u8
+#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="🇨🇳电视频道",CGTN阿语
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024182003.m3u8
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="🇨🇳电视频道",CGTN俄语
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024181903.m3u8
+#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿拉伯语.png" group-title="🇨🇳电视频道",CGTN阿拉伯语
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024182003.m3u8
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="🇨🇳电视频道",CGTN法语
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024181803.m3u8
+#EXTINF:-1 tvg-name="CGTN记录" tvg-logo="https://live.fanmingming.com/tv/CGTN记录.png" group-title="🇨🇳电视频道",CGTN记录
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024182303.m3u8
+#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://live.fanmingming.com/tv/CGTN西班牙语.png" group-title="🇨🇳电视频道",CGTN西班牙语
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024182103.m3u8
+#EXTINF:-1 tvg-name="CCTV1-综合" tvg-logo="https://live.fanmingming.com/tv/CCTV1-综合.png" group-title="🇨🇳电视频道",CCTV1-综合
 https://pan.nange6.cn:51888/pan/view.php/7ddebbf377bc641ce083d71957c0d474.php?id=cctv1
 #EXTINF:-1 tvg-name="CCTV2-财经" tvg-logo="https://live.fanmingming.com/tv/CCTV2-财经.png" group-title="🇨🇳电视频道",CCTV2-财经
 https://pan.nange6.cn:51888/pan/view.php/7ddebbf377bc641ce083d71957c0d474.php?id=cctv2
