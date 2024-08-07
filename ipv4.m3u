@@ -15,6 +15,8 @@ http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024081303.m3u8
 http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024078403.m3u8
 #EXTINF:-1 tvg-name="CCTV5+体育赛事" tvg-logo="https://live.fanmingming.com/tv/CCTV5+体育赛事.png" group-title="🇨🇳电视频道",CCTV5+体育赛事
 http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024078003.m3u8
+#EXTINF:-1 tvg-name="CCTV6-电影" tvg-logo="https://live.fanmingming.com/tv/CCTV6-电影.png" group-title="🇨🇳电视频道",CCTV6-电影
+http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024086203.m3u8
 #EXTINF:-1 tvg-name="CCTV7-军农" tvg-logo="https://live.fanmingming.com/tv/CCTV7-军农.png" group-title="🇨🇳电视频道",CCTV7-军农
 http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024072003.m3u8
 #EXTINF:-1 tvg-name="CCTV8-电视剧" tvg-logo="https://live.fanmingming.com/tv/CCTV8-电视剧.png" group-title="🇨🇳电视频道",CCTV8-电视剧
