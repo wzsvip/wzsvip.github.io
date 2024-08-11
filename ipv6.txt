@@ -496,6 +496,8 @@ YY歐美科幻,https://live.metshop.top/yy/1382747628?quality=4
 YY怀旧电影,https://live.metshop.top/yy/1382627144?quality=4
 YY恐怖電影,https://live.metshop.top/yy/1382735543?quality=4
 大话西游,https://live.metshop.top/yy/1382851590?quality=4
+大话西游,http://xiqu.wuzhij.com/?/mv/%E5%A4%A7%E8%AF%9D%E8%A5%BF%E6%B8%B8%E4%B9%8B%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92.mp4
+大话西游2,http://xiqu.wuzhij.com/?/mv/%E5%A4%A7%E8%AF%9D%E8%A5%BF%E6%B8%B8%E4%B9%8B%E5%A4%A7%E5%9C%A3%E5%A8%B6%E4%BA%B2.1995.%E5%8A%A0%E9%95%BF%E7%89%88.WEB-DL.1080P.%E5%9B%BD%E8%AF%AD.mp4
 大话西游,http://wuzhij.top/?/mv/%E5%A4%A7%E8%AF%9D%E8%A5%BF%E6%B8%B8%E4%B9%8B%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92.mp4
 大话西游2,http://wuzhij.top/?/mv/%E5%A4%A7%E8%AF%9D%E8%A5%BF%E6%B8%B8%E4%B9%8B%E5%A4%A7%E5%9C%A3%E5%A8%B6%E4%BA%B2.1995.%E5%8A%A0%E9%95%BF%E7%89%88.WEB-DL.1080P.%E5%9B%BD%E8%AF%AD.mp4
 大话西游2,https://live.metshop.top/yy/1382736910?quality=4
@@ -1645,6 +1647,27 @@ YY恐怖電影,http://cfss.cc/cdn/yy/1382735543.flv
 桂河大桥,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b125a3edccb34637b336cb867e8a5d5d/850.m3u8
 
 🌠经典戏曲,#genre#
+豫剧-朝阳沟,http://xiqu.wuzhij.com/?/juji/%E8%B1%AB%E5%89%A7%20%E6%9C%9D%E9%98%B3%E6%B2%9F.mp4
+豫剧-我爱我爹,http://xiqu.wuzhij.com/?/juji/%E8%B1%AB%E5%89%A7%E7%94%B5%E5%BD%B1%E3%80%8A%E6%88%91%E7%88%B1%E6%88%91%E7%88%B9%E3%80%8B%E4%BB%BB%E5%AE%8F%E6%81%A9_%E7%8E%8B%E5%B8%8C%E7%8E%B2%E4%B8%BB%E6%BC%94.mp4
+豫剧-倒霉大叔的婚事,http://xiqu.wuzhij.com/?/juji/%E8%B1%AB%E5%89%A7%20%E5%80%92%E9%9C%89%E5%A4%A7%E5%8F%94%E7%9A%84%E5%A9%9A%E4%BA%8B.mp4
+豫剧-倔公公犟媳妇,http://xiqu.wuzhij.com/?/juji/%E5%80%94%E5%85%AC%E5%85%AC%E7%8A%9F%E5%AA%B3%E5%A6%87%EF%BC%881985%EF%BC%89%E8%B1%AB%E5%89%A7.mp4
+豫剧-01七品芝麻官,http://xiqu.wuzhij.com/?/juji/%E8%B1%AB%E5%89%A7%E3%80%8A%E4%B8%83%E5%93%81%E8%8A%9D%E9%BA%BB%E5%AE%98%E3%80%8B%E5%9B%BD%E8%AF%AD%E6%97%A0%E5%AD%97.1080P.mp4
+豫剧-02七品知县卖红薯,http://xiqu.wuzhij.com/?/juji/%E4%B8%83%E5%93%81%E7%9F%A5%E5%8E%BF%E5%8D%96%E7%BA%A2%E8%96%AF.2004.mp4
+豫剧-卷席筒01,http://xiqu.wuzhij.com/?/juji/%E3%80%8A%E5%8D%B7%E5%B8%AD%E7%AD%92%E3%80%8B%EF%BC%88%E8%A5%BF%E5%BD%B11979%EF%BC%89WEB-DL.x264.mkv
+豫剧-卷席筒02,http://xiqu.wuzhij.com/?/juji/%E6%9B%B2%E5%89%A7%E3%80%8A%E5%8D%B7%E5%B8%AD%E7%AD%92%E7%BB%AD%E9%9B%86%E3%80%8B%E8%A5%BF%E5%BD%B11985%20%E6%B5%B7%E8%BF%9E%E6%B1%A0%E4%B8%BB%E6%BC%94%28720P_HD%29.mp4
+豫剧-义薄云天,http://xiqu.wuzhij.com/?/juji/%E8%B1%AB%E5%89%A7%20%E4%B9%89%E8%96%84%E4%BA%91%E5%A4%A9.mp4
+豫剧-陈三两,http://xiqu.wuzhij.com/?/juji/%E8%B1%AB%E5%89%A7%E3%80%8A%E9%99%88%E4%B8%89%E4%B8%A4%E3%80%8B%E6%B2%B3%E5%8D%97%E7%9C%81%E8%B1%AB%E5%89%A7%E9%99%A2%E4%BA%8C%E5%9B%A2%E9%82%B5%E6%96%87%E9%9C%9E%E4%B8%BB%E6%BC%94%28720P_HD%29.mp4
+豫剧-三拂袖,http://xiqu.wuzhij.com/?/juji/%E8%B1%AB%E5%89%A7%E3%80%8A%E4%B8%89%E6%8B%82%E8%A2%96%E3%80%8B%E9%87%91%E4%B8%BD%E4%B8%BD%20%E9%A5%B0%20%E8%92%8B%E7%90%B4%E5%BF%83_%E8%B5%B5%E5%B2%A9%20%E9%A5%B0%20%E9%83%91%E5%AE%9A%E8%BF%9C%20%28720P_HD%29.mp4
+豫剧-五世请缨,http://xiqu.wuzhij.com/?/juji/%E8%B1%AB%E5%89%A7%20%E4%BA%94%E4%B8%96%E8%AF%B7%E7%BC%A8.2010.mp4
+豫剧-花木兰,http://xiqu.wuzhij.com/?/juji/%E3%80%8A%E8%8A%B1%E6%9C%A8%E5%85%B0%E3%80%8B%EF%BC%88%E9%95%BF%E5%BD%B11956%EF%BC%89DVDRip.x264.mkv
+京剧-红灯记,http://xiqu.wuzhij.com/?/juji/%E3%80%8A%E7%BA%A2%E7%81%AF%E8%AE%B0%E3%80%8B%EF%BC%88%E5%85%AB%E4%B8%801970%EF%BC%89DVDRip.x264.mkv
+京剧-穆桂英挂帅,http://xiqu.wuzhij.com/?/juji/%E4%BA%AC%E5%89%A7%E3%80%8A%E7%A9%86%E6%A1%82%E8%8B%B1%E6%8C%82%E5%B8%85%E3%80%8BMu.Guiying.Command.2017.WEB-DL.1080P.%E5%9B%BD%E8%AF%AD%E4%B8%AD%E5%AD%97.mp4
+京剧-秦香莲,http://xiqu.wuzhij.com/?/juji/%E4%BA%AC%E5%89%A7%E3%80%8A%E7%A7%A6%E9%A6%99%E8%8E%B2%E3%80%8B2014.WEB-DL.1080P.%E5%9B%BD%E8%AF%AD.%E4%B8%AD%E8%8B%B1%E5%AD%97%E5%B9%95.mp4
+京剧-白蛇传,http://xiqu.wuzhij.com/?/juji/%E7%99%BD%E8%9B%87%E4%BC%A0%20%5B1980.%E4%BA%AC%E5%89%A7%5D%20%E4%B8%BB%E6%BC%94%20%E6%9D%8E%E7%82%B3%E6%B7%91.%E6%96%B9%E5%B0%8F%E4%BA%9A.%E8%8B%8F%E7%9B%9B%E4%B9%89.%E5%9B%BD%E8%AF%AD%E4%B8%AD%E5%AD%97.BesTV..mp4
+京剧-红楼二尤,http://xiqu.wuzhij.com/?/juji/%E4%BA%AC%E5%89%A7%20%E7%BA%A2%E6%A5%BC%E4%BA%8C%E5%B0%A4.The.You.Sisters.of.the.Red.Chamber.2021.1080p.WEB-DL.H265.DDP5.1-%E5%9B%BD%E8%AF%AD%E4%B8%AD%E5%AD%97.mkv
+京剧-文姬归汉,http://xiqu.wuzhij.com/?/juji/%E4%BA%AC%E5%89%A7%20%E6%96%87%E5%A7%AC%E5%BD%92%E6%B1%89.Cai.Wenji.Returns.to.Her.Homeland.2021.1080p.WEB-DL.H265.DDP5.1-%E5%9B%BD%E8%AF%AD%E4%B8%AD%E5%AD%97.mkv
+京剧-四郎探母,http://xiqu.wuzhij.com/?/juji/%E4%BA%AC%E5%89%A7%20%E5%9B%9B%E9%83%8E%E6%8E%A2%E6%AF%8D.Silang.Visits.His.Mother.2021.1080p.WEB-DL.H264.AAC-%E5%9B%BD%E8%AF%AD%E4%B8%AD%E5%AD%97.mp4
+曲剧-寇准背靴,http://xiqu.wuzhij.com/?/juji/%E6%9B%B2%E5%89%A7-%E5%AF%87%E5%87%86%E8%83%8C%E9%9D%B4.mp4
 豫剧-朝阳沟,http://wuzhij.top/?/juji/%E8%B1%AB%E5%89%A7%20%E6%9C%9D%E9%98%B3%E6%B2%9F.mp4
 豫剧-我爱我爹,http://wuzhij.top/?/juji/%E8%B1%AB%E5%89%A7%E7%94%B5%E5%BD%B1%E3%80%8A%E6%88%91%E7%88%B1%E6%88%91%E7%88%B9%E3%80%8B%E4%BB%BB%E5%AE%8F%E6%81%A9_%E7%8E%8B%E5%B8%8C%E7%8E%B2%E4%B8%BB%E6%BC%94.mp4
 豫剧-倒霉大叔的婚事,http://wuzhij.top/?/juji/%E8%B1%AB%E5%89%A7%20%E5%80%92%E9%9C%89%E5%A4%A7%E5%8F%94%E7%9A%84%E5%A9%9A%E4%BA%8B.mp4
@@ -2210,6 +2233,10 @@ yMG新闻,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 春晚2024,https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
 
 🎼MTV频道,#genre#
+刘德华1999演唱会,http://xiqu.wuzhij.com/?/concert/Huazi1999Concert.mp4
+刘德华2001演唱会,http://xiqu.wuzhij.com/?/concert/Huazi2001Concert.mp4
+刘德华2004演唱会,http://xiqu.wuzhij.com/?/concert/Huazi2004Concert.mp4
+刘德华2008演唱会,http://xiqu.wuzhij.com/?/concert/Huazi2008Concert.mp4
 刘德华1999演唱会,http://wuzhij.top/?/concert/Huazi1999Concert.mp4
 刘德华2001演唱会,http://wuzhij.top/?/concert/Huazi2001Concert.mp4
 刘德华2004演唱会,http://wuzhij.top/?/concert/Huazi2004Concert.mp4
