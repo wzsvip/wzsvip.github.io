@@ -9,14 +9,29 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
+    
     - name: Update EPG Files
       run: |
         rm -f e.xml && wget https://epg.112114.xyz/pp.xml -O e.xml
         rm -f e.xml.gz && wget http://epg.51zmt.top:8000/e.xml.gz -O e.xml.gz
+        
+        # Convert e.xml to e.json
+        apt-get update && apt-get install -y python3 python3-pip
+        pip3 install xmltodict
+        python3 -c "
+import xmltodict
+import json
+with open('e.xml') as xml_file:
+    data_dict = xmltodict.parse(xml_file.read())
+    with open('e.json', 'w') as json_file:
+        json.dump(data_dict, json_file, indent=4)
+"
+
         git config --local user.name "github-actions[bot]"
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git add e.xml e.xml.gz
+        git add e.xml e.xml.gz e.json
         git commit -m "EPG Automatic Update."
+
     - name: Push changes
       run: git push origin main
       env:
