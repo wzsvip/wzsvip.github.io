@@ -16,8 +16,6 @@ jobs:
         rm -f e.xml.gz && wget http://epg.51zmt.top:8000/e.xml.gz -O e.xml.gz
         
         # Convert e.xml to e.json
-        -  name: Install py dependencies
-  run: pip install -r requirements.txt
         apt-get update && apt-get install -y python3 python3-pip
         pip3 install xmltodict
         python3 -c "import xmltodict import json
