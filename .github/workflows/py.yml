@@ -1,2 +1,2 @@
-- name: Install dependencies
+  name: Install py dependencies
   run: pip install -r requirements.txt
