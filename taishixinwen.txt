@@ -2,5 +2,5 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-taishixinwen LIVE | | | |
-https://www.youtube.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww
+taishixinwen LIVE ||||
+https://www.youtube.com/watch?v=xL0ch83RAK8
