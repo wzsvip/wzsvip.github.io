@@ -24,9 +24,9 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v4
 
-      # Runs a single command using the runners shell
-      #- name: Run a one-line script
-      #  run: echo testing!
+      # Set environment variables
+      - name: Set up environment variables
+        run: echo "GITHUB_TOKEN=${{ secrets.MY_GITHUB_TOKEN }}" >> $GITHUB_ENV
 
       # Runs a set of commands using the runners shell 
       - name: config
@@ -34,7 +34,6 @@ jobs:
           git pull
           git config --global user.email "wuzhij@mail.com"
           git config --global user.name "wzsvip"
-      
       
       - name: Main
         run: |
