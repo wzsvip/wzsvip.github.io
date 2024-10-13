@@ -1,47 +1,49 @@
+#!/usr/bin/env python3
+
 import requests
 import os
 import sys
 
 windows = False
-if 'win' in sys.platform:
+if "win" in sys.platform:
     windows = True
 
 def grab(url):
-    response = requests.get(url, timeout=15).text
-    if '.m3u8' not in response:
-        if windows:
-            print('https://wzi.me/?/mv/playlist.mp4')
-            return
-        os.system(f'curl "{url}" > temp.txt')
-        response = ''.join(open('temp.txt').readlines())
-        if '.m3u8' not in response:
-            print('https://wzi.me/?/mv/playlist.mp4')
-            return
-    end = response.find('.m3u8') + 5
+    response = s.get(url, timeout=15).text
+    if ".m3u8" not in response:
+        response = requests.get(url).text
+        if ".m3u8" not in response:
+            if windows:
+                return
+            os.system(f"curl '{url}' > temp.txt")
+            response = "".join(open("temp.txt").readlines())
+            if ".m3u8" not in response:
+                return
+    end = response.find(".m3u8") + 5
     tuner = 100
     while True:
-        if 'https://' in response[end-tuner : end]:
+        if "https://" in response[end-tuner : end]:
             link = response[end-tuner : end]
-            start = link.find('https://')
-            end = link.find('.m3u8') + 5
+            start = link.find("https://")
+            end = link.find(".m3u8") + 5
             break
         else:
             tuner += 5
-    streams = requests.get(link[start:end]).text.split('#EXT')
+    streams = s.get(link[start:end]).text.split("#EXT")
     hd = streams[-1].strip()
-    st = hd.find('http')
+    st = hd.find("http")
     print(hd[st:].strip())
 
-print('#EXTM3U')
-print('#EXT-X-VERSION:3')
-print('#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000')
-with open('../taishixinwen.txt') as f:
+print("#EXTM3U")
+print("#EXT-X-STREAM-INF:BANDWIDTH=10000000")
+s = requests.Session()
+with open("../taishixinwen.txt") as f:
     for line in f:
         line = line.strip()
-        if not line or line.startswith('~~'):
+        if not line or line.startswith("~~"):
             continue
-        if not line.startswith('https:'):
-            line = line.split('|')
+        if not line.startswith("https:"):
+            line = line.split("|")
             ch_name = line[0].strip()
             grp_title = line[1].strip().title()
             tvg_logo = line[2].strip()
@@ -49,6 +51,6 @@ with open('../taishixinwen.txt') as f:
         else:
             grab(line)
 
-if 'temp.txt' in os.listdir():
-    os.system('rm temp.txt')
-    os.system('rm watch*')
+if "temp.txt" in os.listdir():
+    os.system("rm temp.txt")
+    os.system("rm watch*")
