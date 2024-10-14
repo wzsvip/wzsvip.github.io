@@ -25,5 +25,5 @@ for name, url in name_url_pairs:
 # 按名称顺序保存结果到wz.txt文件中
 with open('wz.txt', 'w') as f:
     for name, m3u8_link in sorted(media_links):
-        f.write(f'{name},{m3u8_link}
+        f.write(f'{name}{m3u8_link}
 ')
