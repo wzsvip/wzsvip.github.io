@@ -37668,6 +37668,9 @@
 	<programme channel="咪咕足球" start="20241014141500 +0800" stop="20241014151500 +0800">
 		<title lang="zh">村BA</title>
 	</programme>
+	<programme channel="咪咕足球" start="20241014152000 +0800" stop="20241014162000 +0800">
+		<title lang="zh">超级三对三-2024超三联赛</title>
+	</programme>
 	<channel id="唯心电视">
 		<display-name lang="zh">唯心电视</display-name>
 	</channel>
@@ -67269,6 +67272,9 @@
 	<programme channel="纯享4K" start="20241014144600 +0800" stop="20241014151600 +0800">
 		<title lang="zh">村庄故事4K 寻根右龙</title>
 	</programme>
+	<programme channel="纯享4K" start="20241014151600 +0800" stop="20241014154600 +0800">
+		<title lang="zh">村庄故事4K 山庄玉露香</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -78951,6 +78957,9 @@
 	<programme channel="newtv超级电视剧" start="20241014142600 +0800" stop="20241014151200 +0800">
 		<title lang="zh">58_那年花开月正圆</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20241014151200 +0800" stop="20241014155700 +0800">
+		<title lang="zh">59_那年花开月正圆</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -79067,6 +79076,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20241014143000 +0800" stop="20241014150800 +0800">
 		<title lang="zh">我的家乡菜b7皖北篇</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20241014150800 +0800" stop="20241014155500 +0800">
+		<title lang="zh">千城百味（四十七）</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -79590,6 +79602,9 @@
 	<programme channel="newtv军事评论" start="20241014145300 +0800" stop="20241014151500 +0800">
 		<title lang="zh">开辟第二战线</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241014151500 +0800" stop="20241014153600 +0800">
+		<title lang="zh">二战西线反击战 卡昂之战</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -79791,6 +79806,9 @@
 	<programme channel="newtv金牌综艺" start="20241014144000 +0800" stop="20241014151900 +0800">
 		<title lang="zh">钓台华图一号九龙壁纪念酒-渠道（右）</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20241014151900 +0800" stop="20241014173000 +0800">
+		<title lang="zh">恰好是少年</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -79820,6 +79838,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20241014134000 +0800" stop="20241014150300 +0800">
 		<title lang="zh">2024中国网球公开赛女单第2轮：拉希莫娃VS郑钦文</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20241014150300 +0800" stop="20241014171400 +0800">
+		<title lang="zh">2024中国网球公开赛男单第2轮：辛纳VS萨菲乌林</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
